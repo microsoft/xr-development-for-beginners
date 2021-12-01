@@ -1,7 +1,7 @@
 # Introduction to XR Development
 
 > [!IMPORTANT]
-> Authors, please review the [Guidance](Guidance.md) file below before contributing to this project.
+> Authors, please review the [Author Guidance](Author_Guidance.md) file below before contributing to this project.
 
 Azure Cloud Advocates at Microsoft are pleased to offer a <#>-week, <#>-lesson curriculum all about Extended Reality (XR) Development. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
