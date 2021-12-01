@@ -18,7 +18,6 @@ Within each lesson subfolder are the following:
 - A `Readme.md` file which contains the actual text for the lesson
 - A `assignment.md` file which contains the assignment for the lesson (if applicable).
 
-> [!NOTE]
 > Refer to the [Unit Sample](/Unit-Sample/README.md) for a sample of this structure.
 
 ## Getting Started with Visual Studio Code
@@ -34,7 +33,6 @@ If you are using Visual Studio Code, consider installing both the [Docs Authorin
 - For image placeholders, use `<IMAGE>`
 - For all other placeholders not specified above, use `TBD`
 
-
 ## Accessibility and Inclusive Language
 
 Our Microsoft Docs and Learn contributot guides follow the guidance provided within [Accessibility tool and references](https://review.docs.microsoft.com/en-us/help/contribute/contribute-accessibility-guidelines?branch=main). Since this is a 1st-party project within a Microsoft owned repository, we will adhere to the aforementioned guidelines.
@@ -45,7 +43,6 @@ If your contribution includes an image, you **must** include alt-text. The Docs 
 :::image type="content" source="{source}" alt-text="{alt-text}":::
 ```
 
-> [!TIP]
 > You can insert images with the Docs Authoring Pack via **Alt+M** > **Image**. Follow the prompts to insert the image and provide alt-text. You'll be able to edit the alt-text in the Markdown file itself.
 
 ## Need Help?
