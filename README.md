@@ -1,36 +1,7 @@
-# NOTE FOR AUTHORS
+# Introduction to XR Development
 
 > [!IMPORTANT]
-> Authors, please review the guidance below before contributing to this project.
-
-First and foremost, thank you for volunteering to assist with this project! This is currently a private repo that will eventually transition to a pubic repo -- pending the curriculum being completed. This repo structure is consistent with and follows existing curriculum published by Cloud Advocates. For a completed example, visit [aka.ms/webdev-beginners](https://aka.ms/webdev-beginners).
-
-**Getting Started with Visual Studio Code**
-
-We suggest using [Visual Studio Code](https://code.visualstudio.com) for authoring. You can clone the repository once in the editor using the Command Palette (Ctrl/Cmd+Shift+P) command **Git: Clone**. Enter the link to the repository `https://github.com/microsoft/intro-to-xr-development.git` and follow the remaining prompts to clone the repository locally.
-
-If you are using Visual Studio Code, consider installing both the [Docs Authoring Pack](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack) and [GitHub  Pull Request and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) extensions. Both extensions will significantly help with the authoring process. Review the extension documentation to learn more.
-
-**Guidelines**
-
-- Fork this repo and create a new branch for your respective lesson. Branches follow the naming convention: `<last name>-unit-<unit number>` (ex: `speight-unit-1`)
-- For link placeholders, use `<LINK>` (ex: `[Microsoft](<LINK>)`)
-- For number placeholders, use `<#>` (ex: `There are <#> lessons.`)
-- For image placeholders, use `<IMAGE>`
-- For all other placeholders not specified above, use `TBD`
-- Avoid using the word ` you`
-- All images **must** include alt-text
-- Unsure if your
-
-**Accessibility and Inclusive Language**
-
-Our Microsoft Docs and Learn contributot guides follow the guidance provided within [Accessibility tool and references](https://review.docs.microsoft.com/en-us/help/contribute/contribute-accessibility-guidelines?branch=main). Since this is a 1st-party project within a Microsoft owned repository, we will adhere to the aforementioned guidelines.
-
-**Need Help?**
-
-If you have any questions, please reach out to **April Speight (apspeigh)** and **Gustavo Cordido (gcordido)**.
-
-# Introduction to XR Development
+> Authors, please review the [Guidance](Guidance.md) file below before contributing to this project.
 
 Azure Cloud Advocates at Microsoft are pleased to offer a <#>-week, <#>-lesson curriculum all about Extended Reality (XR) Development. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
