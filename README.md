@@ -1,14 +1,70 @@
-# Project
+# Introduction to XR Development
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+> [!IMPORTANT]
+> Authors, please review the [Author Guidance](Author_Guidance.md) file below before contributing to this project.
 
-As the maintainer of this project, please make a few updates:
+Azure Cloud Advocates at Microsoft are pleased to offer a <#>-week, <#>-lesson curriculum all about Extended Reality (XR) Development. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Getting Started
+
+> **Teachers**: we have [included some suggestions](<LINK>) on how to use this curriculum.  We'd love your feedback [in our discussion forum](<LINK>)!
+
+> **Students**: to use this curriculum on your own, fork the entire repo and complete the exercises on your own, starting with a pre-lecture quiz.  Then read the lecture and complete the rest of the activities. Try to create the projects by comprehending the lessons rather than copying the sample solution provided; however, sample solutions are available in the /solutions folders in each project-oriented lesson. Another idea would be to form a study group with friends and go through the content together.
+
+## Pedagogy
+
+We have chosen two pedagogical tenets while building this curriculum: ensuring that it is project-based and that it includes frequent quizzes. By the end of this series, students will have learned basic principles of XR development, including core concepts, data privacy and safety, spatial design, interaction fundamentals, XR development in Unity, and more.
+
+In addition, a low-stakes quiz before a class sets the intention of the student towards learning a topic, while a second quiz after class ensures further retention. This curriculum was designed to be flexible and fun and can be taken in whole or in part. The projects start small and become increasingly complex by the end of the <#> week cycle.
+
+> Find our [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md),  [Translation](TRANSLATIONS.md) guidelines. We welcome your constructive feedback!
+
+## Each lesson includes:
+
+- Optional sketchnote (TBD)
+- Optional supplemental video (TBD)
+- Pre-lesson warmup quiz
+- Written lesson
+- For project-based lessons, step-by-step guides on how to build the project
+- Knowledge checks
+- A challenge
+- Supplemental reading
+- Assignment
+- Post-lesson quiz
+
+> **A note about quizzes**: All quizzes are contained [in this app](<LINK>), for 40 total quizzes of three questions each. They are linked from within the lessons, but the quiz app can be run locally; follow the instruction in the `quiz-app` folder. They are gradually being localized.
+
+## Lessons
+
+| Lesson Number | Topic | Lesson Grouping | Learning Objectives | Linked Lesson | Author |
+| :-----------: | :----------------------------------------: | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :----: |
+| 01 | TBD | TBD | TBD | TBD | TBD|
+| 02 | TBD | TBD | TBD | TBD | TBD|
+| 03 | TBD | TBD | TBD | TBD | TBD|
+| 04 | TBD | TBD | TBD | TBD | TBD|
+| 05 | TBD | TBD | TBD | TBD | TBD|
+| 06 | TBD | TBD | TBD | TBD | TBD|
+| 07 | TBD | TBD | TBD | TBD | TBD|
+| 08 | TBD | TBD | TBD | TBD | TBD|
+| 09 | TBD | TBD | TBD | TBD | TBD|
+| 10 | TBD | TBD | TBD | TBD | TBD|
+| 11 | TBD | TBD | TBD | TBD | TBD|
+| 12 | TBD | TBD | TBD | TBD | TBD|
+| 13 | TBD | TBD | TBD | TBD | TBD|
+| 14 | TBD | TBD | TBD | TBD | TBD|
+| 15 | TBD | TBD | TBD | TBD | TBD|
+| 16 | TBD | TBD | TBD | TBD | TBD|
+| 17 | TBD | TBD | TBD | TBD | TBD|
+| 18 | TBD | TBD | TBD | TBD | TBD|
+| 19 | TBD | TBD | TBD | TBD | TBD|
+| 20 | TBD | TBD | TBD | TBD | TBD|
+## Offline access
+
+You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine,  then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
+
+## PDF
+
+A PDF of all of the lessons can be found [here](<LINK>).
 
 ## Contributing
 
