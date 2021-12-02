@@ -1,6 +1,6 @@
 # Introduction to XR Development
 
-> Authors, please review the [Author Guidance](Author_Guidance.md) file below before contributing to this project.
+> Authors, please review the [Author Guidance](Author_Guidance.md) file before contributing to this project.
 
 Azure Cloud Advocates at Microsoft are pleased to offer a <#>-week, <#>-lesson curriculum all about Extended Reality (XR) Development. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
@@ -31,7 +31,7 @@ In addition, a low-stakes quiz before a class sets the intention of the student 
 - Assignment
 - Post-lesson quiz
 
-> **A note about quizzes**: All quizzes are contained [in this app](<LINK>), for 40 total quizzes of three questions each. They are linked from within the lessons, but the quiz app can be run locally; follow the instruction in the `quiz-app` folder. They are gradually being localized.
+> **A note about quizzes**: All quizzes are contained [in this app](<LINK>), for `<#>` total quizzes of five questions each. They are linked from within the lessons, but the quiz app can be run locally; follow the instruction in the `quiz-app` folder. They are gradually being localized.
 
 ## Lessons
 
