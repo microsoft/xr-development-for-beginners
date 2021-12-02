@@ -1,1 +1,1 @@
-# Guidance for Instructors
+# Suggestions for Instructors
