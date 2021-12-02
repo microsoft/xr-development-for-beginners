@@ -30,7 +30,7 @@
 
 *Text for the subsection.*
 
-## (Pre) Quiz Questions & Answers
+## Pre-Lecture Quiz Questions & Answers
 
 *NOTE: Use markdown to make the correct answer bold (ex: `**This is the syntax for marking the answer in bold.**`)*
 
@@ -94,7 +94,7 @@ Answer Choices:
 
 *Option 3*
 
-## (Post) Quiz Questions & Answers
+## Post-Lecture Quiz Questions & Answers
 
 **Question 1**
 
