@@ -14,9 +14,10 @@ Each unit has it's own folder. Within that folder are sub-folders for each lesso
 
 Within each lesson subfolder are the following:
 
-- An `Images` folder which contains all images for the lesson. The naming convention for images is `image_name.png` (for example: `april.png` or `april_speight.png`.)
-- A `Readme.md` file which contains the actual text for the lesson
-- A `assignment.md` file which contains the assignment for the lesson (if applicable).
+- An `Images` folder which contains all images for the lesson. The naming convention for images is `image_name.png` (for example: `april.png` or `april_speight.png`)
+- A `README.md` file which contains the actual text for the lesson
+- A `assignment.md` file which contains the assignment for the lesson (if applicable)
+- A `for-instructors.md` file which contains guidance for instructors to present the material
 
 > Refer to the [Unit Sample](/Unit-Sample/README.md) for a sample of this structure.
 
