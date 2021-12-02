@@ -6,7 +6,7 @@ Azure Cloud Advocates at Microsoft are pleased to offer a <#>-week, <#>-lesson c
 
 ## Getting Started
 
-**Instructors**: We have included suggestions on how to use this curriculum within the **`<TBD>`** folder of each lesson.  We'd love your feedback [in our discussion forum](<LINK>)!
+**Instructors**: We have included suggestions on how to present the material within this curriculum in the `instructors.md` file of each lesson.  We'd love your feedback [in our discussion forum](<LINK>)!
 
 **Students**: To use this curriculum on your own, fork the entire repo and complete the exercises on your own, starting with a pre-lecture quiz.  Then read the lecture and complete the rest of the activities. Try to create the projects by comprehending the lessons rather than copying the sample solution provided; however, sample solutions are available in the /solutions folders in each project-oriented lesson. Another idea would be to form a study group with friends and go through the content together.
 
