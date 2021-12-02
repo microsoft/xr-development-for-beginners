@@ -19,7 +19,7 @@ Within each lesson subfolder are the following:
 - A `assignment.md` file which contains the assignment for the lesson (if applicable)
 - A `for-instructors.md` file which contains guidance for instructors to present the material
 
-> Refer to the [Unit Sample](/Unit-Sample/README.md) for a sample of this structure.
+> Refer to the [Unit Sample](/Unit-Sample) for a sample of this structure.
 
 ## Getting Started with Visual Studio Code
 
