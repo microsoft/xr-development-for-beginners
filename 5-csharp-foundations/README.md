@@ -11,7 +11,7 @@
 ## Lessons
 
 1. [Lesson One](1-hello-world/README.md)
-2. [Lesson Two](2-variables-data-types/README.md)
+1. [Lesson Two](2-variables-data-types/README.md)
 1. [Lesson Three](3-classes-methods/README.md)
 1. [Lesson Four](4-making-decisions/README.md)
 1. [Lesson Five](5-loops/README.md)

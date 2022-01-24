@@ -11,4 +11,4 @@
 ## Lessons
 
 1. [Lesson One](1-lesson-name/README.md)
-2. [Lesson Two](2-lesson-name/README.md)
+1. [Lesson Two](2-lesson-name/README.md)

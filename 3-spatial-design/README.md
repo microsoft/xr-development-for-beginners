@@ -1,4 +1,4 @@
-# <Title of Unit>
+# Spatial Design
 
 *Description of the unit.*
 
@@ -10,5 +10,7 @@
 
 ## Lessons
 
-1. [Lesson One](1-lesson-name/README.md)
-2. [Lesson Two](2-lesson-name/README.md)
+1. [Design and Prototype](1-lesson-name/README.md)
+1. [Environmental Awareness](2-lesson-name/README.md)
+1. [Spatial Mapping](3-spatial-mapping/README.md)
+1. [User Interface in Mixed Reality](4-user-interface-in-mr/README.md)

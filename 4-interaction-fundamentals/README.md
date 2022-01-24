@@ -1,4 +1,4 @@
-# <Title of Unit>
+# Interaction Fundamentals
 
 *Description of the unit.*
 
@@ -10,5 +10,6 @@
 
 ## Lessons
 
-1. [Lesson One](1-lesson-name/README.md)
-2. [Lesson Two](2-lesson-name/README.md)
+1. [Hands and Motion Controllers](1-hands-and-motion-controllers/README.md)
+1. [Hands Free](2-hands-free/README.md)
+1. [Gaze and Commit](3-gaze-and-commit/README.md)

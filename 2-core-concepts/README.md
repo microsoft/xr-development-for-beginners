@@ -10,6 +10,6 @@
 
 ## Lessons
 
-1. [Lesson One](1-comfort/README.md)
-2. [Lesson Two](2-coordinate-systems-anchors/README.md)
-3. [Lesson Three](3-physics-forces-pivots-axes/README.md)
+1. [Comfort](1-comfort/README.md)
+1. [Coordinate Systems and Anchors](2-coordinate-systems-anchors/README.md)
+1. [Physics, Forces, Pivots, and Axes](3-physics-forces-pivots-axes/README.md)
