@@ -18,7 +18,7 @@
 
 The Unity Editor interface is organized into windows what can be rearranged to suit your layout preference. The image of the Editor below displays the most common windows* in their default positions:
 
-<IMAGE>
+`<image>`
 
 - A, The Toolbar
 - B, The Hierarchy Window
@@ -66,29 +66,29 @@ You can control which objects appear in Scene view from the Layers drop-down men
 
 You can change the arrangement of your views and then save the new layout or load an existing from the Layout drop-down menu (Figure #, H).
 
-<IMAGE>
+`<image>`
 
 ### The Hierarchy Window
 
 The Hierarchy window is a hierarchical text representation of every object (or GameObject) in the Scene. Each item in the Scene has an entry in the hierarchy, so the two windows are inherently linked. The hierarchy reveals the structure of how GameObjects attach to each another. You can use the Hierarchy window to sort and group the GameObjects you use in a Scene. By default, the Hierarchy window lists GameObjects in the order they’re created. You can drag the selected GameObject up or down in the Scene to change the order of the GameObjects.  When you add or remove GameObjects in the Scene view, you also add or remove them from the Hierarchy window. The Hierarchy window can also contain other Scenes, with each Scene containing their own GameObjects.
 
-<IMAGE>
+`<image>`
 
 *Parenting*
 
 Unity uses the concept of parent-child hierarchies, or parenting, to group GameObjects. An object can contain other GameObjects that inherit its properties.You can link GameObjects together to help move, scale, or transform a collection of GameObjects. When you move the top-level object, or parent GameObject, you also move all child GameObjects.
 
-<IMAGE>
+`<image>`
 
 You can also create nested parent-child GameObjects. All nested objects are still descendants of the original parent GameObject, or root GameObject. Child GameObjects inherit the movement and rotation of the parent GameObject.
 
-<IMAGE>
+`<image>`
 
 *GameObject Visibility*
 
 GameObjects can be hidden from view in the Scene view without changing their in-application visibility. These controls are useful for working with large or complex Scenes where it's difficult to view and select specific GameObjects. To hide or show a GameObject, click the Scene visibility icon.
 
-<IMAGE>
+`<image>`
 
 ### The Scene view
 
@@ -128,7 +128,7 @@ For better visibility of an object, the Scene view can be centred on a GameObjec
 
 The Game view simulates what your final rendered game will look like through your Scene Cameras. When you click the Play button in the Toolbar, you enter Play mode and the simulation begins. While in Play mode, any changes you make are temporary, and are reset when you exit Play mode. One or more Camera GameObjects are needed to control what the player sees when they are using your application.
 
-<IMAGE>
+`<image>`
 
 ### The Inspector Window
 

@@ -18,7 +18,7 @@
 
 The build settings contain options you can use to set up and begin the build process for your application on the respective platform(s). It contains settings to create builds - both for development builds and final builds. The Build Settings window is accessed by navigating to File > Build Settings.
 
-<IMAGE>
+`<image>`
 
 The Build Settings window contains three sections:
 

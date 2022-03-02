@@ -48,7 +48,7 @@ A user might want to change their volume in their music app. They can say "loude
 
 While voice input systems become better and better, sometimes they may incorrectly hear and interpret a voice command. The key is to address the challenge in your application. Providing feedback to your users when the system is listening and what the system understood clarifies potential issues understanding the users's speech. Consider implementing a visual indicator such as a microphone icon when the app is listening or displaying visual text confirmation of what the user said.
 
-<IMAGE>
+`<image>`
 
 *Voice Input in Shared Spaces* 
 
@@ -131,13 +131,13 @@ List views present a particular challenge for eye/head-gaze and dwell input. Peo
 
 When an action has significant impact, like charging money, deleting work, or starting a long process, it's useful to confirm that a person meant to select a button. Reveal the dwell target and show the selection highlight on the main button at the same time. For the secondary button, reveal the dwell target on the eye/head-gaze.
 
-<IMAGE>
+`<image>`
 
 #### Design Guidance for Dwell Feedback
 
 Consider using a two-state approach for dwell feedback:
 
-<IMAGE>
+`<image>`
 
 1. *Onset Delay*: When the user starts looking at a target, nothing should immediately happen as this may result in an unpleasant and overwhelming user experience. Instead start a timer to detect whether the user is intentionally staring at the target or merely glancing over it. The recommended onset time is 150-250 ms in a given proximity (meaning the user is fixating vs. looking around on a large target).
 1. *Start Dwell Feedback*: After ensuring that the user is intentionally looking at the target, start showing dwell feedback to inform the user that the dwell activation is being initiated.

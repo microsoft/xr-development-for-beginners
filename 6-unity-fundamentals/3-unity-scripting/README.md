@@ -71,13 +71,13 @@ public class MainPlayer : MonoBehaviour
 
 Once attached to a GameObject, editable fields are created within the script properties and labelled by the variable name.
 
-<IMAGE>
+`<image>`
 
 In C#, the simplest way to see a variable in the Inspector is to declare it as public. An alternative method is to use `SerializeField`. Conversely, you can use HideInInspector to prevent a public variable from being displayed in the Inspector.
 
 Unity will actually let you change the value of a script’s variables while in Play mode. This is very useful for seeing the effects of changes directly without having to stop and restart. When you exit Play mode, the values of the variables will be reset to whatever they were before you pressed Play. This ensures that you are free to tweak your object’s settings without fear of doing any permanent damage.
 
-<image>
+`<image>`
 
 ### Instantiating Prefabs at run time
 
@@ -109,13 +109,13 @@ public class InstantiationExample : MonoBehaviour
 
 In the Inspector, the Prefab assigned to `myPrefab` appears at runtime.
 
-<IMAGE>
+`<image>`
 
 ### Order of execution for event functions
 
 Running a Unity script executes a number of event functions in a predetermined order:
 
-<IMAGE>
+`<image>`
 
 ### Event functions
 

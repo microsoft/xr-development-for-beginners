@@ -15,7 +15,7 @@
 Programming languages make use of the computer's memory to 'remember' previous information to be used throughout a program's execution, such as specific values, names and inputs. These are stored in allocations of the computer's memory called **variables**. 
 
 *Image of different buckets with different contents* 
-<IMAGE>
+`<image>`
 
 Variables work like a bucket, where once it has been declared (created in programming terms) we can put, retrieve or modify the things in it. However as with a real bucket, its size is important depending on the contents we intend to put in, so variables come in different sizes depending on the type of data we want to store. These data types have their own label and help us declare the appropriate size variable for our uses.
 

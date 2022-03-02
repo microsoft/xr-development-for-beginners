@@ -1,173 +1,68 @@
 # Environmental Awareness
 
-*Description of the lesson.*
-
 ## Objectives
 
 - *Objective 1*
 - *Objective 2*
 - *Objective 3*
 
-## Prerequisities
-
-- *Prereq 1*
-- *Prereq 2*
-- *Prereq 3*
-
 ## Introduction
 
-Spatial awareness is the ability for a device such as Hololens 2 to be able to map the physical world. Mapping the physical world is to create a 3D representation of your physical world into the digital world.
+TBD
 
-By creating a map of the physical world, the user will be able to interact and place 3D items such as Holograms onto the digital world, as if the 3D items are being placed onto a physical world. E.g. placing 3D holograms onto a table. This is due to the spatial awareness the digital world have of the physical world.
+### Spatial Mapping
 
-Spatial Awareness System allows for holograms created to interact with the real world as if the holograms are real themselves. Thus, spatial Awareness System allows for the holograms to be spatially aware.
+**Spatial mapping** creates a 3D map of the real-world environment and makes it possible to place 3D objects on real surfaces. More often, a mesh (viewable through the device lens) is placed onto the real-world environment which is indicative of which areas of the environment have been mapped.
 
-### Spatial Awareness and MRTK
+`<image>`
 
-[insert description of section here]
+Some devices are able to save mapped environments and either load on app start or import into your XR development platform for app creation.
 
-**Spatial Mapping**
+ADD MORE ABOUT AIRTIGHT AND GAPS
+ 
+### Spatial Awareness
 
-When the mapping of the physical world is initiated through toolkits such as Microsoft Reality Toolkit (MRTK), the spatial awareness system will initiate a mesh over the physical world through the Hololens connected to the servers that are already set up using MRTK and Unity.
+**Spatial awareness** occurs when a 3D object is aware of it's real-world environment. The advantage of spatial awareness is that it provides a natural and familiar form of interaction to the user. 
 
-Moving objects, such as hands will be mapped using the Holographic remoting. MRTK spatial mapping is a resources toolkit that provides all the resources needed to include spatial mapping capabilities into the project. 
+Common usage scenarios for spatial awareness are:
 
-Spatial mapping allows for holograms to be set on specific locations, such as floors, tables, walls or in separate rooms. For example, if a hologram is placed in a different room from where the user is entering, the user should not be able to see the hologram beyond the walls through the Hololens. Moreover, the hologram placed must be able to persist in the location. All these functions are completed through spatial mapping.
+**Placement**
 
-**Spatial Understanding**
+`<image>`
 
-Spatial understanding is a remarkable capability included in the MRTK that enables Mixed Reality experiences to “understand” the spatial environment. This module utilises the precise measurements taken by spatial mapping to interpret the spatial mesh and matches labels to the parts of the mesh, to identify real world objects such as walls, tables, chairs etc.
+In this scenario, a 3D vase is placed onto a real table. The 3D vase is aware of the table top's surface and snaps to the surface for placement.
 
-An example of this usage would be to place a stationary holographic character in unity using MRTK. This would require the spatial understanding module to find the location where it would be logical to place the character, which should be on the floor, instead of the wall.
+**Occlusion**
 
-**Spatial Sound**
+`<image>`
 
-Spatial sound module in MRTK provides spatial sound capabilities into the project. We utilise our sense of hearing for communication, to listen and to respond, and also to locate objects around us.  As a platform for immersion and realism, this tool is of importance in the mixed reality, which provides the ability to adjust audio based on the position of object and holograms, such as accurately reducing an object’s audio when it’s behind another hologram.
+In this scenario, a 3D chair is only visible when viewed on one side of the wall. **Occlusion** enables you to hide a virtual object. The 3D chair is aware of the wall separating the two rooms.
 
-This module also provides the ability to tune the audio based on the size and shape of the physical room, 3D positioning of audio and other advanced audio settings.
+**Physics**
 
-## Pre-Lecture Quiz Questions & Answers
+`<image>`
 
-*NOTE: Use markdown to make the correct answer bold (ex: `**This is the syntax for marking the answer in bold.**`)*
+In this scenario, a 3D ball rolls off the surface of a table and onto the ground before being stopped by the wall. The 3D ball is aware of the objects it interacts with and behaves in an expected manner of rolling.
 
-**Question 1**
+**Navigation**
 
-*Question goes here*
+`<image>`
 
-Answer Choices:
+In this scenario, a virtual robot navigates around a room, avoiding obstacles. The virtual robot can move around the environment while also being aware of obstacles that obstructs it's path of movement.
 
-*Option 1*
+### Spatial Audio
 
-*Option 2*
+We utilize our sense of hearing for communication, to listen and to respond, and also to locate objects around us. Auditory cues can provide a truly immersive experience - essentially mimicking how the user would expect to hear sound in the real world. **Spatial audio** provides this sense of realism by creating sound in 360 degrees around a listener.
 
-*Option 3*
+There are four auditory cues:
 
-**Question 2**
+- Ambient
+- Object
+- Movement
+- Instruction
 
-*Question goes here*
+An **ambient auditory cue** is the background noise of an environment. This could be noise in a busy city or the sound of a tv playing off in the distance in another room. An **object auditory cue** is the sound produced from an object. For example, an air conditioning unit produces the sound of a hum when active. A **movement auditory cue** are sounds that are the result of movement. If someone were to run across pavement, we would expect to hear their feet hit the ground. As for an **informational auditory cues**, it's the audio that provides instructions. For example, step-by-step instruction on how to operate machinery.
 
-Answer Choices:
+`<image>`
 
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 3**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 4**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 5**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-## Post-Lecture Quiz Questions & Answers
-
-**Question 1**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 2**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 3**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 4**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 5**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
+Placement of the audio plays a major role in how audio is perceived by the user. We can leverage spatial audio features and settings within XR development platforms to fine-tune sound placement and volume.

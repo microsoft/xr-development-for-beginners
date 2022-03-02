@@ -31,7 +31,7 @@ If you are using Visual Studio Code, consider installing both the [Docs Authorin
 
 - For link placeholders, use `<LINK>` (ex: `[Microsoft](<LINK>)`)
 - For number placeholders, use `<#>` (ex: `There are <#> lessons.`)
-- For image placeholders, use `<IMAGE>`
+- For image placeholders, use ``<image>``
 - For all other placeholders not specified above, use `TBD`
 
 ## Accessibility and Inclusive Language

@@ -14,7 +14,7 @@
 
 Loops are programming statements that allow for segments of code to be executed repeatedly, as long as a condition is met. 
 
-<IMAGE>
+`<image>`
 
 *[Flowchart showing a loop statement]*
 

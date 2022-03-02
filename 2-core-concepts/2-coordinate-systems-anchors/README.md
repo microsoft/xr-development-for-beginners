@@ -1,14 +1,10 @@
 # Coordinate Systems and Anchors
 
-*Description of the lesson.*
-
 ## Objectives
 
 - *Objective 1*
 - *Objective 2*
 - *Objective 3*
-
-## Prerequisites
 
 ## Introduction
 
@@ -16,156 +12,30 @@ Whether on a physical or a virtual space, coordinate systems serve as a way to e
 
 ### Spatial Coordinate Systems
 
-The most widely used system in 3D graphics is the cartesian coordinate system. This system establishes 3 perpendicular axes along which to position objects, an X, Y and Z axis.
+The most widely used system in 3D graphics is the cartesian coordinate system. The **cartesian coordinate system** establishes 3 perpendicular axes along which to position objects, an X, Y and Z axis.
 
-When a coordinate system has real meaning in the physical world, it is called a spatial coordinate system. A Spatial coordinate system can express their coordinate values in real world measuring units, such as meters. This allows for real-world scaling when developing an application.
+`<image>`
 
-> If we express 1 coordinate value = 1 meter, then two objects placed a unit apart in either the X, Y or Z axis will appear 1 meter apart from one another when rendered in an XR application.
+When a coordinate system has real meaning in the physical world, it is called a spatial coordinate system. A **spatial coordinate system** can express their coordinate values in real world measuring units, such as meters. This allows for real-world scaling when developing an application. For example, if we express 1 coordinate value = 1 meter, then two objects placed a unit apart in either the X, Y or Z axis will appear 1 meter apart from one another when rendered in an XR application.
 
-The orientation of the cartesian coordinate system however, can change depending on the development environment being used. For example, Unreal Engine uses a left-handed, z-up coordinate system, where X means the forward direction, Y means the right direction and Z the up direction.
+`<image>`
 
-*[Insert picture of Unreal if possible here]*
-<IMAGE>
+The orientation of the cartesian coordinate system however, can change depending on the development environment being used. For example, Unreal Engine uses a left-handed, Z-up coordinate system, where X means the forward direction, Y means the right direction and Z the up direction.
 
-Meanwhile, Unity uses a left-handed, y-up coordinate system. In this scenario, the forward direction is dictated by Z, the right direction by X and the up direction by Y.
+`<image>`
 
-*[Insert picture of Unity coordinates here]*
-<IMAGE>
+Meanwhile, Unity uses a left-handed, Y-up coordinate system. In this scenario, the forward direction is dictated by Z, the right direction by X and the up direction by Y.
+
+`<image>`
 
 Understanding these differences is key to proper object placement, but should not be an issue provided the development environment remains the same.
 
 ### Anchors
 
-In certain types of XR applications such as Virtual Reality apps or games, establishing an absolute world coordinate system is common practice. This is due to the fact that in a purely virtual or immersive world we know all of the geometry in advance, and scaling or transforming the objects pose little challenge. 
+In certain types of XR applications such as VR apps or games, establishing an absolute world coordinate system is common practice. This is due to the fact that in a purely virtual or immersive world we know all of the geometry in advance, and scaling or transforming the objects pose little challenge.
 
-<IMAGE>
-
-However, in instances such as Augmented Reality or Mixed Reality applications where the understanding of the world is defined by a dynamic sensor (like a camera). As such, if objects are placed according to a single coordinate system, these objects might begin to move or drift as the sensor refines its understanding of the world.
+However, in AR applications, the understanding of the world is defined by a dynamic sensor (like a camera). As such, if objects are placed according to a single coordinate system, these objects might begin to move or drift as the sensor refines its understanding of the world.
 
 Anchors provide the solution to this problem. As points that are defined within the spectrum of the real world, rather than inside the application's coordinate system, they can adjust their position based on one another to ensure their permanence in the right place.
 
-## Pre-Lecture Quiz Questions & Answers
-
-*NOTE: Use markdown to make the correct answer bold (ex: `**This is the syntax for marking the answer in bold.**`)*
-
-**Question 1**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 2**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 3**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 4**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 5**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-## Post-Lecture Quiz Questions & Answers
-
-**Question 1**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 2**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 3**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 4**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 5**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
+`<image>`

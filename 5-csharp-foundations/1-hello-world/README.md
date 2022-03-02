@@ -43,7 +43,7 @@ In C#, basic output is shown through the Console Window. To test it, you can wri
 ```csharp
 Console.WriteLine("Hello World!");
 ```
-<IMAGE>
+`<image>`
 
 What this does is instruct (input) the computer to *print* the message inside the parenthesis as a new line in the console window (output). 
 
