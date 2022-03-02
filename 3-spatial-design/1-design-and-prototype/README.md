@@ -50,11 +50,11 @@ This process is focused to experience the user’s perspective, while allowing o
 
 This technique conveys both the overall flow of an experience at low fidelities and the aesthetic look and feel at high fidelities. Similar to prototyping understanding the fidelity needs of a storyboard is key to gathering the right feedback and avoid counter-productive discussions.
 
-A **low-fidelity storyboard** is utilized for quick discussions, especially when conveying high-level ideas. Such a storyboard can be as simple as stick-figure drawings and primitive shapes to denote virtual elements in a scene or the proximity of interactive components both physical and virtual. Furthermore, low-fidelity storyboards are executed with relative ease and requires low skill barrier.
+A **low fidelity storyboard** is utilized for quick discussions, especially when conveying high-level ideas. Such a storyboard can be as simple as stick-figure drawings and primitive shapes to denote virtual elements in a scene or the proximity of interactive components both physical and virtual. Furthermore, low-fidelity storyboards are executed with relative ease and requires low skill barrier.
 
 `<image>`
 
-A **high-fidelity storyboard** is used to bring in new stakeholder. Such a storyboard combines insights from the bodystorming session with the proposed aesthetic direction. Furthermore, a high-fidelity storyboard requires an artist embedded within the team to capture difficult to describe scenarios.
+A **high fidelity storyboard** is used to bring in new stakeholder. Such a storyboard combines insights from the bodystorming session with the proposed aesthetic direction. Furthermore, a high-fidelity storyboard requires an artist embedded within the team to capture difficult to describe scenarios.
 
 `<image>`
 
@@ -66,16 +66,14 @@ Design work is often physical before going into the development phase. The desig
 
 ### Prototyping Process
 
-The **prototyping process** focuses on building high fidelity prototypes. Options for this process includes:
+The **prototyping process** focuses on building high fidelity prototypes. While the prototype is not a production ready version of the app or experience, it should be a parallel to how the user expects to interact with the app. The prototyping phase can uncover aspects of the app design which may need to be reconsidered before heading into the development of the production version of the app. Often times in prototyping, alternative or temporary objects are used in place of the actual objects that are used in production. Thus, you spend more time on developing and fine-tuning the user experience (UX) and less on visual design aspects such as creating the perfect splash screen or customizing a button's design. However, this does not mean that user interface (UI) should be neglected during this process.
 
-mention some tools that can help but more casually
+`<image>`
 
-<`image`>
+There are tools available to aid in the prototyping process which can mitigate your need to start from scratch. For sketching and laying out UI, consider using the Figma Toolkit. 
 
-- Figma Toolkit
-    - Provides assets that can be used for sketching and laying out User Interface
-- Unity
-    - Creating interactive experiences with the Unity - Mixed Reality Toolkit (MRTK)
-    - Toolkit utilised in Unity, includes spatial interaction and UI building blocks
-- Microsoft Maquette
-    - Designed for VR, a tool designed to make spatial prototyping easy, quick and immersive.
+`<image>`
+
+And if you're in need of adding interactivity and simple UI, consider built-in UI and functionality that comes with your development platform. There's also toolkits available such as the Mixed Reality Toolkit (for Unity and Unreal) which provides assets for rapid prototyping and helps accelerate your development process.
+
+`<image>`

@@ -8,21 +8,19 @@
 
 ## Introduction
 
-TBD
+Creating the blend between the physical and digital world is a key characteristic of XR development. The technology leverages concepts such as spatial mapping, spatial awareness, and spatial audio to provide users with a realistic immersive experience. Together, these spatial concepts can truly enhance your XR experience and stay true to providing a seamless blend of the two worlds.
 
 ### Spatial Mapping
 
-**Spatial mapping** creates a 3D map of the real-world environment and makes it possible to place 3D objects on real surfaces. More often, a mesh (viewable through the device lens) is placed onto the real-world environment which is indicative of which areas of the environment have been mapped.
+**Spatial mapping** creates a 3D map of the real-world environment and makes it possible to place 3D objects on real surfaces. More often, a mesh (viewable through the device's lens) is placed onto the real-world environment which is indicative of what the device identifies as a surface. As you move about your physical space, the mesh continuously updates and accounts for changes in your real-world environment.
 
 `<image>`
 
-Some devices are able to save mapped environments and either load on app start or import into your XR development platform for app creation.
-
-ADD MORE ABOUT AIRTIGHT AND GAPS
+Once your physical space is mapped, you're able to leverage the mapping for placing 3D objects onto real-world surfaces. Some devices are able to save mapped environments and either load on app start or import into your XR development platform for app creation.
  
 ### Spatial Awareness
 
-**Spatial awareness** occurs when a 3D object is aware of it's real-world environment. The advantage of spatial awareness is that it provides a natural and familiar form of interaction to the user. 
+**Spatial awareness** occurs when a 3D object is aware of it's real-world environment. The advantage of spatial awareness is that it provides a natural and familiar form of interaction to the user.
 
 Common usage scenarios for spatial awareness are:
 

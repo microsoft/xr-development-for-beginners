@@ -14,6 +14,10 @@ In XR, physics play an important role in making the experience as close to the r
 
 ### Gravity
 
+If you were to hold an object in the air and let go, you'd expect the object to fall thanks to gravity. Gravity is a force that attracts either a body or object toward the center of the earth, or toward any other physical body or object having mass. In XR, we can simulate the act of gravity by adding gravity to virtual objects. Each XR platform has it's own method to apply gravity to 3D objects and thus the method in doing so varies. While adding gravity to virtual objects is not a requirement, doing so does provide a sense of realism. Given that XR has the capability to blend the digital and physical world in such a way that provides a seamless experience, consider striving for adding gravity to objects wherever appropriate.
+
+`<image>`
+
 ### Forces
 
 Any interaction that modifies or changes the motion of an object is considered a **force**. When a force is applied to an object, it's movement, direction and/or speed are altered. Forces have their own magnitude and direction, which means they can be represented as vectors. Though vectors are mathematical concepts with their own operations and rules, we do not need to go in depth for a basic understanding and usage in XR development.

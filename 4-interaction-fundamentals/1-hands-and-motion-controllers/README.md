@@ -8,13 +8,7 @@
 
 ## Introduction
 
-The hands and motion controllers model is ideal for applications that require users to use either one or two hands to interact with the virtual environment. Direct manipulation with hands provides the option of executing either  near or far interactions. Objects within reach (roughly 50 cm) are suitable for near interaction. Far interactions are typically accompanied by a tether or ray to manipulate an object from a distance. Consider this input model for the following scenarios:
-
-- Providing information workers 2D virtual screens with UI affordances to display and control content
-- Providing first line workers tutorials and guides for factory assembly lines
-- Developing professional tools for assisting and educating medical professionals
-- Using 3D virtual objects to decorate the real world or to create a second world
-- Creating location-based services and games using the real world as a background
+The hands and motion controllers model is ideal for applications that require users to use either one or two hands to interact with the virtual environment. Direct manipulation with hands provides the option of executing either  near or far interactions. Objects within reach (roughly 50 cm) are suitable for near interaction. Far interactions are typically accompanied by a tether or ray to manipulate an object from a distance.
 
 There are three modalities for the hands and motion controllers input model:
 

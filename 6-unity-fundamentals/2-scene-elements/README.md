@@ -8,7 +8,13 @@
 
 ## Introduction
 
-*Brief introduction of the lesson.*
+An app's scene contains various objects that bring your XR experiences to life. While some are optional, there are three required objects which must be included in scenes to render a 3D environment:
+
+- GameObjects
+- Lights
+- Cameras
+
+By default, Unity provides both a light and camera for newly created scenes. It is up you to include an object to render and modify the default objects to suit your app's needs.
 
 ### GameObjects
 
