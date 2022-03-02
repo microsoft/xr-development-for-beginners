@@ -6,8 +6,10 @@
 - *Objective 2*
 - *Objective 3*
 
-
 ## Introduction
+
+Unity uses C# as its primary language, and although not always necessary to create an XR experience, it provides developers with the opportunity of modifying or altering objects, their behaviors and interactions and more. This is done through pieces of code called scripts.
+
 The behavior of GameObjects is controlled by the Components that are attached to them. Although Unity’s built-in Components can be very versatile, you will soon find you need to go beyond what they can provide to implement your own features. Unity allows you to create your own Components using scripts. These allow you to trigger game events, modify Component properties over time and respond to user input in any way you like. Scripts are usually created within Unity directly. The code within a script is not activated until an instance of the script is attached to a GameObject as a component.
 
 Visual Studio is the default selected IDE within Unity preferences. When a script is opened via the Editor, Unity launches Visual Studio. Unity also supports Visual Studio Code and JetBrains Rider.

@@ -8,11 +8,9 @@
 - *Objective 2*
 - *Objective 3*
 
-## Prerequisites
-
 ## Introduction
 
-Programming languages make use of the computer's memory to 'remember' previous information to be used throughout a program's execution, such as specific values, names and inputs. These are stored in allocations of the computer's memory called **variables**. 
+Programming languages make use of the computer's memory to 'remember' previous information to be used throughout a program's execution, such as specific values, names and inputs. These are stored in allocations of the computer's memory called **variables**.
 
 *Image of different buckets with different contents* 
 `<image>`
@@ -21,7 +19,7 @@ Variables work like a bucket, where once it has been declared (created in progra
 
 ### Declaring a variable
 
-Declaring a variable in C# means to tell the computer to allocate space in its memory large enough to hold the specific type of data by the label. The way this is done is by first writing the label (or type of data) that the variable will store, followed by the name we wish to give to the variable.
+**Declaring** a variable in C# means to tell the computer to allocate space in its memory large enough to hold the specific type of data by the label. The way this is done is by first writing the label (or type of data) that the variable will store, followed by the name we wish to give to the variable.
 
 Here we declare two variables to store numbers:
 
@@ -30,9 +28,7 @@ int x;
 int y;
 ```
 
-At this time, these variables are just two empty spaces. We can assign (store) values to this allocated spaces in memory using the ```(=)``` (equal) sign.
-
->**Quick note**: In C# and most programming languages, the equal sign is known as the assignment operator. This means it does not work the same way it works in regular math, and what it does is store a value inside a variable.
+At this time, these variables are just two empty spaces. We can assign (store) values to this allocated space in memory using the ```(=)``` (equal) sign. In C# and most programming languages, the equal sign is known as the assignment operator. This means it does not work the same way it works in regular math, and what it does is store a value inside a variable.
 
 ```csharp
 //Storing the number 4 in variable x:
@@ -42,7 +38,7 @@ x = 4;
 
 y = x + 2;
 ```
-If we were to print these values as we learned earlier, the input and output would look like this:
+If we were to print these values as we learned earlier, the input and output would reflect the followingg:
 
 Input:
 ```csharp
@@ -55,9 +51,9 @@ Output:
 6
 ```
 
-What our program is doing here is storing the number 4 in our variable x, and storing the value of x + 2 (4+2) in our variable y. 
+What our program is doing here is storing the number 4 in our variable `x`, and storing the value of `x + 2 (4+2)` in our variable `y`.
 
->Note that once the variables have been declared, the data type label is no longer necessary.
+Once the variables have been declared, the data type label is no longer necessary.
 
 ### Common Data Types in C#
 
@@ -73,8 +69,8 @@ char cvar = 'M';
 string svar = "Hello World";
 ```
 
-- The first variable is the type we declared previously, Integer. This data type is used when working with whole numbers.
-- The second variable is another number related type, Double. This is used for numbers that contain decimal values, such as rational numbers.
-- The third variable is called a boolean variable, Bool. Bool holds one of two possible values: *True* or *False*, and it's used as a condition marker.
-- The fourth variable holds a single character, such as a number, a letter or a symbol. It's called Char.
-- The last variable is called a literal String. This data type is used to store words or sentences.
+- The first variable is the type we declared previously, **Integer**. This data type is used when working with whole numbers.
+- The second variable is another number related type, **Double**. This is used for numbers that contain decimal values, such as rational numbers.
+- The third variable is called a boolean variable, **Bool**. Bool holds one of two possible values: *True* or *False*, and it's used as a condition marker.
+- The fourth variable holds a single character, such as a number, a letter or a symbol. It's called **Char**.
+- The last variable is called a **String Literal**. This data type is used to store words or sentences.
