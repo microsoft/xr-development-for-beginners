@@ -1,22 +1,14 @@
 # Build Settings
 
-*Description of the lesson.*
-
 ## Objectives
 
 - *Objective 1*
 - *Objective 2*
 - *Objective 3*
 
-## Prerequisities
-
-- *Prereq 1*
-- *Prereq 2*
-- *Prereq 3*
-
 ## Introduction
 
-The build settings contain options you can use to set up and begin the build process for your application on the respective platform(s). It contains settings to create builds - both for development builds and final builds. The Build Settings window is accessed by navigating to File > Build Settings.
+The build settings contain options you can use to set up and begin the build process for your application on the respective platform(s). It contains settings to create builds - both for development builds and final builds. The Build Settings window is accessed by navigating to **File > Build Settings**.
 
 `<image>`
 
@@ -45,7 +37,7 @@ The main workflow when building an application for UPW using Unity is as follows
 1. Open the generated Project's *.sln* file in Visual Studio.
 1. Use Visual Studio to build your final application.
 
-When you click *Build and Run*, Unity builds an app executable that can run independently.
+When you click **Build and Run**, Unity builds an app executable that can run independently.
 
 ### Android
 
@@ -71,129 +63,3 @@ The main workflow when building an application for iOS using Unity is as follows
 1. Open the generated XCode project in XCode.
 1. Compile and sign the app.
 1. Deploy the app to your device.
-
-## Pre-Lecture Quiz Questions & Answers
-
-*NOTE: Use markdown to make the correct answer bold (ex: `**This is the syntax for marking the answer in bold.**`)*
-
-**Question 1**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 2**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 3**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 4**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 5**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-## Post-Lecture Quiz Questions & Answers
-
-**Question 1**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 2**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 3**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 4**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 5**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*

@@ -1,18 +1,10 @@
 # Project Settings
 
-*Description of the lesson.*
-
 ## Objectives
 
 - *Objective 1*
 - *Objective 2*
 - *Objective 3*
-
-## Prerequisities
-
-- *Prereq 1*
-- *Prereq 2*
-- *Prereq 3*
 
 ## Introduction
 

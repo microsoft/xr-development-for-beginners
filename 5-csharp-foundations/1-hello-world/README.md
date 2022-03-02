@@ -1,7 +1,5 @@
 # Hello World
 
-*Description of the lesson.*
-
 ## Objectives
 
 - *Objective 1*
@@ -38,7 +36,7 @@ namespace HelloWorld
 
 Input and Output represent the most basic concepts of programming, as computers receive instructions and programs execute them to produce a result. Though the format in which these instructions are received may vary, the general concept remains the same. 
 
-In C#, basic output is shown through the Console Window. To test it, you can write down the following command (which is actually input in the form of an instruction!) and run it through the green play button.
+In C#, basic output is shown through the **console window**. To test it, you can enter the following command (which is actually input in the form of an instruction!) and run it through the green play button.
 
 ```csharp
 Console.WriteLine("Hello World!");
@@ -81,129 +79,3 @@ Console.WriteLine("Hello World!");
 ### How did the code work?
 
 *TBD whether this is necessary, as it would have to delve deeper into compiling and how the code is interpreted*
-
-## Pre-Lecture Quiz Questions & Answers
-
-*NOTE: Use markdown to make the correct answer bold (ex: `**This is the syntax for marking the answer in bold.**`)*
-
-**Question 1**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 2**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 3**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 4**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 5**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-## Post-Lecture Quiz Questions & Answers
-
-**Question 1**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 2**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 3**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 4**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
-
-**Question 5**
-
-*Question goes here*
-
-Answer Choices:
-
-*Option 1*
-
-*Option 2*
-
-*Option 3*
