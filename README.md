@@ -26,16 +26,16 @@ This curriculum was designed to be flexible and fun and can be taken in whole or
 
 ## Units
 
-|#  |Unit  |Lessons  |Link to Unit  |
-|---------|---------|---------|---------|
-|1     |Introduction to Realities| - What is XR? <br> - Devices <br> - Choosing a Reality         |[Start Unit](LINK)|
-|2     |Core Concepts|- Comfort <br> - Coordinate Systems and Anchors <br> - Physics|[Start Unit](LINK)         |
-|3     |Spatial Design|- Design & Prototype <br> - Environmental Awareness      |[Start Unit](LINK)         |
-|4     |Interaction Fundamentals|- Hands & Motion Controllers <br> - Hands Free <br> - Gaze & Commit         |[Start Unit](LINK)         |
-|5     |C# Foundations |- Hello World <br> - Variables & Data Types <br> - Classes & Methods <br> - Conditional Statements <br> - Loops        |[Start Unit](LINK)         |
-|6     |Unity Fundamentals|- Unity Editor UI <br> - Scene Elements <br> - Unity Scripting         |[Start Unit](LINK)         |
-|7     |Create an App|         |[Start Unit](LINK)         |
-|8     |Capstone Project|         |[Start Unit](LINK)         |
+|#  |Unit |Unit Objective|Lessons  |Link to Unit  |
+|---------|---------|---------|---------|---------|
+|1     |Introduction to Realities|| - What is XR? <br> - Devices <br> - Choosing a Device & Reality         |[Start Unit](LINK)|
+|2     |Core Concepts||- Comfort <br> - Coordinate Systems and Anchors <br> - Physics|[Start Unit](LINK)         |
+|3     |Spatial Design||- Design & Prototype <br> - Environmental Awareness      |[Start Unit](LINK)         |
+|4     |Interaction Fundamentals||- Hands & Motion Controllers <br> - Hands Free <br> - Gaze & Commit         |[Start Unit](LINK)         |
+|5     |C# Foundations ||- Hello World <br> - Variables & Data Types <br> - Classes & Methods <br> - Conditional Statements <br> - Loops        |[Start Unit](LINK)         |
+|6     |Unity Fundamentals||- Unity Editor UI <br> - Scene Elements <br> - Unity Scripting         |[Start Unit](LINK)         |
+|7     |Create an App||         |[Start Unit](LINK)         |
+|8     |Capstone Project| |        |[Start Unit](LINK)         |
 
 
 ## Offline access

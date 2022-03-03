@@ -10,9 +10,8 @@ Although there are multiple languages that can be used in XR development, C# is 
 
 ## Lessons
 
-1. [Lesson One](1-hello-world/README.md)
-1. [Lesson Two](2-variables-data-types/README.md)
-1. [Lesson Three](3-classes-methods/README.md)
-1. [Lesson Four](4-making-decisions/README.md)
-1. [Lesson Five](5-loops/README.md)
-1. [Lesson Six](6-csharp-in-xr/README.md)
+1. [Hello World](1-hello-world/README.md)
+1. [Variables and Data Types](2-variables-data-types/README.md)
+1. [Class and Methods](3-classes-methods/README.md)
+1. [Conditional Statements](4-conditional-statements/README.md)
+1. [Loops](5-loops/README.md)
