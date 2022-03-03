@@ -84,3 +84,15 @@ A factor of comfort that can be easily overlooked is the expectations of a user'
 `<image>`
 
 Adding short breaks between inputs and mixing others forms of input (such as speech) can reduce muscle strain and make the experience smoother.
+
+## Quiz
+
+[Start Quiz](LINK)
+
+## Supplemental Reading
+
+We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
+
+- TBD
+- TBD
+- TBD

@@ -37,3 +37,15 @@ As for VR devices, you'll want to avoid dark environments as light is required t
 ### Can someone use your app across different types of devices?
 
 Not all devices share the same features and thus can limit the ability to engage with a XR app in the same manner across devices. For example, some HMDs support hand tracking (which gives the ability to interact with your hands) while others are only support interactions with the use of controllers. There's way to account for these differences in your app design by enabling the user to choose either mode of interaction. Another limitation is platform support. You may find some XR apps only supported on iOS rather than both iOS and Android. Fortunately, APIs such as OpenXR enables you to create for one platform and deploy to many.
+
+## Quiz
+
+[Start Quiz](LINK)
+
+## Supplemental Reading
+
+We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
+
+- TBD
+- TBD
+- TBD

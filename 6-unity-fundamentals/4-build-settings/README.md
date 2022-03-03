@@ -63,3 +63,15 @@ The main workflow when building an application for iOS using Unity is as follows
 1. Open the generated XCode project in XCode.
 1. Compile and sign the app.
 1. Deploy the app to your device.
+
+## Quiz
+
+[Start Quiz](LINK)
+
+## Supplemental Reading
+
+We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
+
+- TBD
+- TBD
+- TBD

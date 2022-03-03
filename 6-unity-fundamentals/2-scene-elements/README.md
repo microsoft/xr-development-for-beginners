@@ -153,3 +153,15 @@ However, this does not mean all Prefab instances have to be identical. You can o
 You should also use Prefabs when you want to instantiate GameObjects at runtime that did not exist in your Scene at the start. For example, you can create prefabs to make special effects, projectiles, or objects appear at the right moments during app play.
 
 `<image>`
+
+## Quiz
+
+[Start Quiz](LINK)
+
+## Supplemental Reading
+
+We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
+
+- TBD
+- TBD
+- TBD

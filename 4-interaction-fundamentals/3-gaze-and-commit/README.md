@@ -32,3 +32,15 @@ The head gaze vector has been shown repeatedly to be usable for fine targeting, 
 Users often fail to find UI elements located either too high or low in their field of view. Most of their attention ends up on areas around their main focus, which is approximately at eye level. Placing most targets in some reasonable band around eye level can help. Given the tendency for users to focus on a relatively small visual area at any time (the attentional cone of vision is roughly 10 degrees), grouping UI elements together to the degree they're related conceptually can use attention-chaining behaviors from item to item as a user moves their gaze through an area. When designing UI, keep in mind the potential large variation in field of view across headsets.
 
 `<image>`
+
+## Quiz
+
+[Start Quiz](LINK)
+
+## Supplemental Reading
+
+We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
+
+- TBD
+- TBD
+- TBD

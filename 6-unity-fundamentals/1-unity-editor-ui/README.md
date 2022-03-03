@@ -173,3 +173,15 @@ The Project window also contains a toolbar with additional actions for creating 
 The status bar provides notifications about various Unity processes, and quick access to related tools and settings.
 
 `<image>`
+
+## Quiz
+
+[Start Quiz](LINK)
+
+## Supplemental Reading
+
+We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
+
+- TBD
+- TBD
+- TBD

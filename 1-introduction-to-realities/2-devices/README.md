@@ -57,3 +57,15 @@ Some headsets require a connection to a device with high processing power such a
 Wireless headsets are referred to as untethered. **Untethered headsets** are a fully self-contained unit that’s equipped with all the necessary hardware and the power source built into a singular device. Rather than rely on an external source for processing power, an untethered headset relies on it’s own internal hardware. Untethered devices can still deliver a decent VR experience, however they lack the response time necessary to avoid latency issues. But unlike tethered headsets, you have more freedom to move around in your space.
 
 `<image>`
+
+## Quiz
+
+[Start Quiz](LINK)
+
+## Supplemental Reading
+
+We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
+
+- TBD
+- TBD
+- TBD

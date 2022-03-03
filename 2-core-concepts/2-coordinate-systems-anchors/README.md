@@ -39,3 +39,15 @@ However, in AR applications, the understanding of the world is defined by a dyna
 Anchors provide the solution to this problem. As points that are defined within the spectrum of the real world, rather than inside the application's coordinate system, they can adjust their position based on one another to ensure their permanence in the right place.
 
 `<image>`
+
+## Quiz
+
+[Start Quiz](LINK)
+
+## Supplemental Reading
+
+We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
+
+- TBD
+- TBD
+- TBD

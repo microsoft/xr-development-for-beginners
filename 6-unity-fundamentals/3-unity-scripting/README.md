@@ -223,3 +223,15 @@ Below is a list of the most commonly used and important built-in classes in Unit
 |`Random`    |   Provides you with easy ways of generating various commonly required types of random values.      |
 |`Debug`    |   Allows you to visualize information in the Editor that may help you understand or investigate what is going on in your project while it is running.       |
 |`Gizmos` and `Handles`     | Allows you to draw lines and shapes in the Scene view and Game view, as well as interactive handles and controls.        |
+
+## Quiz
+
+[Start Quiz](LINK)
+
+## Supplemental Reading
+
+We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
+
+- TBD
+- TBD
+- TBD

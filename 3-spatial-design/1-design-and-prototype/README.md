@@ -77,3 +77,15 @@ There are tools available to aid in the prototyping process which can mitigate y
 And if you're in need of adding interactivity and simple UI, consider built-in UI and functionality that comes with your development platform. There's also toolkits available such as the Mixed Reality Toolkit (for Unity and Unreal) which provides assets for rapid prototyping and helps accelerate your development process.
 
 `<image>`
+
+## Quiz
+
+[Start Quiz](LINK)
+
+## Supplemental Reading
+
+We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
+
+- TBD
+- TBD
+- TBD

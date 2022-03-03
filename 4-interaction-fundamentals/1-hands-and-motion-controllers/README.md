@@ -37,3 +37,15 @@ Direct manipulation can either be affordance or non-affordanced based. For **aff
 Motion controllers are hardware accessories that allow users to take action. An advantage of motion controllers over gestures is that the controllers have a precise position in space, allowing for fine grained interaction with virtual objects. Such hardware contains buttons on the device to trigger an action such as selecting or grabbing an object.
 
 `<image>`
+
+## Quiz
+
+[Start Quiz](LINK)
+
+## Supplemental Reading
+
+We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
+
+- TBD
+- TBD
+- TBD

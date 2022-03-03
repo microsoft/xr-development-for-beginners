@@ -64,3 +64,15 @@ An **ambient auditory cue** is the background noise of an environment. This coul
 `<image>`
 
 Placement of the audio plays a major role in how audio is perceived by the user. We can leverage spatial audio features and settings within XR development platforms to fine-tune sound placement and volume.
+
+## Quiz
+
+[Start Quiz](LINK)
+
+## Supplemental Reading
+
+We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
+
+- TBD
+- TBD
+- TBD
