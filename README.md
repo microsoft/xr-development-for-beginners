@@ -28,14 +28,14 @@ This curriculum was designed to be flexible and fun and can be taken in whole or
 
 |#  |Unit |Unit Objective|Lessons  |Link to Unit  |
 |---------|---------|---------|---------|---------|
-|1     |Introduction to Realities|| - What is XR? <br> - Devices <br> - Choosing a Device & Reality         |[Start Unit](LINK)|
-|2     |Core Concepts||- Comfort <br> - Coordinate Systems and Anchors <br> - Physics|[Start Unit](LINK)         |
-|3     |Spatial Design||- Design & Prototype <br> - Environmental Awareness      |[Start Unit](LINK)         |
-|4     |Interaction Fundamentals||- Hands & Motion Controllers <br> - Hands Free <br> - Gaze & Commit         |[Start Unit](LINK)         |
-|5     |C# Foundations ||- Hello World <br> - Variables & Data Types <br> - Classes & Methods <br> - Conditional Statements <br> - Loops        |[Start Unit](LINK)         |
-|6     |Unity Fundamentals||- Unity Editor UI <br> - Scene Elements <br> - Unity Scripting         |[Start Unit](LINK)         |
-|7     |Create an App||         |[Start Unit](LINK)         |
-|8     |Capstone Project| |        |[Start Unit](LINK)         |
+|1     |Introduction to Realities|| - What is XR? <br> - Devices <br> - Choosing a Device & Reality         |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/1-introduction-to-realities)|
+|2     |Core Concepts||- Comfort <br> - Coordinate Systems and Anchors <br> - Physics|[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/2-core-concepts)         |
+|3     |Spatial Design||- Design & Prototype <br> - Environmental Awareness      |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/3-spatial-design)         |
+|4     |Interaction Fundamentals||- Hands & Motion Controllers <br> - Hands Free <br> - Gaze & Commit         |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/4-interaction-fundamentals)         |
+|5     |C# Foundations ||- Hello World <br> - Variables & Data Types <br> - Classes & Methods <br> - Conditional Statements <br> - Loops        |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/5-csharp-foundations)         |
+|6     |Unity Fundamentals||- Unity Editor UI <br> - Scene Elements <br> - Unity Scripting         |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/6-unity-fundamentals)         |
+|7     |Create an App||         |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/7-create-an-app)         |
+|8     |Capstone Project| |        |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/8-capstone-project)         |
 
 
 ## Offline access
