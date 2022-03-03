@@ -1,7 +1,5 @@
 # Physics
 
-**NOTE:** *Might want to delve into certain unity concepts here, such as RigidBody and use these to connect theory with practice. TBD*
-
 ## Objectives
 
 - *Objective 1*
