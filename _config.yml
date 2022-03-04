@@ -30,7 +30,7 @@ url: "https://microsoft.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
 repo: "https://github.com/microsoft/intro-to-xr-development"
-github_user: "aprilspeight"
+github_user: "microsoft"
 github_repo: "intro-to-xr-development"
 
 # Optional
