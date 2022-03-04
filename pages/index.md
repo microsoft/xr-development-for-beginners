@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Material Jekyll Theme
+title: Introduction to XR Development
 permalink: /
 ---
 
@@ -20,28 +20,15 @@ We have chosen two pedagogical tenets while building this curriculum: ensuring t
 
 This curriculum was designed to be flexible and fun and can be taken in whole or in part.
 
-> Find our [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md),  [Translation](TRANSLATIONS.md) guidelines. We welcome your constructive feedback!
+## Unit Contents
 
-## Each unit includes:
+Each unit includes:
 
 - Written lessons
 - Assignments
 - Post-lesson Quizzes
 - Supplemental Reading
 - Guidance for instructors
-
-## Units
-
-|#  |Unit |Unit Objective|Lessons  |Link to Unit  |
-|---------|---------|---------|---------|---------|
-|1     |Introduction to Realities|| - What is XR? <br> - Devices <br> - Choosing a Device & Reality         |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/1-introduction-to-realities)|
-|2     |Core Concepts||- Comfort <br> - Coordinate Systems and Anchors <br> - Physics|[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/2-core-concepts)         |
-|3     |Spatial Design||- Design & Prototype <br> - Environmental Awareness      |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/3-spatial-design)         |
-|4     |Interaction Fundamentals||- Hands & Motion Controllers <br> - Hands Free <br> - Gaze & Commit         |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/4-interaction-fundamentals)         |
-|5     |C# Foundations ||- Hello World <br> - Variables & Data Types <br> - Classes & Methods <br> - Conditional Statements <br> - Loops        |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/5-csharp-foundations)         |
-|6     |Unity Fundamentals||- Unity Editor UI <br> - Scene Elements <br> - Unity Scripting         |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/6-unity-fundamentals)         |
-|7     |Create an App||         |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/7-create-an-app)         |
-|8     |Capstone Project| |        |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/8-capstone-project)         |
 
 ## Offline access
 
@@ -64,6 +51,8 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+> Find our [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md),  [Translation](TRANSLATIONS.md) guidelines. We welcome your constructive feedback!
 
 ## Trademarks
 

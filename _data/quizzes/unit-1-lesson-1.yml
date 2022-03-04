@@ -1,0 +1,34 @@
+title:
+randomized: false
+questions:
+
+ - type: "multiple-choice"
+   question: "What is augmented reality?"
+   items:
+    - choice: Red
+      correct: True
+    - choice: Blue
+      correct: null
+    - choice: Green
+      correct: null
+   followup: There is no correct answer to asking your favorite color! All choices would be good.
+
+ - type: "multiple-choice"
+   question: "An art gallery has created an augmented reality app that superimposes biographical information about an artist on a wall next to a painting if a visitor scans a QR code. This is an example of a:"
+   items:
+    - choice: Marker-based application
+      correct: true
+    - choice: GPS based application
+      correct: false
+   followup: There is no correct answer to asking your favorite color! All choices would be good.
+
+ - type: "multiple-choice"
+   question: "What is virtual reality?"
+   items:
+    - choice: Red
+      correct: null
+    - choice: Blue
+      correct: True
+    - choice: Green
+      correct: null
+   followup: There is no correct answer to asking your favorite color! All choices would be good.
