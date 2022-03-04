@@ -2,7 +2,7 @@
 title: Quiz
 ---
 
-# Quizzes
+# Quizzes - TEST
 
 As of version 0.0.12, mkdocs-jekyll has support for basic quizzes! These are
 intended to help educate your users about the content of your documentation.
