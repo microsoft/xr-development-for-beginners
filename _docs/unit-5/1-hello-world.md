@@ -34,17 +34,15 @@ namespace HelloWorld
 
 ### Understanding Input and Output
 
-Input and Output represent the most basic concepts of programming, as computers receive instructions (**input**) and programs execute them to produce a result (**output**). Though the format in which these instructions are received may vary, the general concept remains the same.
+Input and Output represent the most basic concepts of programming, as computers receive instructions (**input**) and programs execute them to produce a result (**output**). Though the format in which these instructions are received may vary, the general concept remains the same. In C#, basic output is shown through the **console window**. 
 
-In C#, basic output is shown through the **console window**.
+Select **Run** to run the code in the snippet below.
 
-`<image>` this will be an example of console output
-
-The snippet of code below is an example of code that resulted in the console window output:
-
-```csharp
-Console.WriteLine("Hello World!");
-```
+<code-fence lang="cs" heading="Hello World">
+<textarea vue-slot="code">
+Console.WriteLine("Hello World");
+</textarea>
+</code-fence>
 
 What this snippet does is instruct (input) the computer to *print* the message inside the parenthesis as a new line in the console window (output).
 
@@ -54,32 +52,38 @@ There is no need to delve much deeper than that, but it would be useful to keep 
 
 Errors are bound to happen while writing code, and this is a non-avoidable fact. Thankfully, these are bound to be solvable as well. Early on, the most common errors will have to deal with **syntax** which are the rules, keywords and operators that dictate how the language is written.
 
-Consider the following line of code:
+Select **Run** to run the code in the snippet below.
 
-```csharp 
-console.WriteLine("Hello World!");
-```
+<code-fence lang="cs" heading="Error">
+<textarea vue-slot="code">
+console.WriteLine("Hello World");
+</textarea>
+</code-fence>
 
 This code produces an error given that `console` is not defined. This happens due to the fact that C# is case sensitive. The case (lowercase or uppercase) of the letter **C** is different and therefore considers `console` and `Console` to be different.
 
 Some common errors to avoid early on:
 
 - Mixing lower-case letters instead of capitalizing when needed.
-- Writing a comma instead of a period between ```Console``` and ```WriteLine```
+- Writing a comma instead of a period between `Console` and `WriteLine`
 - Adding spaces outside of quotation marks.
 - Forgetting double quotation marks (at the beginning and at the end) of a string.
 - Forgetting the semi-colon (;) at the end of a command
 
 ### Comments
 
-When writing code in C#, any instruction prefaced by ``` // ``` is ignored by the computer, and is considered a code comment. These come in handy when testing new ways of writing code, as it allows for older pieces of code to remain in our program without needing to delete them. 
+When writing code in C#, any instruction prefaced by `//` is ignored by the computer, does not output in the console window, and is considered a code comment. These come in handy when testing new ways of writing code, as it allows for older pieces of code to remain in our program without needing to delete them.
+
+Select **Run** to run the code in the snippet below.
+
+<code-fence lang="cs" heading="Comments">
+<textarea vue-slot="code">
+// The command below prints the string Hello World.
+Console.WriteLine("Hello World");
+</textarea>
+</code-fence>
 
 Moreover, these are particularly useful to leave notes to ourselves or others who might read our code in the future. Though the syntax might be the same, the way code is written can vary from person to person, so explaining our thought process or what a certain piece of code is doing is always recommended as a good practice.
-
-```csharp
-//This next piece of code prints the message Hello World! to the console.
-Console.WriteLine("Hello World!");
-```
 
 ## Quiz
 

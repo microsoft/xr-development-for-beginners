@@ -7,8 +7,8 @@ title: Scene Objects
 ## Objectives
 
 - Recall the required objects for a Unity scene to render 3D objects
-- Contrast perspective and orthographic cameras
-- Differentiate the different types of light
+- TBD
+- TBD
 
 ## Introduction
 

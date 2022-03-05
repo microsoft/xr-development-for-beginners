@@ -6,9 +6,9 @@ title: Build and Deploy
 
 ## Objectives
 
-- Label the sections in the Unity Build Settings window
-- Identify the dependencies for Universal Windows Platform, Android, and iOS builds
-- Summarize the workflow for building an application for either Universal Windows Platform, Android, and iOS
+- TBD
+- TBD
+- TBD
 
 ## Introduction
 

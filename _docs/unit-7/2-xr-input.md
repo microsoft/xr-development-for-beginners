@@ -4,6 +4,12 @@ title: XR Input
 
 # XR Input
 
+## Objectives
+
+- TBD
+- TBD
+- TBD
+
 ## Introduction
 
 When you play a game or interact with a 2D experience on a computer, more often you'd use a keyboard and/or mouse for input. Input for XR apps and experiences go beyond traditional keyboard/mouse input and instead enables users to provide input with controllers, hands, voice, eye position, head position, and haptic devices. While most of these input types are common across XR device categories, accessing these features can vary significantly between platforms.
