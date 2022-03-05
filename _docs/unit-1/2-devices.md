@@ -64,7 +64,7 @@ Wireless headsets are referred to as untethered. **Untethered headsets** are a f
 
 ## Quiz
 
-[Start Quiz](LINK)
+{% include quiz.html file='unit-1-devices' %}
 
 ## Supplemental Reading
 

@@ -44,7 +44,7 @@ Not all devices share the same features and thus can limit the ability to engage
 
 ## Quiz
 
-[Start Quiz](LINK)
+{% include quiz.html file='unit-1-choosing-a-device-and-reality' %}
 
 ## Supplemental Reading
 

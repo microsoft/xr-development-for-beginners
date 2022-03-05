@@ -77,7 +77,7 @@ As technology continues to advance, additional real-world applications of XR tec
 
 ## Quiz
 
-{% include quiz.html file='unit-1-lesson-1' %}
+{% include quiz.html file='unit-1-what-is-xr' %}
 
 ## Supplemental Reading
 

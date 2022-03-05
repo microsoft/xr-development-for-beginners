@@ -6,10 +6,77 @@
     - title: Devices
       url: "docs/unit-1/2-devices"
     - title: Choosing a Reality
-      url: "docs/unit-1/3-choosing-a-reality"
+      url: "docs/unit-1/3-choosing-a-device-and-reality"
     - title: Unit Activity
       url: "docs/unit-1/4-unit-activity"
     - title: For Instructors
       url: "docs/unit-1/5-for-instructors"
+- title: "Unit 2: Core Concepts"
+  url: "docs/unit-2"
+  children:
+    - title: Comfort?
+      url: "docs/unit-2/1-comfort"
+    - title: Coordinte Systems and Axes
+      url: "docs/unit-2/2-coordinate-systems-and-anchors"
+    - title: Physics
+      url: "docs/unit-2/3-physics"
+    - title: Unit Activity
+      url: "docs/unit-2/4-unit-activity"
+    - title: For Instructors
+      url: "docs/unit-2/5-for-instructors"
+- title: "Unit 3: Spatial Design"
+  url: "docs/unit-3"
+  children:
+    - title: Design and Prototype
+      url: "docs/unit-3/1-design-and-prototype"
+    - title: Environmental Awareness
+      url: "docs/unit-3/2-environmental-awareness"
+    - title: Unit Activity
+      url: "docs/unit-3/3-unit-activity"
+    - title: For Instructors
+      url: "docs/unit-3/4-for-instructors"
+- title: "Unit 4: Interaction Fundamentals"
+  url: "docs/unit-4"
+  children:
+    - title: Hands and Motion Controllers
+      url: "docs/unit-4/1-hands-and-motion-controllers"
+    - title: Hands Free
+      url: "docs/unit-4/2-hands-free"
+    - title: Gaze and Commit
+      url: "docs/unit-4/3-gaze-and-commit"
+    - title: Unit Activity
+      url: "docs/unit-4/4-unit-activity"
+    - title: For Instructors
+      url: "docs/unit-4/5-for-instructors"
+- title: "Unit 5: C# Foundations"
+  url: "docs/unit-5"
+  children:
+    - title: Hello World
+      url: "docs/unit-5/1-hello-world"
+    - title: Variables and Data Types
+      url: "docs/unit-5/2-variables-data-types"
+    - title: Classes and Methods
+      url: "docs/unit-5/3-classes-methods"
+    - title: Conditional Statements
+      url: "docs/unit-5/4-conditional-statements"
+    - title: Loops
+      url: "docs/unit-5/5-loops"
+    - title: Unit Activity
+      url: "docs/unit-5/6-unit-activity"
+    - title: For Instructors
+      url: "docs/unit-5/7-for-instructors"
+- title: "Unit 6: Unity Fundamentals"
+  url: "docs/unit-6"
+  children:
+    - title: Unity Editor UI
+      url: "docs/unit-6/1-unity-editor-ui"
+    - title: Scene Elements
+      url: "docs/unit-6/2-scene-elements"
+    - title: Unity Scripting
+      url: "docs/unit-6/3-unity-scripting"
+    - title: Unit Activity
+      url: "docs/unit-6/4-build-settings"
+    - title: For Instructors
+      url: "docs/unit-6/5-for-instructors"
 - title: "Change Log"
   url: "news"
