@@ -48,7 +48,18 @@ Each Unity version installed is supported with modules. These modules provide ad
 
 ### Platforms
 
-The platform modules are essential for Unity as it enables you to target different platforms when deploying your app. Common platforms for XR development are:
+The platform modules are essential for Unity as it enables you to target different platforms when deploying your app. As it relates to XR development, Unity supports the following platforms:
+
+- ARKit
+- ARCore
+- Microsoft HoloLens
+- Windows Mixed Reality
+- Magic Leap
+- Oculus
+- OpenXR
+- PlayStation VR
+
+The following are the most common platforms with build support for XR development:
 
 - Universal Windows Platform (UWP)
 - Android

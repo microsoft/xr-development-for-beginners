@@ -2,6 +2,9 @@
 title: Classes and Methods
 ---
 
+<link href="//codefence.io/codefence.css" rel="stylesheet">
+<script defer type="text/javascript" src="//codefence.io/codefence.js"></script>
+
 # Classes and Methods
 
 ## Objectives
@@ -59,6 +62,29 @@ Dog myDog = new Dog();
 myDog.printHello();
 ```
 
+Select **Run** to run the code in the snippet below.
+
+<code-fence lang="cs" heading="Dog Class">
+<textarea vue-slot="code">
+
+class Dog
+{
+    string name;
+    string breed;
+    int age;
+
+    public void printHello()
+    {
+        Console.WriteLine("Hi I'm a dog!");
+    }
+}
+
+Dog myDog = new Dog();
+
+myDog.printHello();
+</textarea>
+</code-fence>
+
 ### Declaring Methods
 
 Methods are building blocks, which combine code together to simplify coding. In order to declare a method, there is a specific order of elements.
@@ -70,14 +96,19 @@ Methods are building blocks, which combine code together to simplify coding. In 
 
 The following is an example of a method that adds two numbers and returns the resulting value:
 
-```csharp
+Select **Run** to run the code in the snippet below.
+
+<code-fence lang="cs" heading="Hello World">
+<textarea vue-slot="code">
 //This defines a public access method that returns an int value, and receives the parameters of type int num1 and num2.
+
 public int addTwo(int num1, int num2)
 {
     //
     return num1 + num2;
 }
-```
+</textarea>
+</code-fence>
 
 If you do not need the method to return anything (ex: it's a method that just writes to the console) you can use the return type `void`. This returns nothing and requires no `return` statement.
 

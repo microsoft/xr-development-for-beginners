@@ -2,6 +2,9 @@
 title: Loops
 ---
 
+<link href="//codefence.io/codefence.css" rel="stylesheet">
+<script defer type="text/javascript" src="//codefence.io/codefence.js"></script>
+
 # Loops
 
 ## Objectives

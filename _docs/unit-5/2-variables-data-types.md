@@ -2,6 +2,9 @@
 title: Variables and Data Types
 ---
 
+<link href="//codefence.io/codefence.css" rel="stylesheet">
+<script defer type="text/javascript" src="//codefence.io/codefence.js"></script>
+
 # Variables and Data Types
 
 ## Objectives
@@ -30,28 +33,26 @@ int x;
 int y;
 ```
 
-At this time, these variables are just two empty spaces. We can assign (store) values to this allocated space in memory using the ```(=)``` (equal) sign. In C# and most programming languages, the equal sign is known as the assignment operator. This means it does not work the same way it works in regular math, and what it does is store a value inside a variable.
+<code-fence lang="cs" heading="Declare Variables">
+<textarea vue-slot="code">
+int x;
+int y;
+</textarea>
+</code-fence>
 
-```csharp
+At this time, these variables are just two empty spaces. We can assign (store) values to this allocated space in memory using the `=` (equal) sign. In C# and most programming languages, the equal sign is known as the assignment operator. This means it does not work the same way it works in regular math, and what it does is store a value inside a variable.
+
+Select **Run** to run the code in the snippet below.
+
+<code-fence lang="cs" heading="Assign Value to Variables">
+<textarea vue-slot="code">
 //Storing the number 4 in variable x:
 x = 4;
 
-//We can also store a value resulting from a mathematical operation, let's try storing the value of x + 2 in y:
-
+//We can also store a value resulting from a mathematical operation, let's try storing the value of x + 2 in y
 y = x + 2;
-```
-If we were to print these values as we learned earlier, the input and output would reflect the followingg:
-
-Input:
-```csharp
-Console.WriteLine(x);
-Console.WriteLine(y);
-```
-Output:
-```console
-4
-6
-```
+</textarea>
+</code-fence>
 
 What our program is doing here is storing the number 4 in our variable `x`, and storing the value of `x + 2 (4+2)` in our variable `y`.
 
@@ -63,13 +64,15 @@ However, we may not always want to deal with numbers. In fact, we have just touc
 
 The following list shows the most common data types in C#, and how to declare them.
 
-```csharp
+<code-fence lang="cs" heading="Assign Value to Variables">
+<textarea vue-slot="code">
 int var = 10;
 double dvar = 2.78;
 bool bvar = true;
 char cvar = 'M';
 string svar = "Hello World";
-```
+</textarea>
+</code-fence>
 
 - The first variable is the type we declared previously, **Integer**. This data type is used when working with whole numbers.
 - The second variable is another number related type, **Double**. This is used for numbers that contain decimal values, such as rational numbers.
