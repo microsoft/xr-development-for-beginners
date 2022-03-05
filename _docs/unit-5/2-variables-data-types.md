@@ -28,11 +28,6 @@ Variables work like a bucket, where once it has been declared (created in progra
 
 Here we declare two variables to store numbers:
 
-```csharp
-int x;
-int y;
-```
-
 <code-fence lang="cs" heading="Declare Variables">
 <textarea vue-slot="code">
 int x;
@@ -40,17 +35,19 @@ int y;
 </textarea>
 </code-fence>
 
-At this time, these variables are just two empty spaces. We can assign (store) values to this allocated space in memory using the `=` (equal) sign. In C# and most programming languages, the equal sign is known as the assignment operator. This means it does not work the same way it works in regular math, and what it does is store a value inside a variable.
+At this time, these variables are just two empty spaces. We can assign (store) values to this allocated space in memory using the `=` sign. In C# and most programming languages, the equal sign is known as the assignment operator. This means it does not work the same way it works in regular math, and what it does is store a value inside a variable.
 
 Select **Run** to run the code in the snippet below.
 
 <code-fence lang="cs" heading="Assign Value to Variables">
 <textarea vue-slot="code">
-//Storing the number 4 in variable x:
-x = 4;
+//Storing the number 4 in variable x
+int x = 4;
 
 //We can also store a value resulting from a mathematical operation, let's try storing the value of x + 2 in y
-y = x + 2;
+int y = x + 2;
+
+Console.WriteLine(y);
 </textarea>
 </code-fence>
 
@@ -64,7 +61,7 @@ However, we may not always want to deal with numbers. In fact, we have just touc
 
 The following list shows the most common data types in C#, and how to declare them.
 
-<code-fence lang="cs" heading="Assign Value to Variables">
+<code-fence lang="cs" heading="Common Data Types in C#">
 <textarea vue-slot="code">
 int var = 10;
 double dvar = 2.78;
