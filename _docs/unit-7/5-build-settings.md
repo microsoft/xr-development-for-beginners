@@ -19,7 +19,7 @@ The build settings contain options you can use to set up and begin the build pro
 The Build Settings window contains three sections:
 
 - Scenes in Build (Figure #, A): A list of scenes that are included in the build.
-- Platform (Figure #, B): The target operating system for the build. Common platforms for XR development are Universal Windows Platform (UWP), Android, and iOS.
+- Platform (Figure #, B): The target operating system for the build.
 - Platform Settings (Figure #, C): The build settings for the respective platform.
 
 ### Universal Windows Platform
@@ -68,9 +68,11 @@ The main workflow when building an application for iOS using Unity is as follows
 1. Compile and sign the app.
 1. Deploy the app to your device.
 
+### Activity
+
 ## Quiz
 
-{% include quiz.html file='unit-6-build-settings' %}
+{% include quiz.html file='unit-7-build-settings' %}
 
 ## Supplemental Reading
 

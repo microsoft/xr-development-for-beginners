@@ -44,7 +44,7 @@
 - title: "Unit 4: Interaction Fundamentals"
   url: "docs/unit-4"
   children:
-    - title: Interaction Fundamentals
+    - title: Interactions
       url: "docs/unit-4/0-introduction"
     - title: Hands and Motion Controllers
       url: "docs/unit-4/1-hands-and-motion-controllers"
@@ -80,17 +80,22 @@
   children:
     - title: Unity Fundamentals
       url: "docs/unit-6/0-introduction"
+    - title: Get Started
+      url: "docs/unit-6/1-get-started"
     - title: Unity Editor UI
-      url: "docs/unit-6/1-unity-editor-ui"
-    - title: Scene Elements
-      url: "docs/unit-6/2-scene-elements"
-    - title: Unity Scripting
-      url: "docs/unit-6/3-unity-scripting"
-    - title: Build Settings
-      url: "docs/unit-6/4-build-settings"
+      url: "docs/unit-6/2-unity-editor-ui"
+    - title: Project Setup
+      url: "docs/unit-6/3-project-setup"
+    - title: Scene Objects
+      url: "docs/unit-6/4-scene-objects"
     - title: Unit Activity
-      url: "docs/unit-6/5-unit-activity"
+      url: "docs/unit-6/5-unity-activity"
     - title: For Instructors
       url: "docs/unit-6/6-for-instructors"
+- title: "Unit 8: Capstone Project"
+  url: "docs/unit-8"
+  children:
+    - title: Project
+      url: "docs/unit-8/0-project"
 - title: "Change Log"
   url: "news"
