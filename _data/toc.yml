@@ -14,7 +14,7 @@
 - title: "Unit 2: Core Concepts"
   url: "docs/unit-2"
   children:
-    - title: Comfort?
+    - title: Comfort
       url: "docs/unit-2/1-comfort"
     - title: Coordinte Systems and Axes
       url: "docs/unit-2/2-coordinate-systems-and-anchors"
@@ -74,9 +74,11 @@
       url: "docs/unit-6/2-scene-elements"
     - title: Unity Scripting
       url: "docs/unit-6/3-unity-scripting"
-    - title: Unit Activity
+    - title: Build Settings
       url: "docs/unit-6/4-build-settings"
+    - title: Unit Activity
+      url: "docs/unit-6/5-unit-activity"
     - title: For Instructors
-      url: "docs/unit-6/5-for-instructors"
+      url: "docs/unit-6/6-for-instructors"
 - title: "Change Log"
   url: "news"

@@ -24,7 +24,7 @@ There are three modalities for the hands and motion controllers input model:
 
 **Direct manipulation** is an input model that involves touching 3D objects directly with your hands. The idea behind this concept is that objects behave just as they would in the real world. Buttons can be activated simply by pressing them, objects can be picked up by grabbing them, and 2D content behaves like a virtual touchscreen. There are no symbolic gestures to teach users. All interactions are built around a visual element that you can touch or grab.
 
-<`image`>
+`<image>`
 
 Direct manipulation can either be affordance or non-affordanced based. For **affordance-based manipulation**, markers or handles surrounds the object as an indicator of what you can do with the object. **Non-affordance-based manipulation** lacks such an indicator of manipulation. The possible manipulations are implied (ex: inherently knowing that buttons are typically pressed).
 

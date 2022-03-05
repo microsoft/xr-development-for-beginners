@@ -4,15 +4,11 @@ title: Conditional Statements
 
 # Conditional Statements
 
+## Objectives
+
 - Differentiate between the types of conditional statements
 - Recall the syntax for creating a conditional statement
 - Apply conditional statements to decision making in app logic
-
-## Objectives
-
-- *Objective 1*
-- *Objective 2*
-- *Objective 3*
 
 ## Introduction
 
