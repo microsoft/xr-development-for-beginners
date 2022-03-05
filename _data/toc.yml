@@ -1,7 +1,7 @@
 - title: "Unit 1: Introduction to Realities"
   url: "docs/unit-1"
   children:
-    - title: Introduction to Realities
+    - title: Overview
       url: "docs/unit-1/0-introduction"
     - title: What is XR?
       url: "docs/unit-1/1-what-is-xr"
@@ -16,7 +16,7 @@
 - title: "Unit 2: Core Concepts"
   url: "docs/unit-2"
   children:
-    - title: Core Concepts
+    - title: Overview
       url: "docs/unit-2/0-introduction"
     - title: Comfort
       url: "docs/unit-2/1-comfort"
@@ -31,7 +31,7 @@
 - title: "Unit 3: Spatial Design"
   url: "docs/unit-3"
   children:
-    - title: Spatial Design
+    - title: Overview
       url: "docs/unit-3/0-introduction"
     - title: Design and Prototype
       url: "docs/unit-3/1-design-and-prototype"
@@ -41,10 +41,10 @@
       url: "docs/unit-3/3-unit-activity"
     - title: For Instructors
       url: "docs/unit-3/4-for-instructors"
-- title: "Unit 4: Interaction Fundamentals"
+- title: "Unit 4: Interactions"
   url: "docs/unit-4"
   children:
-    - title: Interactions
+    - title: Overview
       url: "docs/unit-4/0-introduction"
     - title: Hands and Motion Controllers
       url: "docs/unit-4/1-hands-and-motion-controllers"
@@ -59,7 +59,7 @@
 - title: "Unit 5: C# Foundations"
   url: "docs/unit-5"
   children:
-    - title: C# Foundations
+    - title: Overview
       url: "docs/unit-5/0-introduction"
     - title: Hello World
       url: "docs/unit-5/1-hello-world"
@@ -78,7 +78,7 @@
 - title: "Unit 6: Unity Fundamentals"
   url: "docs/unit-6"
   children:
-    - title: Unity Fundamentals
+    - title: Overview
       url: "docs/unit-6/0-introduction"
     - title: Get Started
       url: "docs/unit-6/1-get-started"
@@ -92,10 +92,29 @@
       url: "docs/unit-6/5-unity-activity"
     - title: For Instructors
       url: "docs/unit-6/6-for-instructors"
+- title: "Unit 7: TBD"
+  url: "docs/unit-7"
+  children:
+    - title: Overview
+      url: "docs/unit-7/0-introduction"
+    - title: Unity Scripting
+      url: "docs/unit-7/1-unity-scripting"
+    - title: XR Input
+      url: "docs/unit-7/2-xr-input"
+    - title: Physics
+      url: "docs/unit-7/3-physics"
+    - title: User Interface
+      url: "docs/unit-7/4-ui"
+    - title: Build and Deploy
+      url: "docs/unit-7/5-build-and-deploy"
+    - title: Unit Activity
+      url: "docs/unit-7/6-unity-activity"
+    - title: For Instructors
+      url: "docs/unit-7/7-for-instructors"
 - title: "Unit 8: Capstone Project"
   url: "docs/unit-8"
   children:
-    - title: Project
+    - title: Overview
       url: "docs/unit-8/0-project"
 - title: "Change Log"
   url: "news"

@@ -58,9 +58,15 @@ In the Hierarchy window, a check box displays next to the GameObject's name whic
 
 Materials work together with a shader to define the appearance of a GameObject. A **shader** contains code and instructions for the graphics card to execute. Materials can be re-used across multiple GameObjects without the need to create multiple materials of the same color.
 
+`<image>`
+
 You can create a new material within the Unity editor and leverage external assets such as textures to provide character. From an organizational perspective, consider placing all project materials into a **Materials** folder at the root of your project - likewise for **Textures**. To create a new material, in the **Project** window, either select the **+** followed by **Assets > Create > Material** *or* right click into the **Project Window** and select **Create > Material**.
 
+`<image>`
+
 Material properties can be modified within the **Inspector** window. To assign a material to a GameObject, select the material from the **Project** window and drag onto the GameObject.
+
+`<image>`
 
 ### Transforms
 
