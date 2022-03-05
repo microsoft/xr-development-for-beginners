@@ -4,7 +4,7 @@ title: Interactions
 
 # Interactions
 
-This unit of the curriculum introduces the basics of user-application interaction in XR. From hands and controller-enabled operation to gaze functions, XR offers a wide array of possibilities when it comes to interacting with digital objects and applications.
+This unit introduces the basics of user-application interaction in XR. From hands and controller-enabled operation to gaze functions, XR offers a wide array of possibilities when it comes to interacting with digital objects and applications.
 
 ## Objectives
 

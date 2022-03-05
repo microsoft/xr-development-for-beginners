@@ -4,7 +4,7 @@ title: Core Concepts
 
 # Core Concepts
 
-This unit will cover the necessary concepts to start developing in the field of XR. Some of these concepts include the tools used to develop in 3-Dimensions, how to make digital objects behave like real ones and how to ensure that users are comfortable while interacting with an XR application.
+This unit covers foundational concepts necessary to understand developing for an immersive 3-dimensional environment. Some of these concepts include how to make digital objects behave like real ones and how to ensure that users are comfortable while interacting with an XR application.
 
 ## Objectives
 

@@ -230,7 +230,7 @@ Below is a list of the most commonly used and important built-in classes in Unit
 
 ## Quiz
 
-{% include quiz.html file='unit-6-unity-scripting' %}
+{% include quiz.html file='unit-7-unity-scripting' %}
 
 ## Supplemental Reading
 

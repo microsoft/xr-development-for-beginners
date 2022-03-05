@@ -4,7 +4,7 @@ title: Spatial Design
 
 # Spatial Design
 
-This unit covers how to approach designing an XR application, as well as the variables to be taken into account when developing in XR.
+This unit explores the design process for creating XR apps and introduces the benefit of creating spatially aware objects.
 
 ## Objectives
 
