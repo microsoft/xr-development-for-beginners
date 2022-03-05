@@ -1,14 +1,11 @@
 ---
-title: News
+title: Change Log
 permalink: /news/
 ---
 
-# News
+# Change Log
 
-<p>Subscribe with <a href="{{ site.baseurl }}/feed.xml">RSS</a> to keep up with the latest news.
-For site changes, see the <a href="https://github.com/{{ site.github_user }}/{{ site.github_repo }}/blob/master/CHANGELOG.md">changelog</a> kept with the code base.</p>
-
-<p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Update Change Log</a></p>
+Below is a list of recent updates for our Introduction to XR Development curriculum.
 
 {% for post in site.posts limit:10 %}
    <div class="post-preview">
@@ -23,4 +20,4 @@ For site changes, see the <a href="https://github.com/{{ site.github_user }}/{{ 
    <hr>
 {% endfor %}
 
-Want to see more? See the <a href="{{ site.baseurl }}/archive/">News Archive</a>.
+Want to see more? See the <a href="{{ site.baseurl }}/archive/">Change Log Archive</a>.

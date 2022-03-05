@@ -1,21 +1,3 @@
-- title: "Getting Started"
-  url: "docs/getting-started"
-  children:
-    - title: Features
-      url: "docs/getting-started#getting-started"
-    - title: Development
-      url: "docs/getting-started#development"
-    - title: Customization
-      url: "docs/getting-started#customization"
-- title: "Extras"
-  url: "docs/extras"
-  children:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
-    - title: Discussion Forum
-      url: "forum"
-    - title: Interactive Code
-      url: "docs/extras/interactive"
 - title: "Unit 1: Introduction to Realities"
   url: "docs/unit-1"
   children:
@@ -29,7 +11,5 @@
       url: "docs/unit-1/4-unit-activity"
     - title: For Instructors
       url: "docs/unit-1/5-for-instructors"
-- title: "About"
-  url: "about"
-- title: "News"
-  url: "news"
+- title: "Change Log"
+  url: "change-log"
