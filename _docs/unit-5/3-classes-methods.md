@@ -24,19 +24,23 @@ There are situations where a program's functionality will ask for solutions that
 
 The following is the syntax to create a class:
 
-```csharp
+<code-fence lang="cs" heading="Class Syntax">
+<textarea vue-slot="code">
 class myClass 
 {
 
 }
-```
+</textarea>
+</code-fence>
 
 `myClass` is the name given to the class, and anything can be chosen for it. The curly braces `{}` encompass the block of code that pertains to the class.
 
 Inside the block of code, we can create methods and declare variables. We will go deeper into methods in a bit, but these will allow us to add functionality to the program and get or modify information of an instance of the class.
 
-```csharp
-class Dog
+
+<code-fence lang="cs" heading="Create a Dog Class">
+<textarea vue-slot="code">
+class Dog 
 {
     string name;
     string breed;
@@ -44,23 +48,26 @@ class Dog
 
     public void printHello()
     {
-        Console.WriteLine("Hi I'm a dog!");
+        Console.WriteLine("Hi, I'm a dog!");
     }
 }
-```
+</textarea>
+</code-fence>
 
 To utilize a class, we must create an object of said class. An **object** is an instance of a class, which uses the skeleton or blueprint provided, but is given its own values that identify it as a unique instance.
 
 The following is the syntax to create an object:
 
-```csharp
+<code-fence lang="cs" heading="Create a Dog Object">
+<textarea vue-slot="code">
 // We declare objects similar to how we declare variables, using the class name as the 'data type' followed by:
 Dog myDog = new Dog();
 
 //To use a method, in this case the printHello():
 
 myDog.printHello();
-```
+</textarea>
+</code-fence>
 
 Select **Run** to run the code in the snippet below.
 
@@ -120,7 +127,8 @@ The main method can be void or int return type, must be declared inside a class 
 
 The following is the syntax to declare a `main` method:
 
-```csharp
+<code-fence lang="cs" heading="Main Method Syntax">
+<textarea vue-slot="code">
 class Program
 {
     static void Main(string[] args)
@@ -128,7 +136,8 @@ class Program
         //Here goes the content of the program
     }
 }
-```
+</textarea>
+</code-fence>
 
 ## Quiz
 
