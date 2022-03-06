@@ -73,8 +73,10 @@
       url: "docs/unit-5/5-loops"
     - title: Unit Activity
       url: "docs/unit-5/6-unit-activity"
+    - title: Unit Activity Solution
+      url: "docs/unit-5/7-unit-activity-solution"
     - title: For Instructors
-      url: "docs/unit-5/7-for-instructors"
+      url: "docs/unit-5/8-for-instructors"
 - title: "Unit 6: Unity Fundamentals"
   url: "docs/unit-6"
   children:
