@@ -15,36 +15,58 @@ title: Conditional Statements
 
 ## Introduction
 
-There are times where we might want our programs to behave differently depending on the input received. In this case, C# provides the option of preparing in-advance decision making so that after a pre-established condition is met, the program will execute a specific section of code.
+There are times where we might want our programs to behave differently depending on the input received. In this case, C# provides the option of preparing in-advance decision making so that after a pre-established condition is met, the program will execute a specific section of code. These statements are referred to as conditional statements.
 
-For example, if you're developing a VR basketball game, you'd want to make sure that points are counted based on where the ball was shot from, so that 3-pointers are included.
+There are four conditional statements:
 
-There are four main conditional statements:
+- `if` statement
+- `if/else` statement
+- `else/if` statement
+- `switch` statement
 
-- `If` statement.
-- `If/else` statement.
-- `If/else if/else` statement.
-- `Switch` case statement.
+Conditional statements can be used in conjunction with the following logical conditions:
 
-### If statement
+- Less than: `a < b`
+- Less than or equal to: `a <= b`
+- Greater than: `a > b`
+- Greater than or equal to: `a >= b`
+- Equal to: `a == b`
+- Not equal to: `a != 5`
 
-The **if statement** is used when we require a specific condition to be met in order for a command to be executed. The following is the syntax for an `if` statement.
+### if statement
 
-```csharp
+The **if** statement is used when we require a specific condition to be met in order for a command to be executed. The code is executed if the condition is `true`.
+
+The following is the syntax to create an `if` statement:
+
+<code-fence lang="cs" heading="if Statement Syntax">
+<textarea vue-slot="code">
 if (condition)
 {
     //code that runs if condition is true
 }
-```
+</textarea>
+</code-fence>
 
-*[Example using the basketball analogy]*
+Provided below is an example of an if-statement that executes a string if the value `10` is greater than `3`).
 
+<code-fence lang="cs" heading="10 is Greater than 3">
+<textarea vue-slot="code">
+if (10 > 3)
+{
+    Console.WriteLine("10 is greater than 3.");
+}
+</textarea>
+</code-fence>
 
-### If/else statement
+### if/else statement
 
-An **If/else** statement is used when after a specific condition fails, we want to make sure a specific command is executed. This command is written under the else statement, and the syntax is as follows:
+An **if/else** statement is used when after a specific condition fails, we want to make sure a specific command is executed.
 
-```csharp
+The following is the syntax to create an `if/else` statement:
+
+<code-fence lang="cs" heading="if/else Statement Syntax">
+<textarea vue-slot="code">
 if(condition)
 {
     //code that runs if condition is met
@@ -53,15 +75,32 @@ else
 {
     //code that runs if condition is not met
 }
-```
+</textarea>
+</code-fence>
 
-*[Example using the basketball analogy]*
+Provided below is an example of an if/else statement that evaluates whether `4 x 5` is equal to `30`. Given that `4 x 5` is equal to `20`, the code executes the string within the `else` statement.
 
-### If/else if/else statement
+<code-fence lang="cs" heading="4 x 5 Equals 30">
+<textarea vue-slot="code">
+if(4 x 5 == 30)
+{
+    Console.WriteLine("The product of 4 x 5 is 30.")
+}
+else
+{
+    Console.WriteLine("The product of 4 x 5 is 20.")
+}
+</textarea>
+</code-fence>
 
-An **If/else if/else statement** is used when there is a need to test multiple conditions after the first condition fails. It executes in order until the `else` statement (where every other condition has failed). The following is an example of such syntax:
+### else/if statement
 
-```csharp
+An **if/else** statement is used when there is a need to test multiple conditions after the first condition fails. An if/else statement executes in the order of `else/if` statements until the final `else` statement executes.
+
+The following is the syntax to create an `else/if` statement:
+
+<code-fence lang="cs" heading="else/if Statement Syntax">
+<textarea vue-slot="code">
 if (first condition)
 {
     //code that runs if first condition is met
@@ -79,14 +118,46 @@ else
     //code that runs if none of the above conditions are met
 }
 ```
+</textarea>
+</code-fence
 
-*[Example with new analogy or continuing the previous analogy]*
+Provided below is an example of an `else/if` statement that evaluates whether a person's `testScore` equates to either an `A`, `B`, `C`, `D`, or `F` letter grade.
 
-### Switch case statement
+<code-fence lang="cs" heading="Letter Grade">
+<textarea vue-slot="code">
+int testScore = 74;
 
-**Switch** acts similar to the previous statement chain, by checking a value rather than a condition against a list of cases. If no matching case is found, then it moves on to execute the default case. The following is the syntax for a `switch` statement:
+if (testScore >= 90)
+{
+    Console.WriteLine("A");
+}
+else if (testScore >= 80)
+{
+    Console.WriteLine("B");
+}
+else if (testScore >= 70)
+{
+    Console.WriteLine("C");
+}
+else if (testScore >= 60)
+{
+    Console.WriteLine("D");
+}
+else
+{
+    Console.WriteLine("F");
+}
+</textarea>
+</code-fence>
 
-```csharp
+### switch Statement
+
+**switch** acts similar to the previous statement chain, by checking a value rather than a condition against a list of cases. If no matching case is found, then it moves on to execute the default case.
+
+The following is the syntax for a `switch` statement:
+
+<code-fence lang="cs" heading="switch Statement Syntax">
+<textarea vue-slot="code">
 switch (value)
 {
     case case1:
@@ -99,9 +170,31 @@ switch (value)
         //code to execute
     [break;]
 }
-```
+</textarea>
+</code-fence>
 
-*[Example with new analogy or continuing the previous analogy]*
+Provided below is an example of `switch` statement that outputs the corresponding season for the provided value of `season`.
+
+<code-fence lang="cs" heading="Season">
+<textarea vue-slot="code">
+int season = 3;
+switch (season)
+{
+case 1:
+    Console.WriteLine("Spring");
+    break;
+case 2:
+    Console.WriteLine("Summer");
+    break;
+case 3:
+    Console.WriteLine("Autumn");
+    break;
+case 4:
+    Console.WriteLine("Winter");
+    break;
+}
+</textarea>
+</code-fence>
 
 ## Quiz
 
