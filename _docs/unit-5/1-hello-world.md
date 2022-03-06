@@ -17,23 +17,6 @@ title: Hello World
 
 Albeit not as crucial to XR as it may be to other areas of technology, coding is still an important part of the process to create XR experiences. The C# programming language is used in our chosen engine, Unity, to create scripts that control actions and properties of objects inside the application, as well as giving us a deeper understanding "inside the hood" of the project.
 
-```csharp
-using System;
-
-namespace HelloWorld
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World");
-        }
-    }
-}
-
-```
-*Basic C# Program*
-
 ### Understanding Input and Output
 
 Input and Output represent the most basic concepts of programming, as computers receive instructions (**input**) and programs execute them to produce a result (**output**). Though the format in which these instructions are received may vary, the general concept remains the same. In C#, basic output is shown through the **console window**. 
