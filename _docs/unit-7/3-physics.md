@@ -14,7 +14,7 @@ title: Physics
 
 Adding physics to a GameObject enables such objects to interact and collide with other objects we'd expect them to in the real world. With Unity's physics engine, you can simulate physics for GameObjects and configure in such a way that mimics real-world expectations.
 
-### RigidBodies
+### Rigidbodies
 
 A **Rigidbody** is a GameObject component that serves as the gateway to enabling physics for a GameObject. A key difference between a Rigidbody and the Transform component is that a Rigidbody can receive forces and torque whereas a Transform cannot. When a GameObject with a Rigidbody collides with another object, the GameObject's position and rotation of the Transform changes. Therefore, you shouldn't manipulate both a GameObject's Rigidbody and Transform. Doing so could lead to problems with collisions.
 

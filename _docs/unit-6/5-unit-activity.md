@@ -74,7 +74,7 @@ The game needs an object to serve as the player for the game. Since this is a pr
 
 ### Create a Basketball Hoop
 
-The basketball hoop floats vertically back and forth in the game. The hoop needs to float within the width of the basketball court. Create or import a basketball hoop model and add a script component that provides continuous horizontal movement.
+Create or import a basketball hoop model position towards the back of the court.
 
 1. [Download](https://www.cgtrader.com/free-3d-models/sports/equipment/basket-ball-hoop-cde8ef2d-fe2c-49db-962f-bd79d410c299) the basketball hoop model from CGTrader.
 
@@ -96,53 +96,7 @@ The basketball hoop floats vertically back and forth in the game. The hoop needs
 
     `<image>`
 
-1. Now that the **basketball-hoop** is in position, create a script that'll move the object horizontally back and forth within the width of the **Court**. To create a new script, in the **Project** window, right click into the **Scripts** folder and select **Create > C# Script**. Name the script **HoopMovement** and double click to compile and open in Visual Studio.
-
-    `<image>`
-
-1. In Visual Studio, add the following script and save (WILL PROVIDE EXPLANATION LATER):
-
-    ```csharp
-    using System.Collections;
-    using System.Collections.Generic;
-    using UnityEngine;
-    
-    public class HoopMovement : MonoBehaviour
-    {
-        private Vector3 startPosition;
-    
-        [SerializeField]
-        private float frequency = 5f;
-    
-        [SerializeField]
-        private float magnitude = 5f;
-    
-        // Start is called before the first frame update
-        void Start()
-        {
-            startPosition = transform.position;
-        }
-    
-        // Update is called once per frame
-        void Update()
-        {
-            transform.position = startPosition + transform.right * Mathf.Sin(Time.time * frequency) * magnitude;
-        }
-    }
-    
-    ```
-
-1. In the Unity editor, add the **HoopMovement** script as a component to **basketball-hoop**. You can do so by either dragging the script onto the parent GameObject.
-
-    `<image>`
-
-1. Press **Play** to test the script.
-
-    `<image>`
-
-    Adjust the **Frequency** and **Magnitude** so that the **basketball-hoop** moves at your desired speed within the width of the **Court**.
-
-### Create a Basketball Prefab
+### Create a Basketball
 
 Each time the player takes a shot, a new ball instantiates so that they can take another shot. Create or import a basketball model and turn the model into a prefab.
 
