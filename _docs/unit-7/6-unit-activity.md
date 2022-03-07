@@ -303,6 +303,14 @@ After the player takes a shot, the **basketball** falls to the court and stays i
 
     `<image>`
 
+### Add Basketball Swoosh Audio
+
+TBD
+
+### Add UI for the Score
+
+TBD
+
 ## Solution
 
 To view the project sample for this activity, download the [Unit 7 Activity Project](LINK).
