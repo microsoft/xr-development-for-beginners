@@ -1,14 +1,18 @@
-# Introduction to XR Development
+---
+layout: page
+title: Introduction to XR Development
+permalink: /
+---
 
-## UNDER REVIEW
+# Introduction to XR Development - UNDER REVIEW
 
-**This curriculum is currently undergoing a review phase and updates. The final version of this curriculum will become available March 21, 2022.**
+{% include alert.html type="warning" content="This curriculum is currently undergoing a review phase and updates. The final version of this curriculum will become available March 21, 2022." %}
 
 Cloud Advocates at Microsoft are pleased to offer an 8 lesson curriculum all about Extended Reality (XR) Development. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
 ## Getting Started
 
-To use this curriculum, visit [microsoft.github.io/intro-to-xr-development](https://microsoft.github.io/intro-to-xr-development/) to access and view the content within our curriculum interface. First read the lesson, complete the quiz, and complete the lesson's assignment. Another idea would be to form a study group with friends and go through the content together.
+To use this curriculum, visit aka.ms/LINK to access and view the content within our curriculum interface. First read the lesson, complete the quiz, and complete the lesson's assignment. Another idea would be to form a study group with friends and go through the content together.
 
 **Instructors**: We have included suggestions on how to present the material within this curriculum in the `instructors.md` file of each lesson.  We'd love your feedback [in our discussion forum](<LINK>)!
 
@@ -18,9 +22,9 @@ We have chosen two pedagogical tenets while building this curriculum: ensuring t
 
 This curriculum was designed to be flexible and fun and can be taken in whole or in part.
 
-> Find our [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md),  [Translation](TRANSLATIONS.md) guidelines. We welcome your constructive feedback!
+## Unit Contents
 
-## Each unit includes:
+Each unit includes:
 
 - Written lessons
 - Assignments
@@ -42,6 +46,8 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+> Find our [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md),  [Translation](TRANSLATIONS.md) guidelines. We welcome your constructive feedback!
 
 ## Trademarks
 
