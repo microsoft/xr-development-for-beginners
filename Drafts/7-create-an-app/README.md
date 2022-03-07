@@ -1,14 +1,18 @@
 # Create an App
 
-*Description of the unit.*
+This unit covers the necessary steps to create a Unity application. The different lessons will guide you through creating a simple basketball game, from creating and manipulating game objects to scripting their actions to achieve a playable app.
 
 ## Objectives
 
-- Objective 1
-- Objective 2
-- Objective 3
+- Familiarize with the process of build and project set up.
+- Familiarize with object creation and manipulation, as well as scripting.
+- Create a fully functional Unity application in the form of a simple basketball game.
+
 
 ## Lessons
 
-1. [Lesson One](1-lesson-name/README.md)
-1. [Lesson Two](2-lesson-name/README.md)
+1. [Project Setup](1-project-setup/README.md)
+1. [Build Settings](2-build-settings/README.md)
+1. [Creating Game Objects](3-creating-game-objects/README.md)
+1. [Scripting Pt. 1](4-scripting-part-one/README.md)
+1. [Scripting Pt. 2](5-scripting-part-two/README.md)
