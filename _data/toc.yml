@@ -94,7 +94,7 @@
       url: "docs/unit-6/5-unity-activity"
     - title: For Instructors
       url: "docs/unit-6/6-for-instructors"
-- title: "Unit 7: TBD"
+- title: "Unit 7: Create App Logic"
   url: "docs/unit-7"
   children:
     - title: Overview
