@@ -1,10 +1,14 @@
 # Introduction to XR Development
 
+## UNDER REVIEW
+
+**This curriculum is currently undergoing a review phase and updates. The final version of this curriculum will become available March 21, 2022.**
+
 Cloud Advocates at Microsoft are pleased to offer an 8 lesson curriculum all about Extended Reality (XR) Development. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
 ## Getting Started
 
-To use this curriculum, visit aka.ms/LINK to access and view the content within our curriculum interface. First read the lesson, complete the quiz, and complete the lesson's assignment. Another idea would be to form a study group with friends and go through the content together.
+To use this curriculum, visit [microsoft.github.io/intro-to-xr-development](https://microsoft.github.io/intro-to-xr-development/) to access and view the content within our curriculum interface. First read the lesson, complete the quiz, and complete the lesson's assignment. Another idea would be to form a study group with friends and go through the content together.
 
 **Instructors**: We have included suggestions on how to present the material within this curriculum in the `instructors.md` file of each lesson.  We'd love your feedback [in our discussion forum](<LINK>)!
 
@@ -24,27 +28,6 @@ This curriculum was designed to be flexible and fun and can be taken in whole or
 - Supplemental Reading
 - Guidance for instructors
 
-## Units
-
-|#  |Unit |Unit Objective|Lessons  |Link to Unit  |
-|---------|---------|---------|---------|---------|
-|1     |Introduction to Realities|| - What is XR? <br> - Devices <br> - Choosing a Device & Reality         |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/1-introduction-to-realities)|
-|2     |Core Concepts||- Comfort <br> - Coordinate Systems and Anchors <br> - Physics|[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/2-core-concepts)         |
-|3     |Spatial Design||- Design & Prototype <br> - Environmental Awareness      |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/3-spatial-design)         |
-|4     |Interaction Fundamentals||- Hands & Motion Controllers <br> - Hands Free <br> - Gaze & Commit         |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/4-interaction-fundamentals)         |
-|5     |C# Foundations ||- Hello World <br> - Variables & Data Types <br> - Classes & Methods <br> - Conditional Statements <br> - Loops        |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/5-csharp-foundations)         |
-|6     |Unity Fundamentals||- Unity Editor UI <br> - Scene Elements <br> - Unity Scripting         |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/6-unity-fundamentals)         |
-|7     |Create an App||         |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/7-create-an-app)         |
-|8     |Capstone Project| |        |[Start Unit](https://github.com/microsoft/intro-to-xr-development/tree/main/8-capstone-project)         |
-
-
-## Offline access
-
-You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine,  then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
-
-## PDF
-
-A PDF of all of the lessons can be found [here](<LINK>).
 
 ## Contributing
 
