@@ -79,14 +79,6 @@ for ( initial value; condition; increase )
 
 The initial value and increment value are usually numerical, with conditions being commonly established comparing the value that is increasing with a goal value.
 
-```csharp
-//This for loop will increase num by 1 until the value assigned to num is equal no longer greater than 10.
-for (int num = 1; num < 10; num = num + 1)
-{
-
-}
-```
-
 Provided below is an example of a `for` loop that outputs numbers within a range of `0` to `5`.
 
 <code-fence lang="cs" heading="Count Range of 5">
