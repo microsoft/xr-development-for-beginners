@@ -91,7 +91,7 @@ input {
 /* Badges */
 
 span.badge {
-  font-family: "Segoe", sans-serif;
+  font-family: "Segoe UI", sans-serif;
   padding: 2px 5px;
   margin-right: 5px;
   text-transform: uppercase;
@@ -192,7 +192,7 @@ body, input {
     color: rgba(0, 0, 0, .87);
     -webkit-font-feature-settings: "kern", "liga";
     font-feature-settings: "kern", "liga";
-    font-family: Segoe, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 code, kbd, pre {
     color: rgba(0, 0, 0, .87);
