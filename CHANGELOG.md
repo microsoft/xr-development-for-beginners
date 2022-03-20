@@ -13,7 +13,7 @@ Critical items to know are:
  - migration guidance
  - changed behaviour
 
-## [master](https://github.com/vsoch/mkdocs-jekyll/tree/master)
+## [main](https://github.com/microsoft/intro-to-xr-development/tree/main)
  - adding code-fence extra example (0.0.17)
  - adding .form-input class (0.0.16)
  - adding pointer to buttons (0.0.15)

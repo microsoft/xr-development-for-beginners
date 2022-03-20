@@ -43,12 +43,12 @@ $(document).ready(function() {
         var start = '<div class="dropdown more"><span><i class="fa fa-ellipsis-h more" title="Edit"></i></span><div class="dropdown-content">';
 
         // Edit (assuming deployed under main organization repo)
-        var link = "{{ site.repo }}/edit/master/{{ page.path }}#" + did;
+        var link = "{{ site.repo }}/edit/main/{{ page.path }}#" + did;
         var button = "<p><a href='" + link + "' target='_blank'>Edit this page</a></p>";
         start += button;
 
         // Issues;
-        var link = "{{ site.repo }}/issues/new?labels={% if page.editable %}{{ page.editable }}{% else %}question{% endif %}&title=Question:&body=Question on: {{ site.repo }}/tree/master/{{ page.path }}%23" + did;
+        var link = "{{ site.repo }}/issues/new?labels={% if page.editable %}{{ page.editable }}{% else %}question{% endif %}&title=Question:&body=Question on: {{ site.repo }}/tree/main/{{ page.path }}%23" + did;
 
         var button = "<p><a href='" + link + "' target='_blank'>Ask a Question</a></p>";
         start += button;
