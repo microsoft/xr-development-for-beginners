@@ -2,7 +2,7 @@
   url: "docs/unit-1"
   children:
     - title: Overview
-      url: "docs/unit-1/0-introduction"
+      url: "docs/unit-1/index"
     - title: What is XR?
       url: "docs/unit-1/1-what-is-xr"
     - title: Devices
@@ -17,7 +17,7 @@
   url: "docs/unit-2"
   children:
     - title: Overview
-      url: "docs/unit-2/0-introduction"
+      url: "docs/unit-2/index"
     - title: Comfort
       url: "docs/unit-2/1-comfort"
     - title: Coordinte Systems and Axes
@@ -32,7 +32,7 @@
   url: "docs/unit-3"
   children:
     - title: Overview
-      url: "docs/unit-3/0-introduction"
+      url: "docs/unit-3/index"
     - title: Design and Prototype
       url: "docs/unit-3/1-design-and-prototype"
     - title: Environmental Awareness
@@ -45,7 +45,7 @@
   url: "docs/unit-4"
   children:
     - title: Overview
-      url: "docs/unit-4/0-introduction"
+      url: "docs/unit-4/index"
     - title: Hands and Motion Controllers
       url: "docs/unit-4/1-hands-and-motion-controllers"
     - title: Hands Free
@@ -60,7 +60,7 @@
   url: "docs/unit-5"
   children:
     - title: Overview
-      url: "docs/unit-5/0-introduction"
+      url: "docs/unit-5/index"
     - title: Hello World
       url: "docs/unit-5/1-hello-world"
     - title: Variables and Data Types
@@ -81,7 +81,7 @@
   url: "docs/unit-6"
   children:
     - title: Overview
-      url: "docs/unit-6/0-introduction"
+      url: "docs/unit-6/index"
     - title: Get Started
       url: "docs/unit-6/1-get-started"
     - title: Unity Editor UI
@@ -98,7 +98,7 @@
   url: "docs/unit-7"
   children:
     - title: Overview
-      url: "docs/unit-7/0-introduction"
+      url: "docs/unit-7/index"
     - title: Unity Scripting
       url: "docs/unit-7/1-unity-scripting"
     - title: XR Input
@@ -117,6 +117,6 @@
   url: "docs/unit-8"
   children:
     - title: Overview
-      url: "docs/unit-8/0-project"
+      url: "docs/unit-8/index"
 - title: "Change Log"
   url: "news"
