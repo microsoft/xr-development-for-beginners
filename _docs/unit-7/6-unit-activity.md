@@ -28,7 +28,7 @@ For this prototype, you'll simulate player movement with keyboard input. The lef
 
 1. Create a script that'll enable you to move the **Player** in the corresponding direction of the arrow keys. To create a new script, in the **Project** window, right click into the **Scripts** folder and select **Create > C# Script**. Name the script **PlayerControls** and double click to compile and open in Visual Studio.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/create-script.jpg)
 
 1. In Visual Studio, add the following script and save (WILL PROVIDE EXPLANATION LATER):
 
@@ -52,16 +52,16 @@ For this prototype, you'll simulate player movement with keyboard input. The lef
             //Creating a direction vector based on the input axes (X being Horizontal direction, Y being 0 as we do not want the player to move beyond the plane and Z being Vertical direction).
             Vector3 direction = new Vector3(Input.GetAxisRaw("Horizontal"), 0, Input.GetAxisRaw("Vertical"));
             //Change the position transform by the direction vector times the preset movement speed and the time.
-            transform.position += direction * MoveSpeed * Time.deltaTime;
+            transform.position += direction * moveSpeed * Time.deltaTime;
             //Makes the character look towards the vector's direction.
             transform.LookAt(transform.position + direction);
         }
     }
     ```
 
-1. In the Unity editor, add the **PlayerControls** script as a component to **Player**. You can do so by dragging the script onto the **Player** GameObject.
+1. In the Unity editor, add the **PlayerControls** script as a component to **Player**. You can do so by dragging the script onto the **Player** GameObject. You can verify that the script became a component by looking at the Player GameObject in the inspector window.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/player-move-script.jpg)
 
 1. Press **Play** to test the script.
 
@@ -70,7 +70,7 @@ For this prototype, you'll simulate player movement with keyboard input. The lef
     - Press the **up arrow** key to move the player forward.
     - Press the **back arrow** key to move the player back.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/player-move-1.jpg)
 
 ### Create Character Ball Hold
 
@@ -78,11 +78,11 @@ When the game starts, the basketball is placed at a hold position in front of th
 
 1. In the **Hierarchy** window, select **Player**. Right-click and select **Create Empty**. Name the object **HoldPos**.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/create-holdpos.jpg)
 
-1. The **HoldPos** should be placed in front of the **Player** at about arms height (slightly above the half-way mark of **Player**). Modify the **HoldPos Transform Scale** to **0, 0.2, 1.2**. This positions the **HoldPos** in front of the player and a short direction upwards.
+1. The **HoldPos** should be placed in front of the **Player** at about arms height (slightly above the half-way mark of **Player**). Modify the **HoldPos Transform Position** to **0, 0.2, 1.2**. This positions the **HoldPos** in front of the player and a short direction upwards.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/holdpos-transform.jpg)
 
 1. Using code, place the **basketball** at the **HoldPos** for the start of the game. In Visual Studio, add a `GameObject` variable for the **basketball** and a `Transform` variable for the position of `HoldPos` to the **PlayerControls** script:
 
@@ -99,13 +99,12 @@ When the game starts, the basketball is placed at a hold position in front of th
     void Start()
     {
         basketball.transform.position = holdPos.position;
-
     }
     ```
 
 1. In the Unity editor, expand the **Player Controls** script component on the **Player**. Drag the **basketball** GameObject into the **Basketball** field. Also, drag the **HoldPos** GameObject into the **Hold Pos** field.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/script-expansion-1.jpg)
 
 1. Press **Play** to test the script. The **basketball** be positioned at the **HoldPos** when the scene starts.
 
@@ -115,11 +114,11 @@ Before the player can shoot the ball, they must hold the ball over their head. T
 
 1. In the **Hierarchy** window, select **Player**. Right-click and select **Create Empty**. Name the object **OverheadPos**.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/create-overheadpos.jpg)
 
-1. The **OverheadPos** should be placed in front of the **Player** above their head. Modify the **OverheadPos Transform Scale** to **0, 0.5, 1.2**. This positions the **OverheadPos** in front of the player and slightly above their head.
+1. The **OverheadPos** should be placed in front of the **Player** above their head. Modify the **OverheadPos Transform Position** to **0, 0.5, 1.2**. This positions the **OverheadPos** in front of the player and slightly above their head.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/overheadpos-transform.jpg)
 
 1. In the **PlayerControls** script, create a `Transform` variable for the position of `OverheadPos`.
 
@@ -143,7 +142,7 @@ Before the player can shoot the ball, they must hold the ball over their head. T
     if (ballInHands)
     {
         //If it is, we will define the space key as the key to hold the ball over the character's head.
-        if (Input.GetKeyDown("space"))
+        if (Input.GetKey(KeyCode.Space))
         {
             basketball.transform.position = overheadPos.position;
         }
@@ -156,7 +155,7 @@ Before the player can shoot the ball, they must hold the ball over their head. T
 
 1. In the Unity editor, expand the **Player Controls** script component on the **Player**. Drag the **HoldPos** GameObject into the **Overhead Pos** field.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/script-expansion-2.jpg)
 
 1. Press **Play** to test the script. Press the **space bar** key to raise the **basketball**.
 
@@ -166,11 +165,11 @@ Once the ball is placed above the player's head, the player can shoot the ball. 
 
 1. In the **Hierarchy** window, select **basketball-hoop**. Right-click and select **Create Empty**. Name the object **TargetPos**.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/create-targetpos.jpg)
 
-1. The **TargetPos** should be placed in front of the hoop. Modify the **TargetPos Transform Scale** to **-0.4, 12, -2.4**. This positions the **TargetPos** at the hoop of **basketball-hoop**.
+1. The **TargetPos** should be placed in front of the hoop. Modify the **TargetPos Transform Position** to **-0.4, 12, -2.4**. This positions the **TargetPos** at the hoop of **basketball-hoop**.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/targetpos-transform.jpg)
 
 1. In the **PlayerControls** script, create a `Transform` variable for the **TargetPos** and a `float` variable for the length of time that the `basketball` is in the air.
 
@@ -180,10 +179,10 @@ Once the ball is placed above the player's head, the player can shoot the ball. 
     ```
 1. Within the `if (ballInHands)` statement modify the statement to include the `transform.LookAt()` method:
     ```csharp
-    if (ballInHands)
+    if (BallInHands)
     {
         //If it is, we will define the space key as the key to hold the ball over the character's head.
-        if (Input.GetKeyDown("space"))
+        if (Input.GetKey(KeyCode.Space))
         {
             basketball.transform.position = overheadPos.position;
             transform.LookAt(targetPos.parent.position);
@@ -203,7 +202,7 @@ Once the ball is placed above the player's head, the player can shoot the ball. 
     if (Input.GetKeyUp(KeyCode.Space))
     {
         //For the ball to be shot, it must leave the character hands, so we make the boolean variable false.
-        ballInHands = false;
+        BallInHands = false;
         //To begin shooting, we change the boolean flying to true (as the ball starts flying from the hands)
         isBallFlying = true;
         //And restart the time (so that the new series of events can be easily written)
@@ -224,7 +223,7 @@ Once the ball is placed above the player's head, the player can shoot the ball. 
         float t01 = T / duration;  
       
         Vector3 point_A = overheadPos.position;
-        Vector3 point_B = target.position;
+        Vector3 point_B = targetPos.position;
         //Lerp is the linear interpolation function, will result in a new vector that will represent the trajectory from A to B.
         Vector3 pos = Vector3.Lerp(point_A, point_B, t01);
     }
@@ -241,7 +240,7 @@ Once the ball is placed above the player's head, the player can shoot the ball. 
 
 1. In the Unity editor, expand the **Player Controls** script component on the **Player**. Drag the **TargetPos** GameObject into the **Target Pos** field. Also, drag the **HoldPos** GameObject into the **Hold Pos** field.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/script-expansion-3.jpg)
 
 1. Press **Play** to test the script. Press and release the **space bar** key to shoot the ball. Notice that although the **basketball** shoots in an arc towards the **TargetPos**, the **basketball** continuously bounces up and down in the air. You can add physics to resolve this problem.
 
@@ -251,11 +250,11 @@ Physics is necessary for the ball to move as intended once it's shot into the ai
 
 1. In the **Hierarchy**, select the **basketball** and add a **Rigidbody** component.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/basketball-rigidbody.jpg)
 
-1. You'll manipulate the physics for the object within the **PlayerControls** script. Therefore check the **Is Kinematic** box. If **Is Kinemat** is enabled, the object is not driven by the physics engine, and can only be manipulated by it's Transform.
+1. You'll manipulate the physics for the object within the **PlayerControls** script. Therefore check the **Is Kinematic** box. If **Is Kinematic** is enabled, the object is not driven by the physics engine, and can only be manipulated by it's Transform.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/basketball-kinematic.jpg)
 
 1. In the **PlayerControls** script, add the following at the end of the `if (isBallFlying)` statement:
 
@@ -273,11 +272,11 @@ Currently, after the basketball is shot, the ball falls through the **Court**. A
 
 1. In the **Hierarchy**, select the **basketball** and add a **Sphere Collider** component.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/basketball-spherecollider.jpg)
 
 1. Now that **basketball** has a collider, the collider needs to be resized to fit the shape of the ball. In the **Sphere Collider** properties, select **Edit Collider** and resize the collider.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/basketball-collider-resize.jpg)
 
 1. Press **Play** to test the changes. After the **basketball** is shot, the ball falls to the ground and stays in place.
 
@@ -285,23 +284,27 @@ Currently, after the basketball is shot, the ball falls through the **Court**. A
 
 After the player takes a shot, the **basketball** falls to the court and stays in place. The player should instead receive the ball back to take another shot. Using code, create logic for the player to get the **basketball** after taking a shot.
 
-1. In the **Player Controls** script, add the following after the `if (isBallFlying)` statement:
+1. In the **Player Controls** script, add the following after the `if (isBallFlying)` statement and outside of the `Update()` method:
 
     ```csharp
     //when the collision trigger happens, this method is executed.
     private void OnTriggerEnter(Collider other)
     {
     //Conditional: If the ball isn't flying or has not been picked up yet, pick up the ball and activate its Rigidbody component's kinematics.
-    if (!ballInHands && !isBallFlying)
+    if (!BallInHands && !isBallFlying)
     {
-        ballInHands = true;
+        BallInHands = true;
         basketball.GetComponent<Rigidbody>().isKinematic = true;
     }
     ```
 
+1. In the **Hierarchy**, select the **Player**. Now in the **Inspector**, go to the object's **Box Collider** and click on the **isTrigger** box.
+
+    ![](/assets/img/unit-7/activity/player-collider.jpg)
+
 1. Press **Play** to try out the game. After the **basketball** is shot, the **basketball** returns to the **HoldPos** and is ready for another shot. As the player moves around the court, the player's orientation changes to face the **basketball-hoop** before taking a shot.
 
-    `<image>`
+    ![](/assets/img/unit-7/activity/game-1.jpg)
 
 ### Add Basketball Swoosh Audio
 
@@ -313,4 +316,4 @@ TBD
 
 ## Solution
 
-To view the project sample for this activity, download the [Unit 7 Activity Project](LINK).
+To view the project sample for this activity, download the [Unit 7 Activity Project](/assets/project/).

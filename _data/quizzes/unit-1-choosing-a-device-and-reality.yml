@@ -3,31 +3,21 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "?"
+   question: "In the scenario of a fully immersive solution, what type of reality is a better choice?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Either Augmented or Virtual Reality, there is no difference.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Virtual Reality.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Augmented Reality.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What are some of the limitations to take into account when choosing a device?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Computing power, environmental factors, type of reality chosen .
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Ease of use, simplicity and understanding.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Brand and fame.
       correct: null
-
- - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
-   items:
-    - choice: DUt enim ad minim veniam.
-      correct: null
-    - choice: Cillum dolore eu fugiat nulla.
-      correct: null
-    - choice: Excepteur sint occaecat cupidatat.
-      correct: True

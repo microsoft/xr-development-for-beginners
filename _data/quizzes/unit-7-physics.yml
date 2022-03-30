@@ -3,31 +3,31 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What is the main functionality of adding a Rigidbody component to a GameObject?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: To allow interaction with a GameObject.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Enabling physics for said GameObject.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: To bring clarity to a scene.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "Which of the following statements is false about colliders?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Colliders must be the exact, perfect shape of a GameObject.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Colliders are a rough approximation of the shape of a GameObject.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Unity provides three different colliders, Box, Sphere and Capsule.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What is necessary for a GameObject to be considered collidable?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: It must be declared in code as an integer.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: It must not be in contact with other GameObjects.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: The GameObject must posses a collider component and all areas of the object are contained within the collider.
       correct: True

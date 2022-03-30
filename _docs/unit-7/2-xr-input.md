@@ -46,6 +46,6 @@ The `Input.Touch` enables you to get the status of a finger touching the screen.
 
 We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
 
-- TBD
+- [XR Input - Unity Documentation](https://docs.unity3d.com/Manual/xr_input.html)
 - TBD
 - TBD

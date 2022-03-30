@@ -3,31 +3,21 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "Why are Build Settings important?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: It makes scripting easier.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: The Build Settings allows an application to set up and begin building an application for a desired platform.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: It provides the best types of objects to build upon.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What is included in Player settings?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Company Name, Product Name, Application version, default icon, and platform specific settings.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: In-App purchasing options, analytics and ads.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Graphic options.
       correct: null
-
- - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
-   items:
-    - choice: DUt enim ad minim veniam.
-      correct: null
-    - choice: Cillum dolore eu fugiat nulla.
-      correct: null
-    - choice: Excepteur sint occaecat cupidatat.
-      correct: True

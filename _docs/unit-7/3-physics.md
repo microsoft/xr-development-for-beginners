@@ -6,9 +6,9 @@ title: Physics
 
 ## Objectives
 
-- TBD
-- TBD
-- TBD
+- To become familiar with Rigidbody components, their behavior and capabilities as gateways for GameObject physics.
+- Understand the concept of colliders and how these allow for interaction between GameObjects.
+- Become aware of the possibility of collisions, as well as how these can be detected and managed.
 
 ## Introduction
 
@@ -22,7 +22,7 @@ A **Rigidbody** is a GameObject component that serves as the gateway to enabling
 
 GameObjects that contain a Rigidbody must be accompanied by a collider. A **collider** is an invisible layer surrounding a GameObject that defines it's shape. The Rigidbody and Collider components work together for the purpose of physical collisions. It defines the point of entry for a collision between two GameObjects.
 
-`<image>`
+![Screenshot depicting a capsule collider around a character model](/assets/img/unit-7/colliders.jpg)
 
 Colliders are a rough approximation of the shape of a GameObject - thus, the shape does not need to be perfect.
 
@@ -34,17 +34,15 @@ Unity provides primitive colliders that can be resized across a GameObject. Thes
 
 If using a primitive collider, consider using one that best reflects the shape of the GameObject. For example, a Box Collider would be best suited for a cup GameObject. 
 
-`<image>`
-
 You could also add multiple colliders to a GameObject to account for complex shapes.
 
-`<image>`
+![Screenshot of a series of colliders used to map a complex shape](/assets/img/unit-7/complex-collider.jpg)
 
 ### Collisions
 
 A **collision** is when two GameObjects hit (or collide) with one another. You can use code to detect when collisions occurs and initiate actions using the `OnCollisionEnter` function. The physics engine can also detect when one collider enters the space of another without creating a collision.
 
-`<image>`
+![An animated image of three balls colliding with a set of cubes](/assets/img/unit-7/unity-collision.gif)
 
 GameObjects must have a Collider component to be considered collidable. When adding a Collider to a GameObject, ensure that all areas of the GameObject are contained within the Collider. If a portion of a GameObject is not contained within the Collider, any GameObject that touches the non-collider contained part of the GameObject is not considered to be a collision.
 
@@ -56,6 +54,6 @@ GameObjects must have a Collider component to be considered collidable. When add
 
 We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
 
-- TBD
-- TBD
-- TBD
+- [RigidBody - Unity Documentation](https://docs.unity3d.com/Manual/class-Rigidbody.html)
+- [Colliders - Unity Documentation](https://docs.unity3d.com/Manual/CollidersOverview.html)
+- [Understanding Collisions](https://www.tutorialspoint.com/unity/unity_understanding_collisions.htm)

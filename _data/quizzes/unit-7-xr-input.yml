@@ -3,31 +3,11 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What is Input Mapping?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: The design of a map using user input.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: A process that enables developers to map user input to a corresponding button or key on a controller.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Defining different types of inputs according to what has been spatially mapped.
       correct: null
-
- - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
-   items:
-    - choice: DUt enim ad minim veniam.
-      correct: True
-    - choice: Cillum dolore eu fugiat nulla.
-      correct: null
-    - choice: Excepteur sint occaecat cupidatat.
-      correct: null
-
- - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
-   items:
-    - choice: DUt enim ad minim veniam.
-      correct: null
-    - choice: Cillum dolore eu fugiat nulla.
-      correct: null
-    - choice: Excepteur sint occaecat cupidatat.
-      correct: True

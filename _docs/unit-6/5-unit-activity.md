@@ -22,7 +22,7 @@ In this activity, you'll create a Unity project for the basketball game and add 
 
 1. Create a new Unity project using a **3D** template. Name the project **BasketballGame** and save it to your desktop.
 
-![](/assets/img/unit-6/activity/step-1.png)
+    ![A screenshot of Unity Hub's template selection screen](/assets/img/unit-6/activity/step-1.png)
 
 1. In the Unity editor, navigate to **File > Save As** to save the scene. Name the scene **Unit-6**.
 1. Provide a **Company Name** and **Product Name** for the app. To do so, navigate to **Edit > Project Settings > Player**.
@@ -34,7 +34,7 @@ In this activity, you'll create a Unity project for the basketball game and add 
 
     To create a new folder, right click into the **Assets** folder and select **Create > Folder**.
 
-![](/assets/img/unit-6/activity/step-4.png)
+    ![A screenshot of the folder creation process under Unity's Project window](/assets/img/unit-6/activity/step-4.png)
 
 ### Create a Basketball Court
 
@@ -42,12 +42,12 @@ The scene needs to be grounded onto a flat surface so that the player has a surf
 
 1. In the **Hierarchy** window, right click and select **3D Object > Plane**. Name the object **Court**.
 
-![](/assets/img/unit-6/activity/create-court.png)
-![](/assets/img/unit-6/activity/create-court-2.png)
+    ![A screenshot of Unity's 3D Object creation options](/assets/img/unit-6/activity/create-court.png)
+    ![A screenshot of a 3D Plane Object in Unity](/assets/img/unit-6/activity/create-court-2.png)
 
 1. Create and assign a **Material** to the **Court** GameObject. To create a new material, in the **Project** window, right click into the **Materials** folder and select **Create > Material**. Using the **Albedo** property, choose a color of your choice. Then, drag the material to the **Court** GameObject.
 
-![](/assets/img/unit-6/activity/create-court-material.png)
+    ![Screenshot of Unity's material creation and color choosing](/assets/img/unit-6/activity/create-court-material.png)
 
 ### Create a Player
 
@@ -55,23 +55,23 @@ The game needs an object to serve as the player for the game. Since this is a pr
 
 1. In the **Hierarchy** window, right click and select **3D Object > Cube**. Name the object **Player**.
 
-    ![](/assets/img/unit-6/activity/create-player.png)
+    ![Screenshot of 3D Cube creation in Unity](/assets/img/unit-6/activity/create-player.png)
 
 1. Modify the **Player Transform Scale Y** to **4**. This extends the height of the **Player** GameObject to create a vertical rectangle.
 
-    ![](/assets/img/unit-6/activity/player-transform.png)
+    ![Screenshot of Unity's Transform changes to a previously created object](/assets/img/unit-6/activity/player-transform.png)
 
 1. Create and assign a **Material** to the **Player** GameObject. To create a new material, in the **Project** window, right click into the **Materials** folder and select **Create > Material**. Using the **Albedo** property, choose a color of your choice.
 
-    ![](/assets/img/unit-6/activity/player-material.png)
+    ![Screenshot of Unity's Inspector window and scene](/assets/img/unit-6/activity/player-material.png)
 
 1. The **Player** is positioned in the middle of the court. Raise the player so that they're leveled with the ground. Modify the **Player Transform Position Y** to **2**.
 
-    ![](/assets/img/unit-6/activity/player-transform-2.png)
+    ![Screenshot of Unity showcasing a Scene and the Inspector window](/assets/img/unit-6/activity/player-transform-2.png)
 
 1. Since the basketball hoop will display on the far end of the court, the **Player** should be positioned at the opposite end of the court. Modify the **Player Transform Position Z** to **-4**.
 
-    ![](/assets/img/unit-6/activity/player-transform-3.jpg)
+    ![Screenshot of Unity showcasing a Scene and Inspector window](/assets/img/unit-6/activity/player-transform-3.jpg)
 
 ### Create a Basketball Hoop
 
@@ -81,17 +81,17 @@ Create or import a basketball hoop model position towards the back of the court.
 
 1. Rename the model **basketball-hoop** and drag the model into the **Project** window's **Models** folder to import into your project.
 
-    ![](/assets/img/unit-6/activity/hoop-model-import.jpg)
+    ![Screenshot of Unity's Project Window](/assets/img/unit-6/activity/hoop-model-import.jpg)
 
 1. Drag the **basketball-hoop** model into the scene. The model comes with it's own **Camera** GameObject. Expand the children of the **basketball-hoop** GameObject and disable the **Camera** GameObject.
 
-    ![](/assets/img/unit-6/activity/hoop-camera-disable.jpg)
+    ![Screenshot of Unity's Hierarchy, Scene and Inspector Windows. The inspector window's disable button is highlighted](/assets/img/unit-6/activity/hoop-camera-disable.jpg)
 
 1. The **basketball-hoop** needs to be resized to fit the scale of the **Player**. Modify the **basketball-hoop Transform Scale** to **0.5, 0.5, 0.5**.
 
 1. The **basketball-hoop** should be positioned at the opposite end of the **Court**. Modify the **basketball-hoop Transform Position Z** to **4**.
 
-    ![](/assets/img/unit-6/activity/hoop-scaling-transform.jpg)
+    ![Screenshot of a Unity Scene containing a 3D Basketball Hoop, and the Inspector Window](/assets/img/unit-6/activity/hoop-scaling-transform.jpg)
 
 ### Create a Basketball
 
@@ -99,27 +99,27 @@ Each time the player takes a shot, a new ball instantiates so that they can take
 
 1. [Download](https://sketchfab.com/3d-models/basketball-536d687777f0473dbc79f00ea4a17917) the basketball model from Sketchfab. After the model downloads, unzip the content within the folder.
 
-    ![](/assets/img/unit-6/activity/basketball-unzip.jpg)
+    ![Screenshot of Windows Explorer, highlighting the extract all option in a compressed folder](/assets/img/unit-6/activity/basketball-unzip.jpg)
 
 1. Drag the model's folder into the **Project** window's **Models** folder to import into your project.
 
-    ![](/assets/img/unit-6/activity/basketball-import.jpg)
+    ![Screenshot of Unity's Project Window, showcasing the elements inside the Models folder](/assets/img/unit-6/activity/basketball-import.jpg)
 
 1. Drag the **basketball** model into the scene. The **basketball** needs to be resized to fit the scale of the **Player**.Modify the **basketball Transform Scale** to **.04, .04, .04**.
 
     (Note: To fully view the **basketball**, you may need to increase the **Position Y**. Be sure to change back to **0** before proceeding to the next step.)
 
-    ![](/assets/img/unit-6/activity/basketball-scaled.jpg)
+    ![Screenshot showcasing a basketball model in Unity, placed in the center of a plane](/assets/img/unit-6/activity/basketball-scaled.jpg)
 
 1. Imported models are already created as a prefab. However, you can modify the prefab and either save the changes to the original prefab *or* create as a new prefab variant. Drag the **basketball** model into the **Prefabs** folder and create as a **Prefab variant**. Rename the model **basketball**.
 
-    ![](/assets/img/unit-6/activity/basketball-prefab-variant.jpg)
+    ![Screenshot showcasing Unity's Create Prefab options, with Prefab Variant highlighted](/assets/img/unit-6/activity/basketball-prefab-variant.jpg)
 
     Note: If you chose to create your own basketball from scratch, drag the basketball model into the **Prefabs** folder to create as a prefab.
 
 1. Now that the **basketball** prefab has been created, delete the existing **basketball** GameObject into the **Hierarchy**. If you drag the new prefab into the **Hierarchy** window, the prefab will reflect the configuration you created for the prefab.
 
-    ![](/assets/img/unit-6/activity/basketball-new-prefab.jpg)
+    ![Screenshot of a Unity Scene showcasing its prefabs](/assets/img/unit-6/activity/basketball-new-prefab.jpg)
 
 ## Solution
 

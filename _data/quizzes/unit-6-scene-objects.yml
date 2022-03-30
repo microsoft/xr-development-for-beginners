@@ -3,31 +3,31 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "Which of the following statements is false about scene objects?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: GameObjects act as containers for components.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Unity does not allow for light objects to be modified.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Every newly created Unity scene has a light and a camera.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What is the only component that cannot be removed from a GameObject?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Its Transform.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Script.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Mesh renderer.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What is the biggest benefit of using Prefabs?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Their transform can be deleted.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: They have more room for components.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Prefabs act as templates from which new prefab instances can be created, allowing for an easy way to replicate assets and keep them in sync.
       correct: True
