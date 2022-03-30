@@ -17,8 +17,7 @@ title: Variables and Data Types
 
 Programming languages make use of the computer's memory to 'remember' previous information to be used throughout a program's execution, such as specific values, names and inputs. These are stored in allocations of the computer's memory called **variables**.
 
-*Image of different buckets with different contents* 
-`<image>`
+![Three buckets of different sizes, with the words integer, string and double printed on them](/assets/img/unit-5/variable-buckets.png)
 
 Variables work like a bucket, where once it has been declared (created in programming terms) we can put, retrieve or modify the things in it. However as with a real bucket, its size is important depending on the contents we intend to put in, so variables come in different sizes depending on the type of data we want to store. These data types have their own label and help us declare the appropriate size variable for our uses.
 
@@ -85,6 +84,6 @@ string svar = "Hello World";
 
 We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
 
-- TBD
+- [C# Data Types and Variables - Software Testing Help](https://www.softwaretestinghelp.com/c-sharp/csharp-data-types-and-variables/#:~:text=C%23%20Data%20Type%20%20%20%20Type%20,%20%20False%20%209%20more%20rows%20)
 - TBD
 - TBD

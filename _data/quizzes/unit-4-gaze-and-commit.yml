@@ -3,31 +3,21 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What is the main difference between the Gaze and Commit and Gaze and Dwell modalities??"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Gaze and Dwell only works in Augmented Reality.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: The gaze and commit modality requires a secondary input, while gaze and dwell only requires one.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Gaze and Commit only works in mobile devices.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What is a good practice to notify users when they are accurately targeting an element?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Adding cues, such as hover effects, audio highlights or clicks, or clear alignment of a cursor with the element.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Transitioning to a different scene or stage once the element is targeted.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Sending an email or text message to the user once the element has been targeted.
       correct: null
-
- - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
-   items:
-    - choice: DUt enim ad minim veniam.
-      correct: null
-    - choice: Cillum dolore eu fugiat nulla.
-      correct: null
-    - choice: Excepteur sint occaecat cupidatat.
-      correct: True

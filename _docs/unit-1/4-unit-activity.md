@@ -14,15 +14,15 @@ If you've never tried out an augmented reality (AR) or virtual reality (VR) app,
 
 *Note: Requires an AR supported device such as a mobile phone or tablet.*
 
-- Example 1
-- Example 2
-- Example 3
+- Pokemon Go
+- IKEA Place
+- Amazon Shopping
 
 **Virtual Reality**
 
 *Note: Requires a VR device.*
 
-- Example 1
+- AltSpaceVR
 - Example 2
 - Example 3
 

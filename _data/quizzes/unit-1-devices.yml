@@ -3,31 +3,31 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What are the types of XR devices?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Smartphones, Tablets and Personal Computers.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Head Mounted Devices, Smartglasses, Smartphones, Tablets and Haptic Devices.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Tethered and Wireless Headsets.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What does Haptic Technology refer to?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Any technology that can create an experience of touch by applying forces, vibrations or motions to the user.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Any technology that allows the user to see 3D models.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Any technology that allows the user to be immersed in an application.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What are the benefits of a tethered device?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: It provides better computing power regardless of the device its connected to.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: It is cheaper than its alternatives.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: The cable connection helps reduce latency between what you do physically and movement in the virtual world.
       correct: True

@@ -3,31 +3,31 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "When is the hands-free model ideal?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: When the user is not required to use their hands at all.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: In situations that require users to use one or two hands to interact with their real-world environment.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: To run applications while driving.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What are some benefits of the hands-free model?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Preventing hand fatigue, reducing the learning curve of interaction with digital objects, expanding the real-world environments where the application can be used.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: It is easier to code.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Allows developers to ignore steps such as storyboarding.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "When should the Gaze and Dwell modalities be used?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: When developing apps for devices that can't sense the user's eyes or head movements.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: In situations where audio is a viable alternative and the user has freedom of usage of their hands.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: In scenarios where voice isn't ideal or possible, and the user might be using their hands for a different task.
       correct: True

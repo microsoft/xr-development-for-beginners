@@ -24,23 +24,23 @@ There are three modalities for the hands and motion controllers input model:
 
 **Direct manipulation** is an input model that involves touching 3D objects directly with your hands. The idea behind this concept is that objects behave just as they would in the real world. Buttons can be activated simply by pressing them, objects can be picked up by grabbing them, and 2D content behaves like a virtual touchscreen. There are no symbolic gestures to teach users. All interactions are built around a visual element that you can touch or grab.
 
-`<image>`
+![A hand manipulating a digital model of the Earth](/assets/img/unit-4/direct-manipulation.jpg)
 
 Direct manipulation can either be affordance or non-affordanced based. For **affordance-based manipulation**, markers or handles surrounds the object as an indicator of what you can do with the object. **Non-affordance-based manipulation** lacks such an indicator of manipulation. The possible manipulations are implied (ex: inherently knowing that buttons are typically pressed).
 
-`<image>`
+![A hand manipulating a digital object by interacting with its external handles](/assets/img/unit-4/affordance-based.png)
 
 ### Point and Commit with Hands
 
 **Point and commit with hands** is an input model that lets users target, select, and manipulate out of reach 2D and 3D content. Users first point at an object and then complete a secondary input to commit. A hand ray is typically used as a visual indicator of where the user points. It is recommended that hand rays come out from the center of the user's palm rather than their finger. Doing so provides the user with the ability to use their fingers to perform a commit using a finger-gesture (ex: pinch and grab).
 
-`<image>`
+![Hands using pointers to interact with a far digital model of a mug](/assets/img/unit-4/point-commit-hands.jpg)
 
 ### Motion Controllers
 
 Motion controllers are hardware accessories that allow users to take action. An advantage of motion controllers over gestures is that the controllers have a precise position in space, allowing for fine grained interaction with virtual objects. Such hardware contains buttons on the device to trigger an action such as selecting or grabbing an object.
 
-`<image>`
+![A hand operating a motion controller and its virtual counterpart mimicking its movements.](/assets/img/unit-4/motion-controller-movement.gif)
 
 ## Quiz
 

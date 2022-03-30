@@ -3,31 +3,31 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What does Spatial Mapping encompass?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Creating a map of space, including planets and their moons.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Creating a 3D map of the real-world environment, often through a continously updating mesh. .
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Creating models of 3D objects.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "Which are the spatial awareness most common usage scenarios?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Placement, occlusion, physics and navigation.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Flight, navigation and storyboarding.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Mapping, annotating, button creation and gaze detection.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "How does audio improve an immersive experience?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: By adding the component of music to the experience.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: By allowing the user to interact with objects by speaking.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: By mimicking sounds that the user would expect to hear using auditory cues that enhance the sense of realism inside the app.
       correct: True

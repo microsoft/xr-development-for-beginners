@@ -18,7 +18,7 @@ Unity is one of the leading real-time development platforms on the market, with 
 
 The [Unity Hub](https://unity.com/unity-hub) allows you to download multiple Unity Editors and organize your projects in one place. Since Unity upgrades are not backward compatible, you have to open the projects with the same Unity version that it was created with. You can update a project to the latest Unity version, however that may require some debugging to resolve capability errors.
 
-`<image>`
+![A screenshot of the Unity Hub](/assets//img/unit-6/unity-hub.png)
 
 The following are system requirements for the Unity Hub:
 
@@ -104,7 +104,7 @@ Selecting a script editor is a matter of personal preference. If you're unsure o
 
 Projects are created within the **Projects** tab of the Unity Hub. Selecting the **New** button defaults to the latest Unity version for your project. If you have multiple Unity versions installed, you can select the drop down next to **New** to specify a version.
 
-`<image>`
+![A screenshot of the New Project window inside the Unity Hub](/assets/img/unit-6/unity-new-project.png)
 
 **Templates**
 
@@ -116,13 +116,13 @@ The Unity Hub provides three different types of templates:
 
 - **Learning Templates**: These templates encompass fully-fledged tutorials. These are great starting points to familiarize with Unity and learn more about the basics of development in the engine.
 
-`<image>`
+![A screenshot of the Unity Hub, showcasing the Karting Microgame Learning Template](/assets/img/unit-6/learning-template.png)
 
 **Settings**
 
 You can provide a name and location for the project within the **Settings**. Consider naming and organizing your Unity projects in such a manner that makes its easiest for you to differentiate between your projects.
 
-`<image>`
+![A screenshot of the Unity Hub, highlighting the Settings options.](/assets/img/unit-6/new-project-settings.png)
 
 ## Quiz
 

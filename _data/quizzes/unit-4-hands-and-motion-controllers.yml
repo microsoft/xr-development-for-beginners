@@ -3,31 +3,31 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What are the three modalities for the hands and motion controllers input model?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: There is only one modality, motion controllers.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Direct manipulation with hands, point and commit with hands and motion controllers.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Motion controllers, static controllers and handheld controllers.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "In the scenario we needed the user to manipulate an distant object, which modality would do best?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Point and Commit with hands.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Motion controllers.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Direct manipulation with hands.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "If an object is surrounded by markers or handles for our hands to interact with, we can assume we are experiencing: "
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: A non-affordance-based manipulation.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: A point and commit manipulation.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: An affordance-based manipulation.
       correct: True

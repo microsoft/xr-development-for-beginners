@@ -16,7 +16,7 @@ This activity requires you to create code in [Visual Studio](https://visualstudi
 
 **Unit 6 Activity Project**
 
-This activity picks up at the conclusion of the Unit 6 activity. If you haven't completed the activity, download and open the [Unit 6 Activity Project](LINK) in Unity.
+This activity picks up at the conclusion of the Unit 6 activity. If you haven't completed the activity, download and open the [Unit 6 Activity Project](/assets/project/) in Unity.
 
 ## Instructions
 

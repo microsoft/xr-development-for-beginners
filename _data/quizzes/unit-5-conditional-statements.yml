@@ -3,31 +3,21 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "When are conditional statements used in programming?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: When we are unsure of what to do next.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: When we want our program to behave differently depending on the input received.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: When trying to simplify the usage of classes and methods.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What are the conditional statements in C#?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: if, if/else, else/if and switch.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: if/else and else/if.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: if, if/else, else/if and when.
       correct: null
-
- - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
-   items:
-    - choice: DUt enim ad minim veniam.
-      correct: null
-    - choice: Cillum dolore eu fugiat nulla.
-      correct: null
-    - choice: Excepteur sint occaecat cupidatat.
-      correct: True

@@ -16,7 +16,7 @@ Comfort encompasses the multiple human perception-related factors that must be a
 
 For example, a worker wearing a head mounted device to control or oversee a piece of machinery must be able to process the information given to them in real time, in a manner that is comfortable to their eyes. If their eyes are forced to focus in an unnatural way, it may lead to fatigue and possible danger.
 
-`<image>`
+![A worker oversees a piece of machinery with a digital model in extended reality through a headset](/assets/img/unit-2/worker-machinery.jpg)
 
 Moreover, depending on the level of immersion, the user's physical space must also be taken into consideration  so that the content does not require dangerous or fatiguing motions. Users should be able to experience the applications without discomfort or danger to themselves and their surroundings.
 
@@ -64,7 +64,7 @@ How the user experiences the application in their physical space must be address
 
 If the user is expected to move further than their physical space allows, virtual motion must be implemented. Virtual motion encompasses methods of movement inside the XR experience that do not require any kind of physical movement to be carried out. Instead, the user may use the controller's joystick to navigate the virtual environment. Alternatively, the user may use **teleportation** which enables them to immediately jump longer distances.
 
-`<image>`
+![A virtual reality app showcasing teleportation by marking the end location with a controller](/assets/img/unit-2/vr-teleportation.JPG)
 
 When utilizing virtual motion, it is important to note the possibility of motion sickness. This will most likely occur when the virtual motion is unexpected, continuous or does not match the user's real physical motion.
 
@@ -77,7 +77,7 @@ In order to avoid these issues, user movement should be implemented taking these
 
 Ensuring that excessive eye and neck movement is avoided can help reduce fatigue as well as eye and neck strain. Avoiding angles more than 10 degrees above the horizon, 60 degrees below the horizon and neck rotations more than 45 degrees off-center can help in reducing unnecessary eye and neck movements.
 
-`<image>`
+![A person wearing a headset displaying the different angles of vision](/assets/img/unit-2/gaze-direction.png)
 
 Take into account that there is an optimal resting gaze angle at 10-20 degrees below the horizon as well.
 
@@ -85,7 +85,7 @@ Take into account that there is an optimal resting gaze angle at 10-20 degrees b
 
 A factor of comfort that can be easily overlooked is the expectations of a user's physical position. Repeatedly requesting the user's gesture input or forcing the user to keep their arms in an unnatural manner for long periods of time (such as keeping their hand raised) can rapidly become an issue and cause muscle fatigue. 
 
-`<image>`
+![A person holding controllers with their arms raised](/assets/img/unit-2/arm-positioning.png)
 
 Adding short breaks between inputs and mixing others forms of input (such as speech) can reduce muscle strain and make the experience smoother.
 

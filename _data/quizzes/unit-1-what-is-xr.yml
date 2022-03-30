@@ -3,31 +3,31 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What kind of devices can run Augmented Reality Experiences?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Only phones and Tablets.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Smartphones, tablets, smart glasses, computers, headsets and more.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Only regular portable computers.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "Which of the following is a requirement for a GPS based application?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Access to the device's global positioning system tools.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: To have a maps application installed.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Requires a marker to display virtual objects.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "Which of the following are some of the most common XR use cases?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Music production.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Cooking.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Training and Development, Productivity and Collaboration, Design and Prototyping.
       correct: True

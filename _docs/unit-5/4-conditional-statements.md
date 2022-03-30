@@ -204,6 +204,4 @@ case 4:
 
 We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
 
-- TBD
-- TBD
-- TBD
+- [C# Conditions - W3Schools](https://www.w3schools.com/cs/cs_conditions.php#:~:text=C%23%20has%20the%20following%20conditional%20statements%3A%201%20Use,many%20alternative%20blocks%20of%20code%20to%20be%20executed)

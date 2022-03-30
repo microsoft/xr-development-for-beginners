@@ -18,7 +18,7 @@ Creating the blend between the physical and digital world is a key characteristi
 
 **Spatial mapping** creates a 3D map of the real-world environment and makes it possible to place 3D objects on real surfaces. More often, a mesh (viewable through the device's lens) is placed onto the real-world environment which is indicative of what the device identifies as a surface. As you move about your physical space, the mesh continuously updates and accounts for changes in your real-world environment.
 
-`<image>`
+![A 3D enviroment mesh done through spatial mapping](/assets/img/unit-3/mapping-mesh.jpg)
 
 Once your physical space is mapped, you're able to leverage the mapping for placing 3D objects onto real-world surfaces. Some devices are able to save mapped environments and either load on app start or import into your XR development platform for app creation.
  

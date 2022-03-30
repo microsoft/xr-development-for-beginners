@@ -3,7 +3,7 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "?"
    items:
     - choice: DUt enim ad minim veniam.
       correct: null

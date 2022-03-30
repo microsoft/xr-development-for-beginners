@@ -3,31 +3,31 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "Why are physics important in XR development?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: So that planet-based applications can have gravity.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: By enabling objects to be controlled and manipulated similarly to objects in the real world, physics allows for experiences that are as close to reality as possible.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Physics provide developers with new coordinate systems.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "Which of the following best describes a force in XR?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: An interaction that modifies or changes the motion of an object.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: The strength developed by a fitness trainer.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: A mystical power that encompasses all living beings, be it from the light or the dark side.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "How are forces applied in XR?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Through telepathy.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: By adding two coordinate planes.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Through environment changes, user's input, conditions.
       correct: True

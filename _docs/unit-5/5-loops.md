@@ -17,9 +17,8 @@ title: Loops
 
 Loops are programming statements that allow for segments of code to be executed repeatedly, as long as a condition is met.
 
-`<image>`
+![A flowchart depicting the rundown of a loop](/assets/img/unit-5/loop-flowchart.jpg)
 
-*[Flowchart showing a loop statement]*
 
 There are three different types of loops in C#:
 
@@ -162,7 +161,7 @@ for (int i = 0; i < 10; i++)
 
 ### Infinite Loops
 
-One factor to be aware of is the possibility of loops becoming infinite loops. An **infinite loop** occurs when one of the pre-established conditions never become false. Although this may sound as an error, there are cases where a continuous infinite loop can be used!
+One factor to be aware of is the possibility of loops becoming infinite loops. An **infinite loop** occurs when one of the pre-established conditions never becomes false. Although this may sound as an error, there are cases where a continuous infinite loop can be used!
 
 Here are two examples:
 
@@ -196,6 +195,4 @@ Leaving the conditional expressions of the `for` loop empty leads to the compute
 
 We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
 
-- TBD
-- TBD
-- TBD
+- [C#: What are Loops? - .NET Core Series](https://docs.microsoft.com/en-us/shows/csharp-101/csharp-what-are-loops)

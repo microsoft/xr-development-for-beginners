@@ -3,31 +3,41 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What is the goal of Bodystorming?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: To act as an ice-breaker for members of a development team.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: To generate and evaluate ideas for XR experiences, beyond the traditional idea of 2D development.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: To fully design applications using real-world objects.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What is the main focus of the process of acting?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Experiencing the user's perspective.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Making friends.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: To test out advanced functionalities in a safe environment.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "If there is a need to convey the aesthetic look and feel of an application, what kind of storyboard should be used?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: A previously approved storyboard.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: A low fidelity storyboard.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: A high fidelity storyboard.
       correct: True
+
+ - type: "multiple-choice"
+   question: "Are prototypes expected to be fully fledged applications?"
+   items:
+    - choice: No, they are expected to be simple designs.
+      correct: null
+    - choice: No, but they should be parallels to how the users expect to interact with the apps.
+      correct: True
+    - choice: Yes, and should only include complete objects and no placeholders whatsoever.
+      correct: null

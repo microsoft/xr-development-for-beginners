@@ -3,31 +3,31 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What are the types of loops in C#?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Infinite loop, continuous loop, conditional loop.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: While loop, for loop, do/while loop.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Interior loop, external loop, class loop, method loop.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What is the main difference between a while and a for loop??"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: A for loop will always have a defined number of repetitions, whereas a while loop may not.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: For loops are only usable inside of methods, whereas while loops can be used in classes.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: A while loop can only be used once per code block, as opposed to for loops that can be used as many times as needed.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "When is a loop considered an infinite loop?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: When it has no condition declared.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: When its contents add more than a thousand numbers.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: When one of the pre-established conditions never becomes false.
       correct: True

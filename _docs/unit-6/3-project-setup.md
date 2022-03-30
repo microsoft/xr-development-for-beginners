@@ -20,7 +20,7 @@ The **Build Settings** contain options you can use to set up and begin the build
 
  The Build Settings are accessed by navigating to **File > Build Settings**.
 
-`<image>`
+![A screenshot of Unity's build settings, including scenes, platform and platform settings](/assets/img/unit-6/build-settings.png)
 
 The Build Settings window contains three sections:
 
@@ -32,21 +32,21 @@ The Build Settings window contains three sections:
 
 Unity provides various project settings across 20 categories. For a beginner in XR development, we'll primarily focus on the Player and XR Plug-in Management settings. As you become more familiar with the editor, you'll later find the need to configure other settings that'll enhance your project.
 
-The Project Settings are accessed by navigating to **File > Project Settings**.
+The Project Settings are accessed by navigating to **Edit > Project Settings**.
 
-`<image>`
+![A screenshot of Unity's Project Settings](/assets/img/unit-6/project-settings.png)
 
 #### Player Settings
 
 The **Player** settings determine how Unity will build and display the final application. Within these settings, you can provide your company's name, product name, application version, and a default icon for the app. There are also additional platform-specific settings.
 
-`<image>`
+![A screenshot of Unity's Player Settings](/assets/img/unit-6/player-settings.png)
 
 #### XR Plug-in Management Settings
 
 The **XR Plug-in Management** settings are used to configure your project for XR development. Settings are configured based on the plug-in for your target platform. If you're not developing for one specific platform, rather you're creating an app that targets multiple platforms, you can use the OpenXR plugin. **OpenXR** enables you to seamlessly target a wide range of AR/VR devices.
 
-`<image>`
+![A screenshot of Unity's XR Plug-in Management](/assets/img/unit-6/xr-plugin.png)
 
 ## Quiz
 

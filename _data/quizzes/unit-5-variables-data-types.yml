@@ -3,31 +3,31 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What data type should be used when declaring a variable intended to store words?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Integer.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: String literal.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Boolean.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What is the value stored in the following line of code: int value = 98.5;?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: None, as 98.5 contains decimal values and the int data type can only store whole numbers. This will return an error.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: 98.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: 99.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What is wrong with the following line of code: string question = 'what is wrong with me?' ?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: There is nothing wrong with the code.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: The word "what" should be capitalized.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Although the variable is declared as a string, the sentence is being assigned using single quotation marks which denote a character..
       correct: True

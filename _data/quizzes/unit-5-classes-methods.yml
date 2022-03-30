@@ -3,31 +3,31 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "Which of the following is true about methods?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Methods are the skeleton of an object and encompass classes, variables and functions.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Methods combine different elements to produce a specific result and are declared inside of a class.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Methods can store multiple types of data and are declared by writing "method".
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "Which of the following is false about classes?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Can only be named MyClass.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: An instance of a class is called object.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: We can create methods and declare variables inside of a class.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What are the return types of the Main method?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: void.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: string, bool, double or int.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: void or int.
       correct: True

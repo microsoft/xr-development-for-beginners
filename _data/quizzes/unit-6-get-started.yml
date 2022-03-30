@@ -3,31 +3,21 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "Which of the following statements about the Unity Hub is false?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: The Unity Hub allows to have multiple Unity Editor versions.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: The Unity Hub only allows one version of the Unity Editor to be installed.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: The Unity Hub allows for all Unity projects to be organized in one place.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What are the most common platforms with build support for XR found in Unity?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Universal Windows Platform (UWP), Android and iOS.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: ARKit, ARCore.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Oculus and Magic Leap.
       correct: null
-
- - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
-   items:
-    - choice: DUt enim ad minim veniam.
-      correct: null
-    - choice: Cillum dolore eu fugiat nulla.
-      correct: null
-    - choice: Excepteur sint occaecat cupidatat.
-      correct: True

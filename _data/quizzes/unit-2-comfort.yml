@@ -3,31 +3,31 @@ randomized: false
 questions:
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "Which of the following statements better represent vergence and accommodation?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Vergence allows our eyes to send information to the brain while accommodation helps us understand it.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Vergence is the movement done by eyes to avoid seeing double images, while accommodation is the process by which we maintain a clear image or focus.
       correct: True
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Vergence allows our eyes to focus on a distant object, while accommodation allows our eyes to focus on a closer object.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "What should an application avoid to reduce fatigue, eye and neck strain?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: Angles more than 10 degrees above the horizon, 60 degrees below the horizon and neck rotations more than 45 degrees off center.
       correct: True
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: Excessive jumping.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: Setting the user's resting gaze 10 to 20 degrees below the horizon.
       correct: null
 
  - type: "multiple-choice"
-   question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+   question: "Which of the following must have limitation accounted for to ensure comfort?"
    items:
-    - choice: DUt enim ad minim veniam.
+    - choice: The size of an application.
       correct: null
-    - choice: Cillum dolore eu fugiat nulla.
+    - choice: How many connections the user may have.
       correct: null
-    - choice: Excepteur sint occaecat cupidatat.
+    - choice: The desired range of movement, what actions require physical movement, the user gaze's angle, arm positions.
       correct: True
