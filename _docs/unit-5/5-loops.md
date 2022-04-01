@@ -19,6 +19,8 @@ Loops are programming statements that allow for segments of code to be executed 
 
 ![A flowchart depicting the rundown of a loop](/assets/img/unit-5/loop-flowchart.jpg)
 
+Source: [DotNetTutorials](https://dotnettutorials.net/lesson/loops-in-cpp/)
+
 
 There are three different types of loops in C#:
 

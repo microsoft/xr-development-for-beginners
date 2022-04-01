@@ -20,6 +20,8 @@ Creating the blend between the physical and digital world is a key characteristi
 
 ![A 3D enviroment mesh done through spatial mapping](/assets/img/unit-3/mapping-mesh.jpg)
 
+Source: [Microsoft](https://docs.microsoft.com/en-gb/windows/mixed-reality/design/spatial-mapping)
+
 Once your physical space is mapped, you're able to leverage the mapping for placing 3D objects onto real-world surfaces. Some devices are able to save mapped environments and either load on app start or import into your XR development platform for app creation.
  
 ### Spatial Awareness

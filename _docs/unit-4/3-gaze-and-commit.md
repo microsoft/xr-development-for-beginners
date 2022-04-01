@@ -25,6 +25,8 @@ Eye-gaze and commit is an input model that involves targeting an object by looki
 
 ![A person wearing a headset selecting different objects via eye-gaze commit](/assets/img/unit-4/eye-gaze-commit-1.png)
 
+Source: [Microsoft](https://docs.microsoft.com/en-us/windows/mixed-reality/design/gaze-and-commit)
+
 ### Head-Gaze and Commit
 
 Head-Gaze and Commit is an input model that involves positioning the user's head in the direction of a target and using a secondary explicit input to confirm intention to select the target (ex: voice command).
@@ -33,9 +35,10 @@ The head gaze vector has been shown repeatedly to be usable for fine targeting, 
 
 ![A 3D object being selected via head-gaze and commit](/assets/img/unit-4/head-gaze-commit.png)
 
+Source: [Microsoft](https://docs.microsoft.com/en-us/windows/mixed-reality/design/gaze-and-commit)
+
 Users often fail to find UI elements located either too high or low in their field of view. Most of their attention ends up on areas around their main focus, which is approximately at eye level. Placing most targets in some reasonable band around eye level can help. Given the tendency for users to focus on a relatively small visual area at any time (the attentional cone of vision is roughly 10 degrees), grouping UI elements together to the degree they're related conceptually can use attention-chaining behaviors from item to item as a user moves their gaze through an area. When designing UI, keep in mind the potential large variation in field of view across headsets.
 
-`<image>`
 
 ## Quiz
 

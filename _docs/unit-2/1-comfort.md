@@ -18,6 +18,8 @@ For example, a worker wearing a head mounted device to control or oversee a piec
 
 ![A worker oversees a piece of machinery with a digital model in extended reality through a headset](/assets/img/unit-2/worker-machinery.jpg)
 
+Source: [Debate.com](https://www.debate.com.mx/tecnologia/Microsoft-HoloLens-2-presenta-nuevo-metodo-de-interaccion-con-realidad-mixta-20190228-0121.html)
+
 Moreover, depending on the level of immersion, the user's physical space must also be taken into consideration  so that the content does not require dangerous or fatiguing motions. Users should be able to experience the applications without discomfort or danger to themselves and their surroundings.
 
 Understanding some of these factors will help ensure the comfort of XR users:
@@ -66,6 +68,8 @@ If the user is expected to move further than their physical space allows, virtua
 
 ![A virtual reality app showcasing teleportation by marking the end location with a controller](/assets/img/unit-2/vr-teleportation.JPG)
 
+Source: [VRMotions](https://guendeli.github.io/blog/VR-Motions/)
+
 When utilizing virtual motion, it is important to note the possibility of motion sickness. This will most likely occur when the virtual motion is unexpected, continuous or does not match the user's real physical motion.
 
 In order to avoid these issues, user movement should be implemented taking these factors into account:
@@ -79,6 +83,8 @@ Ensuring that excessive eye and neck movement is avoided can help reduce fatigue
 
 ![A person wearing a headset displaying the different angles of vision](/assets/img/unit-2/gaze-direction.png)
 
+Source: [Microsoft Documentation](https://docs.microsoft.com/en-gb/windows/mixed-reality/design/comfort)
+
 Take into account that there is an optimal resting gaze angle at 10-20 degrees below the horizon as well.
 
 ### Arm Positions
@@ -86,6 +92,7 @@ Take into account that there is an optimal resting gaze angle at 10-20 degrees b
 A factor of comfort that can be easily overlooked is the expectations of a user's physical position. Repeatedly requesting the user's gesture input or forcing the user to keep their arms in an unnatural manner for long periods of time (such as keeping their hand raised) can rapidly become an issue and cause muscle fatigue. 
 
 ![A person holding controllers with their arms raised](/assets/img/unit-2/arm-positioning.png)
+Source: Microsoft
 
 Adding short breaks between inputs and mixing others forms of input (such as speech) can reduce muscle strain and make the experience smoother.
 

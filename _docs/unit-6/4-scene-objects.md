@@ -30,7 +30,9 @@ A Unity scene represents GameObjects in a three-dimensional space. Since the vie
 
 Lights are an essential part of every scene. They define the color and mood of your 3D environment. You’ll likely work with more than one light in each scene. Lighting in Unity works by approximating how light behaves in the real world - this also includes the light's **intensity** which is it's color and brightness. Unity uses detailed models of how light works for a more realistic result, or simplified models for a more stylized result. Light's other counterpart, shadows, add a degree of depth and realism to a Scene because they bring out the scale and position of objects that might otherwise look flat. In Unity, Lights can cast shadows from a GameObject onto other parts of itself, or onto nearby GameObjects.
 
-![](/assets/img/unit-6/light-1.png)
+![Screenshot of Unity showcasing a Light GameObject and its inspector window](/assets/img/unit-6/light-1.png)
+
+Source: [Unity Documentation](https://docs.unity3d.com/2019.4/Documentation/Manual/GameObjects.html)
 
 **Direct light** is light that is emitted, hits a surface once, and is then reflected directly into a sensor (for example, the eye’s retina or a camera). **Indirect light** is all other light that is ultimately reflected into a sensor, including light that hits surfaces several times, and sky light. To achieve realistic lighting results, you need to simulate both direct and indirect light.
 
@@ -42,6 +44,8 @@ Every object in your game is a **GameObject**, from characters and collectible i
 GameObjects do not accomplish much in themselves but they act as containers for Components. **Components** define the behavior or functionality of the GameObject. Depending on what kind of object you want to create, you add different combinations of components to a GameObject. Unity has a lot of different built-in component types, and you can also make your own components with scripts.
 
 ![Screenshot of Unity showcasing the different GameObjects of a scene](/assets/img/unit-6/gameobjects.png)
+
+Source: [Unity Documentation](https://docs.unity3d.com/2019.4/Documentation/Manual/GameObjects.html)
 
 Components on a GameObject are viewable in the Inspector window. Within each component are different **properties** that can be adjusted in the Editor or with scripts.
 
@@ -55,15 +59,19 @@ In the Hierarchy window, a check box displays next to the GameObject's name whic
 
 Materials work together with a shader to define the appearance of a GameObject. A **shader** contains code and instructions for the graphics card to execute. Materials can be re-used across multiple GameObjects without the need to create multiple materials of the same color.
 
-![](/assets/img/unit-6/materials.png)
+![Screenshot of Unity showcasing a Material in Inspector Window](/assets/img/unit-6/materials.png)
+
+Source: [Unity Documentation](https://docs.unity3d.com/2018.4/Documentation/Manual/class-Material.html)
 
 You can create a new material within the Unity editor and leverage external assets such as textures to provide character. From an organizational perspective, consider placing all project materials into a **Materials** folder at the root of your project - likewise for **Textures**. To create a new material, in the **Project** window, either select the **+** followed by **Assets > Create > Material** *or* right click into the **Project Window** and select **Create > Material**.
 
 ![Screenshot of the steps to create a new material by right clicking on the Project Window](/assets/img/unit-6/create-material.png)
 
+
 Material properties can be modified within the **Inspector** window. To assign a material to a GameObject, select the material from the **Project** window and drag onto the GameObject.
 
 ![Screenshot of a Material's properties within the inspector window](/assets/img/unit-6/material-inspector.png)
+
 
 ### Transforms
 
@@ -86,6 +94,8 @@ When you want to reuse a GameObject configured in a particular way (ex: a prop o
 Any edits that you make to a Prefab Asset are automatically reflected in the instances of that Prefab, allowing you to easily make broad changes across your whole Project without having to repeatedly make the same edit to every copy of the Asset.
 
 ![A screenshot of Unity showcasing a tree Prefab](/assets/img/unit-6/unity-prefab.png)
+
+Source: [Unity Documentation](https://docs.unity3d.com/Manual/Prefabs.html)
 
 You can nest Prefabs inside other Prefabs to create complex hierarchies of objects that are easy to edit at multiple levels.
 

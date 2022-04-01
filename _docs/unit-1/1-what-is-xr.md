@@ -15,6 +15,7 @@ title: What is XR?
 **Extended Reality** (XR) has become one of the more prominent areas of development following advancements in technology that enables us to digitally create, interact, and engage in augmented and virtual experiences. The phrase itself has taken on various meanings and continues to evolve to reflect the current XR landscape. More often, the phrase is used interchangeably with Mixed Reality (MR) - the merging of real and virtual worlds to produce new environments and visualizations, where physical and digital objects co-exist and interact in real time. We think of this technology as a spectrum from the physical world to an augmented world to a fully immersive virtual world and all the possibilities in between.
 
 ![A man interacting with digital objects through a Headset](/assets/img/unit-1/xr-show.png)
+Source: [CHRP India](https://www.chrp-india.com/blog/extended-reality-the-new-age-immersive-technology-star/)
 
 The two primary areas of XR are Augmented Reality and Virtual Reality.
 
@@ -25,22 +26,31 @@ The two primary areas of XR are Augmented Reality and Virtual Reality.
 AR experiences are not tied to headsets, and actually can be accessed through a plethora of different devices. Mobile devices such as smartphones or tablets possess the necessary technology to support augmented reality experiences and as such, enhance the real world with digital information.
 
 ![Phone showcasing a virtual couch being placed on a real world location](/assets/img/unit-1/ar-furniture-placement.png)
+Source: [Medium](https://medium.com/@riyajohn9495/why-augmented-reality-is-important-5f558fab2a0f)
 
 Many companies have resorted to AR to enhance their own applications, such as furniture stores allowing users to visualize how some of its virtual items would look in a given space. Fashion has also become an important exponent of AR technology through the usage of virtual mirror applications, where you can "try" on digital clothes or glasses using your phone's camera. Some stores have even replaced mannequins with models and products demonstrations only accessible through an AR app.
 
-![](/assets/img/unit-1/smart-dresser-app.jpg)
+![A person trying clothes through an Augmented Reality application](/assets/img/unit-1/smart-dresser-app.jpg)
+
+Source: [Shopify Retail Blog](https://www.shopify.com/retail/how-these-retailers-are-using-augmented-reality-to-enhance-the-customer-experience)
 
 Moreover, AR is also used in fields such as entertainment and marketing. In live football (soccer) TV transmissions, AR is used to enhance the viewing experience by adding lines for offside calls, post-play analysis graphs and lately to assist Video Assistant Referees (VAR) in calls such as fouls and goals.
 
 ![Augmented Reality light show around Seattle's Space Needle](/assets/img/unit-1/ar-space-needle-show.png)
 
+Source: [King5](https://www.king5.com/article/news/local/seattles-stunning-new-years-at-the-needle-show-goes-virtual-this-year/281-0ec1d1e2-543d-4fe2-bc07-37968691b905)
+
 AR applications are generally either marker-based on GPS-based. **Marker-based** applications recognize a marker in the real world, and calculate its position and orientation to augment the reality. The outcome is an overlay of a virtual object, words, or image onto of the marker.
 
 ![A digital model being displayed from a marker](/assets/img/unit-1/ar-marker-based.png)​
 
+Source: [Assemblr Blog](https://blog.assemblrworld.com/3-different-types-of-marker/)
+
 **GPS based** applications take advantage of Global Positioning System (GPS) tools in your phone. The applications use the position of your phone to find landmarks and any other point of interests near you.
 
 ![A digital modle being displayed from a GPS Location](/assets/img/unit-1/ar-gps-based.png)
+
+Source: [Assemblr Blog](https://blog.assemblrworld.com/3-different-types-of-marker/)
 
 ### Virtual Reality
 
@@ -50,9 +60,13 @@ VR applications are solely experienced through the use of a head mounted device.
 
 ![A Virtual Reality Headset](/assets/img/unit-1/vr-headset.png)
 
+Source: [VRScout](https://vrscout.com/news/samsungs-odyssey-vr-headset-oled/)
+
 VR is most commonly used in entertainment such as video-games, providing fully immersive experiences that allow its users to play through the game as a part of it, rather than as an spectator.
 
 ![A screenshot of a virtual reality game](/assets/img/unit-1/vr-game-beatsaber.png)
+
+Source: [RoadtoVR](https://www.roadtovr.com/beat-saber-to-get-more-songs-expert-difficulty-and-pro-mode/)
 
 However, VR also plays a pivotal role across other industries such as academics, where fully virtual classrooms are being developed with the goal of providing an in-person experience remotely.
 
@@ -62,6 +76,8 @@ However, VR also plays a pivotal role across other industries such as academics,
 Many use cases across the spectrum of XR technologies are applicable to both AR and VR. Depending on it's intent, an AR experience can be adapted for a VR experience - and in some cases, a 2D experience. One such example is AltspaceVR, a social platform that enables people from all over the world to connect and collaborate in real team with a true sense of presence. Users can enjoy AltspaceVR in both VR as well as in 2D on a computer.
 
 ![A screenshot from AltSpaceVR](/assets/img/unit-1/altspacevr-screenshot.png)
+
+Source: [ARPost](https://arpost.co/2020/07/21/altspacevr-update-customization-options/)
 
 Consider the examples below of XR use cases across various industries:
 

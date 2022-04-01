@@ -38,11 +38,15 @@ You could also add multiple colliders to a GameObject to account for complex sha
 
 ![Screenshot of a series of colliders used to map a complex shape](/assets/img/unit-7/complex-collider.jpg)
 
+Source: [UltimateGameTools YouTube Channel](https://www.youtube.com/watch?v=mu__FxT8Gzk)
+
 ### Collisions
 
 A **collision** is when two GameObjects hit (or collide) with one another. You can use code to detect when collisions occurs and initiate actions using the `OnCollisionEnter` function. The physics engine can also detect when one collider enters the space of another without creating a collision.
 
 ![An animated image of three balls colliding with a set of cubes](/assets/img/unit-7/unity-collision.gif)
+
+Source: [Unity Forums](https://forum.unity.com/threads/from-kinematic-to-dynamic-after-a-collision.859819/)
 
 GameObjects must have a Collider component to be considered collidable. When adding a Collider to a GameObject, ensure that all areas of the GameObject are contained within the Collider. If a portion of a GameObject is not contained within the Collider, any GameObject that touches the non-collider contained part of the GameObject is not considered to be a collision.
 

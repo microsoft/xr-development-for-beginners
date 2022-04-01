@@ -26,9 +26,13 @@ There are three modalities for the hands and motion controllers input model:
 
 ![A hand manipulating a digital model of the Earth](/assets/img/unit-4/direct-manipulation.jpg)
 
+Source: [Microsoft](https://docs.microsoft.com/en-us/windows/mixed-reality/design/design)
+
 Direct manipulation can either be affordance or non-affordanced based. For **affordance-based manipulation**, markers or handles surrounds the object as an indicator of what you can do with the object. **Non-affordance-based manipulation** lacks such an indicator of manipulation. The possible manipulations are implied (ex: inherently knowing that buttons are typically pressed).
 
 ![A hand manipulating a digital object by interacting with its external handles](/assets/img/unit-4/affordance-based.png)
+
+Source: [Microsoft](https://docs.microsoft.com/en-us/windows/mixed-reality/design/direct-manipulation)
 
 ### Point and Commit with Hands
 
@@ -36,11 +40,15 @@ Direct manipulation can either be affordance or non-affordanced based. For **aff
 
 ![Hands using pointers to interact with a far digital model of a mug](/assets/img/unit-4/point-commit-hands.jpg)
 
+Source: [Microsoft](https://docs.microsoft.com/en-us/windows/mixed-reality/design/point-and-commit)
+
 ### Motion Controllers
 
 Motion controllers are hardware accessories that allow users to take action. An advantage of motion controllers over gestures is that the controllers have a precise position in space, allowing for fine grained interaction with virtual objects. Such hardware contains buttons on the device to trigger an action such as selecting or grabbing an object.
 
 ![A hand operating a motion controller and its virtual counterpart mimicking its movements.](/assets/img/unit-4/motion-controller-movement.gif)
+
+Source: [Medium](https://medium.com/designatmeta/designing-for-hands-in-vr-61e6815add99)
 
 ## Quiz
 
