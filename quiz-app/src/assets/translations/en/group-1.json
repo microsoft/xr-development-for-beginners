@@ -6,7 +6,7 @@
     "quizzes": [
       {
         "id": 0,
-        "title": "Unit 1 - Lesson 1: What is XR?",
+        "title": "Lesson 1: What is XR?",
         "quiz": [
           {
             "questionText": "What kind of devices can run Augmented Reality experiences?",
@@ -67,7 +67,7 @@
       },
       {
         "id": 1,
-        "title": "Unit 1 - Lesson 2: Devices",
+        "title": "Lesson 2: Devices",
         "quiz": [
           {
             "questionText": "XR devices are only available as a headset.",
@@ -120,7 +120,7 @@
       },
       {
         "id": 2,
-        "title": "Unit 1 - Lesson 3: Choosing a Device and Reality",
+        "title": "Lesson 3: Choosing a Device and Reality",
         "quiz": [
           {
             "questionText": "In the scenario of a fully immersive solution, which reality is a better choice?",
@@ -161,7 +161,7 @@
             "answerOptions": [
               {
                 "answerText": "Either Augmented or Virtual Reality",
-                "isCorrect": "false"
+                "isCorrect": "true"
               },
               {
                 "answerText": "Virtual Reality",
@@ -169,6 +169,173 @@
               },
               {
                 "answerText": "Augmented Reality",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson 4: Comfort",
+        "quiz": [
+          {
+            "questionText": "Which of the following statements best defines the relationship between vergence and accommodation?",
+            "answerOptions": [
+              {
+                "answerText": "Vergence allows our eyes to send information to the brain while accommodation helps us understand it.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Vergence is the movement done by eyes to avoid seeing double images, while accommodation is the process by which we maintain a clear image or focus.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Vergence allows our eyes to focus on a distant object, while accommodation allows our eyes to focus on a closer object.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What should an application avoid to reduce fatigue, eye and neck strain?",
+            "answerOptions": [
+              {
+                "answerText": "Angles more than 10 degrees above the horizon, 60 degrees below the horizon and neck rotations more than 45 degrees off center.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Excessive jumping performed by the user.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Setting the user's resting gaze 10 to 20 degrees below the horizon.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following limitations must be accounted for to ensure user comfort?",
+            "answerOptions": [
+              {
+                "answerText": "The file size of an application.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "The number of external connections to peripherals such as controllers and monitors.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "The desired range of movement, which actions require physical movement, the user gaze's angle, and arm positions.",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson 5: Coordinate Systems and Anchors",
+        "quiz": [
+          {
+            "questionText": "Why are coordinate systems used?",
+            "answerOptions": [
+              {
+                "answerText": "To calculate the variables of an equation.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "To add physics to a 3D object.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "To express the geometry of a space, as well as determining an object's position and orientation.",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following is true?",
+            "answerOptions": [
+              {
+                "answerText": "The orientation of a coordinate system can change depending on the development environment.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Coordinate systems are always the same.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Coordinate systems are not commonly used in XR development.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Anchors allow for objects to stay in place as they are designated points within the spectrum of the real world, rather than inside the application's coordinate system.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Lesson 6: Physics",
+        "quiz": [
+          {
+            "questionText": "Why are physics important in XR development?",
+            "answerOptions": [
+              {
+                "answerText": "So that planet-based applications can have gravity.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "By enabling objects to be controlled and manipulated similarly to objects in the real world, physics allows for experiences that are as close to reality as possible.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Physics enables developers to create XR experiences without code.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following best describes a force?",
+            "answerOptions": [
+              {
+                "answerText": "An interaction that modifies or changes the motion of an object.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "The strength developed by a fitness trainer.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A mystical power that encompasses all living beings, be it from the light or the dark side.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "How are forces applied in XR?",
+            "answerOptions": [
+              {
+                "answerText": "Through telepathy.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "By adding two coordinate planes together to calculate an output.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Through environment changes, user's input, conditions.",
                 "isCorrect": "true"
               }
             ]
