@@ -472,6 +472,169 @@
             ]
           }
         ]
+      },
+      {
+        "id": 8,
+        "title": "Lesson 9: Hands and Motion Controllers",
+        "quiz": [
+          {
+            "questionText": "What are the three modalities for the hands and motion controllers input model?",
+            "answerOptions": [
+              {
+                "answerText": "There is only one modality, motion controllers.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Motion controllers, static controllers and handheld controllers.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Direct manipulation with hands, point and commit with hands and motion controllers.",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "In the scenario in which the user needs to manipulate a distant object, which modality would do best?",
+            "answerOptions": [
+              {
+                "answerText": "Point and Commit with hands",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Motion controllers",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Direct manipulation with hands",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "If an object is surrounded by markers or handles for your hands to interact with, you can assume you are experiencing",
+            "answerOptions": [
+              {
+                "answerText": "A non-affordance-based manipulation..",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A point and commit manipulation.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "An affordance-based manipulation.",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Lesson 10: Hands Free",
+        "quiz": [
+          {
+            "questionText": "A Hands Free model is best for apps that require a user to use one or two hands to interact with their real-world environment?",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which is a benefit of the Hands Free model?",
+            "answerOptions": [
+              {
+                "answerText": "Allows developers to ignore prototyping an app before development.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Prevents hand fatigue.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "A user can interact with both hands.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "When should the Gaze and Dwell modalities be used?",
+            "answerOptions": [
+              {
+                "answerText": "When developing apps for devices that can't track the user's eyes or head movements.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "In situations where audio is a viable alternative and the user has freedom to use their hands.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "In scenarios where voice isn't ideal or possible, and the user might be using their hands for a different task.",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Lesson 11: Gaze and Commit",
+        "quiz": [
+          {
+            "questionText": "What is the difference between the Gaze and Commit and Gaze and Dwell modalities?",
+            "answerOptions": [
+              {
+                "answerText": "Gaze and Dwell only works in Augmented Reality.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "The Gaze and Commit modality requires a secondary input, while Gaze and Dwell only requires one.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Gaze and Commit only works on mobile devices.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What is a good practice to notify users when they are accurately targeting an element?",
+            "answerOptions": [
+              {
+                "answerText": "Adding cues, such as hover effects, audio highlights or clicks, or clear alignment of a cursor with the element.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Transitioning to a different scene or stage once the element is targeted.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Sending an email or text message to the user once the element has been targeted.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Head and eye tracking is available in all XR devices.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
       }
     ]
   }
