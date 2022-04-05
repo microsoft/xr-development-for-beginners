@@ -341,6 +341,137 @@
             ]
           }
         ]
+      },
+      {
+        "id": 6,
+        "title": "Lesson 7: Design and Prototype",
+        "quiz": [
+          {
+            "questionText": "What is the goal of Bodystorming?",
+            "answerOptions": [
+              {
+                "answerText": "To act as an ice-breaker for members of a development team.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "To generate and evaluate ideas for XR experiences, beyond the traditional idea of 2D development.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "To fully design applications using real-world objects.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What is the main focus of the process of acting?",
+            "answerOptions": [
+              {
+                "answerText": "Experiencing the user's perspective.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Making friends.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "To test out advanced functionalities in a safe environment.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "If there is a need to convey the aesthetic look and feel of an application, what kind of storyboard should be used?",
+            "answerOptions": [
+              {
+                "answerText": "A previously approved storyboard.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A low fidelity storyboard.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A high fidelity storyboard.",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Are prototypes expected to be fully fledged applications?",
+            "answerOptions": [
+              {
+                "answerText": "No, they are expected to be simple designs.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "No, but they should parallel how the users expect to interact with the app.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Yes, and should only include complete objects and no placeholders whatsoever.",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Lesson 8: Environmental Awareness",
+        "quiz": [
+          {
+            "questionText": "What does Spatial Mapping encompass?",
+            "answerOptions": [
+              {
+                "answerText": "Creating a map of space, including planets and their moons.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Creating models of 3D objects.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Creating a 3D map of the real-world environment, often through a continuously updating mesh",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following are all use cases for spatial awareness?",
+            "answerOptions": [
+              {
+                "answerText": "Teleportation, creating buttons, and interacting with controllers",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Occlusion, seeing invisible objects, and voice command",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Placement, occlusion, physics and navigation",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "How does audio improve an immersive experience?",
+            "answerOptions": [
+              {
+                "answerText": "Audio serves no purpose in an immersive experience.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Audio provides the user with the ability to see 3D objects as a wire-frame.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Audio can mimic sounds that the user would expect to hear in a physical environment.",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
       }
     ]
   }
