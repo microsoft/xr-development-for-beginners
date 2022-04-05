@@ -6,27 +6,71 @@
     "quizzes": [
       {
         "id": 0,
-        "title": "Introduction to XR - Pre Quiz",
+        "title": "Unit 1 - Lesson 1: What is XR?",
         "quiz": [
           {
-            "questionText": "A famous 19th century proto-computer engineer was",
+            "questionText": "What kind of devices can run Augmented Reality experiences?",
             "answerOptions": [
               {
-                "answerText": "Charles Barkley",
+                "answerText": "Only smartphones and tablets.",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Charles Babbage",
+                "answerText": "Smartphones, tablets, smart glasses, computers, headsets and more.",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Charles Darwin",
+                "answerText": "Only headsets.",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Weak AI is a system designed to solve many tasks",
+            "questionText": "Which of the following is a requirement for a GPS based application?",
+            "answerOptions": [
+              {
+                "answerText": "Access to the device's global positioning system tools.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "A map application must be installed.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A marker is required to display virtual objects.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following is a use case for XR?",
+            "answerOptions": [
+              {
+                "answerText": "Training and Development",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Productivity and Collaboration",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Design and Prototyping",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "All the above",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Unit 1 - Lesson 2: Devices",
+        "quiz": [
+          {
+            "questionText": "XR devices are only available as a headset.",
             "answerOptions": [
               {
                 "answerText": "True",
@@ -39,71 +83,92 @@
             ]
           },
           {
-            "questionText": "Chat bots are an example of truly intelligent systems",
+            "questionText": "What is Haptic Technology?",
             "answerOptions": [
               {
-                "answerText": "false, they are usually designed by a series of rules.",
-                "isCorrect": "false"
-              },
-              {
-                "answerText": "true, they are usually considered to be 'intelligent'.",
-                "isCorrect": "false"
-              },
-              {
-                "answerText": "false, but they are increasingly able to pass Turing tests as they become more sophisticated.",
+                "answerText": "Any technology that can create an experience of touch by applying forces, vibrations or motions to the user.",
                 "isCorrect": "true"
+              },
+              {
+                "answerText": "Any technology that allows the user to see 3D models.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Any technology that allows the user to be immersed in an application.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which is a benefit of a tethered device?",
+            "answerOptions": [
+              {
+                "answerText": "Tethered devices provide better computing power regardless of the device its connected to.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "The cable connection helps reduce latency between what you do physically and movement in the virtual world.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Tethered devices enable you to wirelessly experience apps.",
+                "isCorrect": "false"
               }
             ]
           }
         ]
       },
       {
-        "id": 1,
-        "title": "Introduction to AI: Post-Quiz",
+        "id": 2,
+        "title": "Unit 1 - Lesson 3: Choosing a Device and Reality",
         "quiz": [
           {
-            "questionText": "A top-down approach to AI is a model of reasoning called",
+            "questionText": "In the scenario of a fully immersive solution, which reality is a better choice?",
             "answerOptions": [
               {
-                "answerText": "strategic reasoning",
+                "answerText": "Either Augmented or Virtual Reality",
                 "isCorrect": "false"
               },
               {
-                "answerText": "symbolic reasoning",
+                "answerText": "Virtual Reality",
                 "isCorrect": "true"
               },
               {
-                "answerText": "synergistic reasoning",
+                "answerText": "Augmented Reality",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "A bottom-up approach to AI might leverage a neural network to",
+            "questionText": "In the scenario of an app that overlays digital artwork on top of a mural in your physical environment, which reality is a better choice?",
             "answerOptions": [
               {
-                "answerText": "true",
-                "isCorrect": "true"
+                "answerText": "Either Augmented or Virtual Reality",
+                "isCorrect": "false"
               },
               {
-                "answerText": "false",
+                "answerText": "Virtual Reality",
                 "isCorrect": "false"
+              },
+              {
+                "answerText": "Augmented Reality",
+                "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "The AI Winter occurred in this era",
+            "questionText": "In the scenario of an app that has multi-user support, which reality is a better choice?",
             "answerOptions": [
               {
-                "answerText": "1950s",
+                "answerText": "Either Augmented or Virtual Reality",
                 "isCorrect": "false"
               },
               {
-                "answerText": "1960s",
+                "answerText": "Virtual Reality",
                 "isCorrect": "false"
               },
               {
-                "answerText": "1970s",
+                "answerText": "Augmented Reality",
                 "isCorrect": "true"
               }
             ]
