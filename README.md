@@ -133,7 +133,7 @@ This unit introduces the fundamentals of Unity development. Unity is a cross-pla
 - Construct a Unity scene with GameObjects.
 
 **Lessons**
-- [Get Started](/6-unity-fundamentals/1-get-started/README.md)
+- [Get Started with Unity](/6-unity-fundamentals/1-get-started-with-unity/README.md)
 - [Unity Editor UI](/6-unity-fundamentals/2-unity-editor-ui/README.md)
 - [Project Setup](/6-unity-fundamentals/3-project-setup/README.md)
 - [Scene Objects](/6-unity-fundamentals/4-scene-objects/README.md)

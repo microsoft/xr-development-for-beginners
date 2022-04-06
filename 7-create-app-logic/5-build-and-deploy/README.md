@@ -25,7 +25,7 @@ When you click **Build and Run**, Unity builds an app executable that can run in
 You can connect your Android device to your computer to install your app onto the deice. The main workflow when building an application for Android using Unity is as follows:
 
 1. Unity generates and exports an APK and OBB package to the path that you select.
-1. Install the packages on your device manually using the Android Debug Bridge (ADB) Publish the package to the Google Play Store OR
+1. Install the packages on your device manually using the Android Debug Bridge (ADB) OR
 1. Publish the packages to the Google Play Store.
 
 Selecting **Build and Run** saves the output packages to the file path you specify, while also installing your app on the Android device connected to your computer.
