@@ -304,10 +304,10 @@ After the player takes a shot, the **basketball** falls to the court and stays i
 
 ## Solution
 
-To view the project sample for this activity, download the [Unit 7 Assignment](https://github.com/microsoft/xr-development-for-beginners/blob/main/Unit-7-Assignment.unitypackage) Unity package and import into Unity.
+To view the project sample for this activity, import the **Unit 7 Assignment** Unity package that's within the [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners) repository.
 
 **How to Import a Package into Unity**
 
 1. In top navigation menu, select **Assets > Import Package > Custom Package**.
-1. In the **Import Unity Package** window, select **All** then **Import**. 
+1. In the **Import Unity Package** window, select **All** then **Import**.
 1. Once the package is imported, open the **Unit-7** scene.
