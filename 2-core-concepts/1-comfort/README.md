@@ -88,7 +88,7 @@ Adding short breaks between inputs and mixing others forms of input (such as spe
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/3)
 
 ## Supplemental Reading
 

@@ -98,7 +98,7 @@ Source: [Microsoft](https://hololabinc.github.io/MixedRealityToolkit-Unity/Docum
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/6)
 
 ## Supplemental Reading
 

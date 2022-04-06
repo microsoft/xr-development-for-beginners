@@ -89,7 +89,7 @@ As technology continues to advance, additional real-world applications of XR tec
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/0)
 
 ## Supplemental Reading
 

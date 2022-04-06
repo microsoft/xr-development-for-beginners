@@ -69,7 +69,7 @@ Source: [GadgetComrade](https://gadgetcomrade.com/oculus-go-standalone/)
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/1)
 
 ## Supplemental Reading
 

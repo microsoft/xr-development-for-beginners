@@ -49,7 +49,7 @@ Source: [Microsoft](https://docs.microsoft.com/en-us/windows/mixed-reality/desig
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/9)
 
 ## Supplemental Reading
 

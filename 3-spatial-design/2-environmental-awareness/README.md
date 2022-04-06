@@ -62,7 +62,7 @@ Placement of the audio plays a major role in how audio is perceived by the user.
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/7)
 
 ## Supplemental Reading
 

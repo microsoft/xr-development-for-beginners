@@ -585,7 +585,60 @@
       },
       {
         "id": 10,
-        "title": "Lesson 11: Hello World",
+        "title": "Lesson 11: Gaze and Commit",
+        "quiz": [
+          {
+            "questionText": "A head-gaze relies on the position of which body part:",
+            "answerOptions": [
+              {
+                "answerText": "Arm",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Eyes",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Head",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Eye-gaze and commit is ideal for which sort of actions?",
+            "answerOptions": [
+              {
+                "answerText": "Slow interactions with 3D objects.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Quick gaze-and-commit actions.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Slow gaze-and-commit actions.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Gaze and commit is a two-step process.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Lesson 12: Hello World",
         "quiz": [
           {
             "questionText": "Which of the following is true about the C# programming language?",
@@ -637,8 +690,8 @@
         ]
       },
       {
-        "id": 11,
-        "title": "Lesson 12: Variables and Data Types",
+        "id": 12,
+        "title": "Lesson 13: Variables and Data Types",
         "quiz": [
           {
             "questionText": "What data type should be used when declaring a variable intended to store words?",
@@ -694,8 +747,8 @@
         ]
       },
       {
-        "id": 12,
-        "title": "Lesson 13: Classes and Methods",
+        "id": 13,
+        "title": "Lesson 14: Classes and Methods",
         "quiz": [
           {
             "questionText": "Which of the following is true about methods?",
@@ -751,8 +804,8 @@
         ]
       },
       {
-        "id": 13,
-        "title": "Lesson 14: Conditional Statements",
+        "id": 14,
+        "title": "Lesson 15: Conditional Statements",
         "quiz": [
           {
             "questionText": "When are conditional statements used in programming?",
@@ -804,8 +857,8 @@
         ]
       },
       {
-        "id": 14,
-        "title": "Lesson 15: Loops",
+        "id": 15,
+        "title": "Lesson 16: Loops",
         "quiz": [
           {
             "questionText": "What are the types of loops in C#",
@@ -861,8 +914,8 @@
         ]
       },
       {
-        "id": 15,
-        "title": "Lesson 16: Get Started with Unity",
+        "id": 16,
+        "title": "Lesson 17: Get Started with Unity",
         "quiz": [
           {
             "questionText": "Only one Unity version can be installed at a time.",
@@ -914,8 +967,8 @@
         ]
       },
       {
-        "id": 16,
-        "title": "Lesson 17: Unity Editor UI",
+        "id": 17,
+        "title": "Lesson 18: Unity Editor UI",
         "quiz": [
           {
             "questionText": "What does the Hierarchy window contains?",
@@ -967,8 +1020,8 @@
         ]
       },
       {
-        "id": 17,
-        "title": "Lesson 18: Project Setup",
+        "id": 18,
+        "title": "Lesson 19: Project Setup",
         "quiz": [
           {
             "questionText": "Which section in Project Settings is used for assigning the app's name?",
@@ -1020,8 +1073,8 @@
         ]
       },
       {
-        "id": 18,
-        "title": "Lesson 19: Scene Objects",
+        "id": 19,
+        "title": "Lesson 20: Scene Objects",
         "quiz": [
           {
             "questionText": "The following is required in a scene to render a 3D environment:",
@@ -1073,8 +1126,8 @@
         ]
       },
       {
-        "id": 19,
-        "title": "Lesson 20: Unity Scripting",
+        "id": 20,
+        "title": "Lesson 21: Unity Scripting",
         "quiz": [
           {
             "questionText": "A Unity scripts provides the following functions by default:",
@@ -1126,8 +1179,8 @@
         ]
       },
       {
-        "id": 20,
-        "title": "Lesson 21: XR Input",
+        "id": 21,
+        "title": "Lesson 22: XR Input",
         "quiz": [
           {
             "questionText": "Which of the following provides the status of a finger touching the screen?",
@@ -1179,8 +1232,8 @@
         ]
       },
       {
-        "id": 21,
-        "title": "Lesson 22: Physics",
+        "id": 22,
+        "title": "Lesson 23: Physics",
         "quiz": [
           {
             "questionText": "What is the main functionality of adding a Rigidbody component to a GameObject?",
@@ -1236,8 +1289,8 @@
         ]
       },
       {
-        "id": 22,
-        "title": "Lesson 23: User Interface",
+        "id": 23,
+        "title": "Lesson 24: User Interface",
         "quiz": [
           {
             "questionText": "UI elements within the Canvas are rendered in which order?",
@@ -1293,8 +1346,8 @@
         ]
       },
       {
-        "id": 23,
-        "title": "Lesson 24: Build and Deploy",
+        "id": 24,
+        "title": "Lesson 25: Build and Deploy",
         "quiz": [
           {
             "questionText": "When building for the Universal Windows Platform, which IDE is used to build your final application?",

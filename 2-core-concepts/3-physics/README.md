@@ -44,7 +44,7 @@ Without a pivot point, any force added to an object will result in movement (pro
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/5)
 
 ## Supplemental Reading
 

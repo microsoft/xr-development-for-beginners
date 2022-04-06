@@ -40,7 +40,7 @@ Not all devices share the same features and thus can limit the ability to engage
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/2)
 
 ## Supplemental Reading
 

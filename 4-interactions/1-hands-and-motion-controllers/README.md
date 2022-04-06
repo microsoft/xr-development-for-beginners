@@ -48,7 +48,7 @@ Source: [Medium](https://medium.com/designatmeta/designing-for-hands-in-vr-61e68
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/8)
 
 ## Supplemental Reading
 
