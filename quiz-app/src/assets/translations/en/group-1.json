@@ -1071,6 +1071,279 @@
             ]
           }
         ]
+      },
+      {
+        "id": 19,
+        "title": "Lesson 20: Unity Scripting",
+        "quiz": [
+          {
+            "questionText": "A Unity scripts provides the following functions by default:",
+            "answerOptions": [
+              {
+                "answerText": "Start and Append",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Update, Cancel",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Start, Update",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Which class enables a variety of ways to work with a GameObject's position?",
+            "answerOptions": [
+              {
+                "answerText": "Transform",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Mathf",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Debug",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "To assign a variable value directly in the Editor, create the variable as public in the script.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Lesson 21: XR Input",
+        "quiz": [
+          {
+            "questionText": "Which of the following provides the status of a finger touching the screen?",
+            "answerOptions": [
+              {
+                "answerText": "Input.TouchScreen",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Touch.Input",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Input.Touch",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "What's the purpose of the InputFeatureUsage?",
+            "answerOptions": [
+              {
+                "answerText": "InputFeatureUsage provides a list of controls that are not available for input for a specified platform.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "InputFeatureUsage is a standard set of physical device controls to access user input on any platform.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "InputFeatureUsage provides a log of each time an input has been selected.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Adaptive controller input can be mapped to various XR devices.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Lesson 22: Physics",
+        "quiz": [
+          {
+            "questionText": "What is the main functionality of adding a Rigidbody component to a GameObject?",
+            "answerOptions": [
+              {
+                "answerText": "To allow interaction with a GameObject.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Enabling physics for a GameObject.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "To brighten a scene.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following statements is false about colliders?",
+            "answerOptions": [
+              {
+                "answerText": "Colliders must be the exact, perfect shape of a GameObject.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Colliders are a rough approximation of the shape of a GameObject.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Unity provides three different colliders, Box, Sphere and Capsule.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What is it necessary for a GameObject to be considered collidable?",
+            "answerOptions": [
+              {
+                "answerText": "The GameObject must be declared in code as an integer.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "The GameObject must be the child of another GameObject.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "The GameObject must posses a collider component and all areas of the object are contained within the collider.",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Lesson 23: User Interface",
+        "quiz": [
+          {
+            "questionText": "UI elements within the Canvas are rendered in which order?",
+            "answerOptions": [
+              {
+                "answerText": "Alphabetically",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Creation Order",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Order they appear in the hierarchy",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Which component in the Inspector is used to move, resize, or rotate UI elements in a canvas?",
+            "answerOptions": [
+              {
+                "answerText": "Rect Transform",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Canvas Transform",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Transform UI Gizmo",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which interaction component is not provided by Unity?",
+            "answerOptions": [
+              {
+                "answerText": "Finger Drawing",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Slider",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Button",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Lesson 24: Build and Deploy",
+        "quiz": [
+          {
+            "questionText": "When building for the Universal Windows Platform, which IDE is used to build your final application?",
+            "answerOptions": [
+              {
+                "answerText": "Atom",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Sublime",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Visual Studio",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Android apps can be installed manually to your device using the following:",
+            "answerOptions": [
+              {
+                "answerText": "Android Debug Bridge (ADB)",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Android Package Install (API)",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Android App Bridge (AAB)",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Deploying an app to an iOS devices requires XCode.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
       }
     ]
   }
