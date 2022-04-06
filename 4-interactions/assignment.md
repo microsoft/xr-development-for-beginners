@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Interactions for the basketball game app will vary depending on whether you choose to adapt the game for AR or VR. Consider how each interaction model could be leverage for a player to interact with the game.
+Interactions for the basketball game app will vary depending on whether you choose to adapt the game for AR or VR. Consider how each interaction model could be leveraged for a player to interact with the game.
 
 ### Hands and Motion Controllers
 

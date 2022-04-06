@@ -39,7 +39,7 @@ Users often fail to find UI elements located either too high or low in their fie
 
 [Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/10)
 
-## Supplemental Reading
+## Review and Self Study
 
 We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
 

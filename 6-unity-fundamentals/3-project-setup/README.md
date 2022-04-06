@@ -48,7 +48,7 @@ The **XR Plug-in Management** settings are used to configure your project for XR
 
 [Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/18)
 
-## Supplemental Reading
+## Review and Self Study
 
 We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
 

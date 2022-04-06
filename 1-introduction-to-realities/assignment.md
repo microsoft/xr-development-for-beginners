@@ -10,17 +10,17 @@ If you've never tried out an augmented reality (AR) or virtual reality (VR) app,
 
 *Note: Requires an AR supported device such as a mobile phone or tablet.*
 
-- Example 1
-- Example 2
-- Example 3
+- [Pokémon Go](https://www.pokemon.com/us/app/pokemon-go/)
+- Social Media Filters ([TikTok](https://tiktok.com), [Instagram](https://www.instagram.com), or [Snap Chat](https://snapchat.com/))
+- [Ikea Place](https://apps.apple.com/us/app/ikea-place/id1279244498)
 
 **Virtual Reality**
 
 *Note: Requires a VR device.*
 
-- Example 1
-- Example 2
-- Example 3
+- [Beat Saber](https://www.beatsaber.com/)
+- [AltspaceVR](https://altvr.com/)
+- [Tilt Brush](https://www.tiltbrush.com/)
 
 After trying out the app, review and answer the questions below. If you've already tried out an AR or VR app prior to starting this curriculum, we still encourage you to review and answer the questions below.
 

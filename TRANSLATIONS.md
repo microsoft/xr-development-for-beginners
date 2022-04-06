@@ -4,7 +4,7 @@ We welcome translations for the lessons in this curriculum!
 
 ## Guidelines
 
-There are [**translations**](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/1-intro-to-programming-languages/translations) folders which contain the translated markdown files.
+There are [**translations**](https://github.com/microsoft/xr-development-for-beginners/tree/main/translations) folders which contain the translated markdown files.
 
 Translated lessons should follow this naming convention:
 
@@ -14,7 +14,7 @@ where _[language]_ is a two letter language abbreviation following the ISO 639-1
 
 **Quizzes**
 
-Add your translation to the quiz-app by adding a file here: https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/quiz-app/src/assets/translations. Please don't localize the words 'true' or 'false' however. thanks!
+Add your translation to the quiz-app by adding a file here: https://github.com/microsoft/xr-development-for-beginners/tree/main/quiz-app/src/assets/translations. Please don't localize the words 'true' or 'false' however. thanks!
 
 **THANK YOU**
 

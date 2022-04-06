@@ -55,8 +55,7 @@ Moreover, these are particularly useful to leave notes to ourselves or others wh
 
 [Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/11)
 
-## Supplemental Reading
-
+## Review and Self Study
 We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
 
 - [Take your first steps with C# - Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)

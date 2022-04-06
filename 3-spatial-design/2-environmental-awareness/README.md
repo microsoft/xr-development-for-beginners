@@ -42,7 +42,6 @@ In this scenario, a 3D ball rolls off the surface of a table and onto the ground
 
 **Navigation**
 
-
 In this scenario, a virtual robot navigates around a room, avoiding obstacles. The virtual robot can move around the environment while also being aware of obstacles that obstructs it's path of movement.
 
 ### Spatial Audio
@@ -64,7 +63,7 @@ Placement of the audio plays a major role in how audio is perceived by the user.
 
 [Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/7)
 
-## Supplemental Reading
+## Review and Self Study
 
 We've identified the following resources to provide additional context and learning for the content reviewed in this lesson. We encourage you to review the material below and explore additional related topics.
 
