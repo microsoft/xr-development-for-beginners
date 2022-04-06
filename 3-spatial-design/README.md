@@ -1,12 +1,19 @@
-# Getting Started with 
+# Spatial Design
 
-In this section of the curriculum, you will be introduced to ...
+This unit explores the design process for creating XR apps and introduces the benefit of creating spatially aware objects.
 
-### Topics
+## Objectives
 
-1. [Introduction to](1-intro-to/README.md)
+- Understand the concepts of Spatial Design, and their importance before developing an XR application.
+- Identify the different approaches to XR design.
+- Understand the limitations posed by a user’s environment, and how to take them into account when developing an XR application.
 
+## Lessons
 
-### Credits
+- [Design and Prototype](/3-spatial-design/1-design-and-prototype/README.md)
+- [Environmental Awareness](/3-spatial-design/2-environmental-awareness/README.md)
 
-"Introduction to" was written with ♥️ by [Name](Twitter)
+## Assigment
+
+[Design a Basketball Game App](/3-spatial-design/assignment.md)
+

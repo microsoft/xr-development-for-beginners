@@ -9,7 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/microsoft/xr-development-for-beginners/stargazers/)
 
 
-# Intro to XR Development
+# XR Development for Beginners
 
 Azure Cloud Advocates at Microsoft are pleased to offer a 8-week, 25-lesson curriculum all about Extended Reality (XR) development. Each lesson a written lecture, a post-lesson quiz, supplemental resources, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
@@ -103,6 +103,8 @@ This unit introduces the basics of user-application interaction in XR. From hand
 ## Unit 5: C# Foundations
 
 This unit serves as an introduction to programming using the C# (C Sharp) language. Although there are multiple languages that can be used in XR development, C# is one of the most commonly used due to its prevalence in the Unity Engine (which is the chosen engine for this curriculum).
+
+**Objectives**
 
 - Create a basic Hello World application in C#.
 - Understand and differentiate the languages data types, properly declaring variables as needed.
