@@ -865,41 +865,7 @@
         "title": "Lesson 16: Get Started with Unity",
         "quiz": [
           {
-            "questionText": "What is the difference between the Gaze and Commit and Gaze and Dwell modalities?",
-            "answerOptions": [
-              {
-                "answerText": "Gaze and Dwell only works in Augmented Reality.",
-                "isCorrect": "false"
-              },
-              {
-                "answerText": "The Gaze and Commit modality requires a secondary input, while Gaze and Dwell only requires one.",
-                "isCorrect": "true"
-              },
-              {
-                "answerText": "Gaze and Commit only works on mobile devices.",
-                "isCorrect": "false"
-              }
-            ]
-          },
-          {
-            "questionText": "What is a good practice to notify users when they are accurately targeting an element?",
-            "answerOptions": [
-              {
-                "answerText": "Adding cues, such as hover effects, audio highlights or clicks, or clear alignment of a cursor with the element.",
-                "isCorrect": "true"
-              },
-              {
-                "answerText": "Transitioning to a different scene or stage once the element is targeted.",
-                "isCorrect": "false"
-              },
-              {
-                "answerText": "Sending an email or text message to the user once the element has been targeted.",
-                "isCorrect": "false"
-              }
-            ]
-          },
-          {
-            "questionText": "Head and eye tracking is available in all XR devices.",
+            "questionText": "Only one Unity version can be installed at a time.",
             "answerOptions": [
               {
                 "answerText": "True",
@@ -908,6 +874,199 @@
               {
                 "answerText": "False",
                 "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the follow is not a platform used fo XR development?",
+            "answerOptions": [
+              {
+                "answerText": "ARKit",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "iOS",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "OpenWebXR",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "What is a LTS release?",
+            "answerOptions": [
+              {
+                "answerText": "Length To Ship is a Unity version that can support projects with no planned shipped date.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Long Term Support is a stable Unity version that's best for developing and shipping projects for an extended period.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Low Term Stability is a stable Unity version that's best for short term projects created as a prototype.",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Lesson 17: Unity Editor UI",
+        "quiz": [
+          {
+            "questionText": "What does the Hierarchy window contains?",
+            "answerOptions": [
+              {
+                "answerText": "A list of all assets imported into the project.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A list of all assets in the currently opened scene.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "A list of scripts.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following is not a sene navigation tool?",
+            "answerOptions": [
+              {
+                "answerText": "Rotational continuum gizmo",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Center tool",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Scene gizmo",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "The Unity Editor windows can be rearranged to a different layout.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Lesson 18: Project Setup",
+        "quiz": [
+          {
+            "questionText": "Which section in Project Settings is used for assigning the app's name?",
+            "answerOptions": [
+              {
+                "answerText": "Services",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Player",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Quality",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which window is used for changing the build Platform?",
+            "answerOptions": [
+              {
+                "answerText": "Build Settings.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Player Settings.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Platform Preferences.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "OpenXR enables you to seamlessly target only two platforms.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Lesson 19: Scene Objects",
+        "quiz": [
+          {
+            "questionText": "The following is required in a scene to render a 3D environment:",
+            "answerOptions": [
+              {
+                "answerText": "Light, GameObject, Audio",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Script, GameObject, Audio",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Light, Camera, GameObject",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "To create a reusable GameObject, convert the GameObject to a:",
+            "answerOptions": [
+              {
+                "answerText": "Prefab",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "FabGameObject",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Dupe",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "A scene can contain multiple lights.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
               }
             ]
           }
