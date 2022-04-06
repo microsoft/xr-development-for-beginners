@@ -170,7 +170,7 @@ The status bar provides notifications about various Unity processes, and quick a
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/17)
 
 ## Supplemental Reading
 

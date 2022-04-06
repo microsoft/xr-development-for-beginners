@@ -163,7 +163,7 @@ Leaving the conditional expressions of the `for` loop empty leads to the compute
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/15)
 
 ## Supplemental Reading
 

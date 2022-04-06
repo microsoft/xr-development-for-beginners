@@ -37,7 +37,7 @@ Users often fail to find UI elements located either too high or low in their fie
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/10)
 
 ## Supplemental Reading
 

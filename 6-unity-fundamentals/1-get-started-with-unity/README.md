@@ -122,7 +122,7 @@ You can provide a name and location for the project within the **Settings**. Con
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/16)
 
 ## Supplemental Reading
 

@@ -36,7 +36,7 @@ The `Input.Touch` enables you to get the status of a finger touching the screen.
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/21)
 
 ## Supplemental Reading
 

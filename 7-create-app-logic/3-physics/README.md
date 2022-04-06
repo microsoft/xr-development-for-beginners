@@ -46,10 +46,9 @@ Source: [Unity Forums](https://forum.unity.com/threads/from-kinematic-to-dynamic
 
 GameObjects must have a Collider component to be considered collidable. When adding a Collider to a GameObject, ensure that all areas of the GameObject are contained within the Collider. If a portion of a GameObject is not contained within the Collider, any GameObject that touches the non-collider contained part of the GameObject is not considered to be a collision.
 
-
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/22)
 
 ## Supplemental Reading
 

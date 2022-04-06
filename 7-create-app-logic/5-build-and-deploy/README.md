@@ -41,7 +41,7 @@ The main workflow when building an application for iOS using Unity is as follows
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/24)
 
 ## Supplemental Reading
 

@@ -90,7 +90,7 @@ You should also use Prefabs when you want to instantiate (or create an instance)
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/19)
 
 ## Supplemental Reading
 

@@ -53,7 +53,7 @@ Moreover, these are particularly useful to leave notes to ourselves or others wh
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/11)
 
 ## Supplemental Reading
 

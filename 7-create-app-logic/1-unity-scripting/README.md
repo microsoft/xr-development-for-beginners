@@ -209,7 +209,7 @@ Below is a list of the most commonly used and important built-in classes in Unit
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/20)
 
 ## Supplemental Reading
 

@@ -126,7 +126,7 @@ class Program
 
 ## Post-Lecture Quiz
 
-[Quiz](link-to-quiz-app)
+[Quiz](https://ashy-plant-023e6671e.1.azurestaticapps.net/quiz/13)
 
 ## Supplemental Reading
 
