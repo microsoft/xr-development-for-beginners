@@ -120,4 +120,10 @@ Each time the player takes a shot, a new ball instantiates so that they can take
 
 ## Solution
 
-To view the project sample for this activity, download the [Unit 6 Assignment Project](LINK).
+To view the project sample for this activity, download the [Unit 6 Assignment](https://github.com/microsoft/xr-development-for-beginners/blob/main/Unit-6-Assignment.unitypackage) Unity package and import into Unity.
+
+**How to Import a Package into Unity**
+
+1. In top navigation menu, select **Assets > Import Package > Custom Package**.
+1. In the **Import Unity Package** window, select **All** then **Import**. 
+1. Once the package is imported, open the **Unit-6** scene.
