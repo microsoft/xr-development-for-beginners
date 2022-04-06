@@ -29,7 +29,9 @@ Using `ConsoleReadLine()`, modify the program you created to simulate game play.
 
 | Criteria | Exemplary | Adequate | Needs Improvement |
 | -------- | --------- | -------- | ----------------- |
-|          |           |          |                   |
+|Create game variables.          |All variables are created with proper syntax.           |Most variables are created with proper syntax.           |Incorrect syntax used to create a variable(s).                   |
+|Create a method with a `while` loop.          |Method and while loop created using proper syntax.           |Method or `while` loop has a syntax error.          |Method and `while` loop both have improper syntax.                   |
+|Use `ConsoleReadLine()` to simulate game play.          |Game simulation outputs accurate strings.           |Game simulation works but produces inaccurate string output.           |Code does not run due to errors.                   |
 
 ## Solution
 

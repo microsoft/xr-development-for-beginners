@@ -24,4 +24,6 @@ Interactions for the basketball game app will vary depending on whether you choo
 
 | Criteria | Exemplary | Adequate | Needs Improvement |
 | -------- | --------- | -------- | ----------------- |
-|          |           |          |                   |
+|Identify use cases for Hands and Motion Controllers modalities.          |Identifies use cases and impact of the modality.           |Identifies use case but lacks impact of the modality.          |Use case not relevant for modalities.                   |
+|Identify use cases for Hands Free modalities.           |Identifies use cases and impact of the modality.           |Identifies use case but lacks impact of the modality.          |Use case not relevant for modalities.                   |
+|Identify use cases for Gaze and Commit modalities.           |Identifies use cases and impact of the modality. |Identifies use case but lacks impact of the modality. |Use case not relevant for modalities.

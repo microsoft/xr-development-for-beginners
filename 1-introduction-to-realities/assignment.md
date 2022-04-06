@@ -24,14 +24,6 @@ If you've never tried out an augmented reality (AR) or virtual reality (VR) app,
 
 After trying out the app, review and answer the questions below. If you've already tried out an AR or VR app prior to starting this curriculum, we still encourage you to review and answer the questions below.
 
-1. TBD
-1. TBD
-1. TBD
-1. TBD
-1. TBD
-
-## Rubric
-
-| Criteria | Exemplary | Adequate | Needs Improvement |
-| -------- | --------- | -------- | ----------------- |
-|          |           |          |                   |
+1. What is something the experience does really well?
+1. How did the experience make you feel?
+1. If you could improve one thing about the app, what would it be?

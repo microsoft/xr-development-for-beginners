@@ -10,7 +10,7 @@ Complete each step of the design process below for the basketball game app.
 
 ### App Overview
 
-The basketball game app consists of a single player that shoots a basketball into a hoop. To take a shot, the player must first hold the ball into a hold position, lift the ball overhead, and then shoot the ball into the hoop. After the player takes a shot, the player is given the ball to take another shot. The player scores 1 point for each successful shot.
+The basketball game app consists of a single player that shoots a basketball into a hoop. To take a shot, the player must first hold the ball into a hold position, lift the ball overhead, and then shoot the ball into the hoop. After the player takes a shot, the player is given the ball to take another shot.
 
 ### Bodystorming
 Grab or create a few real-world objects to represent objects in the basketball game. We encourage you to get creative and rely on the supplies available to you. As you select your objects, write down its purpose in relation to the basketball game.
@@ -27,4 +27,6 @@ Create a storyboard that illustrates the app game play. You can create a storybo
 
 | Criteria | Exemplary | Adequate | Needs Improvement |
 | -------- | --------- | -------- | ----------------- |
-|          |           |          |                   |
+|Select and justify objects for bodystorming. |Rationale for selected objects is logical with respect to the app's purpose.           |Rationale is provided for objects, however, relevance is not clear for some objects.          |No rationale provided or rationale does not demonstrate relevance for selected objects.                   |
+|Act out game play using objects. |Identifies types of user interactions and various decision making paths.           |Identifies either one interaction or one decision making path.          |Lacks identification of a relevant interaction or decision making path.                   |
+|Create a storyboard that illustrates game play. |Illustrates an end-to-end experience for game play including various decision making paths.        |Illustrates an end-to-end experience for game play including one decision making path.          |End to end experience is not clear.                   |

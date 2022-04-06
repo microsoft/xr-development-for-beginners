@@ -23,4 +23,10 @@ You are encouraged to explore concepts not covered in this curriculum to aid in 
 
 | Criteria | Exemplary | Adequate | Needs Improvement |
 | -------- | --------- | -------- | ----------------- |
-|          |           |          |                   |
+|Create a functional app prototype for AR or VR.          |App functions well with no errors.           |App produces some errors but works.          |App is not functional.                   |
+|Identify app audience.          |Chosen audience is appropriate for the app.           |Chosen audience is appropriate for some parts of the app.          |Chosen audience is not appropriate for the app.                   |
+|Explanation for device decision.          |Chosen device is appropriate for the app.           |Chosen device is appropriate for some interactions but not all.          |Chosen device is not appropriate for the app.                   |
+|Explanation for development workflow.          |Workflow is clear and organized.           |Some parts of the workflow are organized but overall clarity is lacking.          |Development workflow is not organized.                   |
+|Create a storyboard for the app.          |Storyboard identifies a clear end-to-end experience which considers different decision making paths.           |Storyboard identifies an end-to-end experience with one decision making path.          |Storyboard does not identify a clear end-to-end experience.                   |
+|Identify design and environmental impact on decision making.          |Rationale for design and environmental impact takes into account various factors.           |Minimal consideration for design and environmental impact (3 or less factors considered).          |No consideration for design and environmental impact.                   |
+|Create documented scripts for app logic.          |Script is well documented with comments to explain end-to-end what the code does.           |Script contains some comments to explain logic but does not provide full picture.          |Scripts lack comments to explain what the code does.                   |

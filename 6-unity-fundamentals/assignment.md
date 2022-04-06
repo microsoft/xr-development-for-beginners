@@ -39,7 +39,8 @@ The scene needs to be grounded onto a flat surface so that the player has a surf
 1. In the **Hierarchy** window, right click and select **3D Object > Plane**. Name the object **Court**.
 
     ![A screenshot of Unity's 3D Object creation options.](../images/create-court.png)
-    ![A screenshot of a 3D Plane Object in Unity](/assets/img/unit-6/activity/create-court-2.png)
+
+    ![A screenshot of a 3D Plane Object in Unity](../images/create-court-2.png)
 
 1. Create and assign a **Material** to the **Court** GameObject. To create a new material, in the **Project** window, right click into the **Materials** folder and select **Create > Material**. Using the **Albedo** property, choose a color of your choice. Then, drag the material to the **Court** GameObject.
 
