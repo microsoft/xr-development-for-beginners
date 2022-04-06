@@ -585,7 +585,284 @@
       },
       {
         "id": 10,
-        "title": "Lesson 11: Gaze and Commit",
+        "title": "Lesson 11: Hello World",
+        "quiz": [
+          {
+            "questionText": "Which of the following is true about the C# programming language?",
+            "answerOptions": [
+              {
+                "answerText": "C# does not allow comments in code.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "C# is case sensitive.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "If you make a mistake when writing code, you have to delete everything and start over.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "String in C# should begin and end with...",
+            "answerOptions": [
+              {
+                "answerText": "Single quotes",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "The # sign",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Double quotes",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Comments in C# are not ignored when the code compiles.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Lesson 12: Variables and Data Types",
+        "quiz": [
+          {
+            "questionText": "What data type should be used when declaring a variable intended to store words?",
+            "answerOptions": [
+              {
+                "answerText": "Integer",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "String literal",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Boolean",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What is wrong with the following line of code: int value = 98.5;?",
+            "answerOptions": [
+              {
+                "answerText": "98.5 contains a decimal value and the int data type can only store a whole number.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "The line of code has no errors.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "The semicolon (;) is not required.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following is of the data type double?",
+            "answerOptions": [
+              {
+                "answerText": "47",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "100.00",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "3",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Lesson 13: Classes and Methods",
+        "quiz": [
+          {
+            "questionText": "Which of the following is true about methods?",
+            "answerOptions": [
+              {
+                "answerText": "Methods are the skeleton of an object and encompass classes, variables and functions.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Methods combine different elements to produce a specific result and are declared inside of a class.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Methods can store multiple types of data and are declared by writing: method.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following is false about classes?",
+            "answerOptions": [
+              {
+                "answerText": "A class can only be named MyClass.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "An instance of a class is called object.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "You can create methods and declare variables inside of a class.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What are the return types of the Main method?",
+            "answerOptions": [
+              {
+                "answerText": "void",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "string, bool, double or int",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "void or int",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Lesson 14: Conditional Statements",
+        "quiz": [
+          {
+            "questionText": "When are conditional statements used in programming?",
+            "answerOptions": [
+              {
+                "answerText": "When you're unsure of what to do next with code.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "When you want your program to behave differently depending on the input received.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "When trying to simplify the usage of classes and methods.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What are the conditional statements in C#?",
+            "answerOptions": [
+              {
+                "answerText": "if, if/else, else/if and switch",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "if/else and else/if",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "if, if/else, else/if and when",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Switch statements can contain 2 cases.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Lesson 15: Loops",
+        "quiz": [
+          {
+            "questionText": "What are the types of loops in C#",
+            "answerOptions": [
+              {
+                "answerText": "Infinite loop, continuous loop, conditional loop",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "While loop, for loop, do/while loop",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Interior loop, external loop, class loop, method loop",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What is the main difference between a while and a for loop?",
+            "answerOptions": [
+              {
+                "answerText": "A for loop will always have a defined number of repetitions, whereas a while loop may not.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "For loops are only usable inside of methods, whereas while loops can be used in classes.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A while loop can only be used once per code block, as opposed to for loops that can be used as many times as needed.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "When is a loop considered an infinite loop?",
+            "answerOptions": [
+              {
+                "answerText": "When a loop has no condition declared.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "When a loop's contents add more than a thousand numbers.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "When one of the pre-established conditions never becomes false.",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Lesson 16: Get Started with Unity",
         "quiz": [
           {
             "questionText": "What is the difference between the Gaze and Commit and Gaze and Dwell modalities?",
