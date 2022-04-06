@@ -1,12 +1,12 @@
-[![GitHub license](https://img.shields.io/github/license/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/microsoft/xr-development-for-beginners/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/xr-development-for-beginners/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/xr-development-for-beginners/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/xr-development-for-beginners/pulls/)
+[![GitHub license](https://img.shields.io/github/license/microsoft/xr-development-for-beginners.svg)](https://github.com/microsoft/xr-development-for-beginners/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/xr-development-for-beginners.svg)](https://GitHub.com/microsoft/xr-development-for-beginners/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/xr-development-for-beginners.svg)](https://GitHub.com/microsoft/xr-development-for-beginners/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/xr-development-for-beginners.svg)](https://GitHub.com/microsoft/xr-development-for-beginners/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/microsoft/xr-development-for-beginners/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/microsoft/xr-development-for-beginners/network/)
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/microsoft/xr-development-for-beginners/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/xr-development-for-beginners.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/microsoft/xr-development-for-beginners/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/xr-development-for-beginners.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/microsoft/xr-development-for-beginners/network/)
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/xr-development-for-beginners?style=social&label=Star&maxAge=2592000)](https://GitHub.com/microsoft/xr-development-for-beginners/stargazers/)
 
 
 # XR Development for Beginners
