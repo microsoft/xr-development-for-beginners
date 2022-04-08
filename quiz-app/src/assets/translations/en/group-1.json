@@ -931,7 +931,7 @@
             ]
           },
           {
-            "questionText": "Which of the follow is not a platform used fo XR development?",
+            "questionText": "Which of the follow is not a platform used for XR development?",
             "answerOptions": [
               {
                 "answerText": "ARKit",
