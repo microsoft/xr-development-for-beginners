@@ -130,7 +130,7 @@ Before the player can shoot the ball, they must hold the ball over their head. T
     private bool isBallFlying = false;
     ```
 
-    At the start of the game, the **basketball** is in the **Player** hands. Therefore, at the start of the game `BallInHands` is `true` and `isBallFlying` is `false`.
+    At the start of the game, the **basketball** is in the **Player** hands. Therefore, at the start of the game `ballInHands` is `true` and `isBallFlying` is `false`.
 
 1. Next, add a conditional statement that checks whether the ball is being held by the **Player**. If the ball is in their possession, then pressing the **space bar** on the keyboard will raise the ball to the **OverheadPos**. Add the following conditional statement below in the `Update()` method after the Player's movement controls:
 
@@ -175,7 +175,7 @@ Once the ball is placed above the player's head, the player can shoot the ball. 
     ```
 1. Within the `if (ballInHands)` statement modify the statement to include the `transform.LookAt()` method:
     ```csharp
-    if (BallInHands)
+    if (ballInHands)
     {
         //If it is, we will define the space key as the key to hold the ball over the character's head.
         if (Input.GetKey(KeyCode.Space))
@@ -198,7 +198,7 @@ Once the ball is placed above the player's head, the player can shoot the ball. 
     if (Input.GetKeyUp(KeyCode.Space))
     {
         //For the ball to be shot, it must leave the character hands, so we make the boolean variable false.
-        BallInHands = false;
+        ballInHands = false;
         //To begin shooting, we change the boolean flying to true (as the ball starts flying from the hands)
         isBallFlying = true;
         //And restart the time (so that the new series of events can be easily written)
@@ -287,9 +287,9 @@ After the player takes a shot, the **basketball** falls to the court and stays i
     private void OnTriggerEnter(Collider other)
     {
     //Conditional: If the ball isn't flying or has not been picked up yet, pick up the ball and activate its Rigidbody component's kinematics.
-    if (!BallInHands && !isBallFlying)
+    if (!ballInHands && !isBallFlying)
     {
-        BallInHands = true;
+        ballInHands = true;
         basketball.GetComponent<Rigidbody>().isKinematic = true;
     }
     ```
