@@ -126,7 +126,7 @@ Before the player can shoot the ball, they must hold the ball over their head. T
 
     ```csharp
     //Our game will start with the ball in the character's hand, thus the assigned value is true.
-    private bool BallInHands = true;
+    private bool ballInHands = true;
     private bool isBallFlying = false;
     ```
 
