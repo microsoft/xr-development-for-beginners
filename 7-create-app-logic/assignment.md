@@ -206,7 +206,7 @@ Once the ball is placed above the player's head, the player can shoot the ball. 
     }
     ```
 
-1. The next step is to add what happens once the **basketball** is shot. Once the **basketball** is shot, the program uses two vector points (`TargetPoint` and `OverHeadPos`) to determine the direction of the **basketball**. A new vector is created from these vectors and the **basketball** position is changed accordingly. Add the following conditional statement after the `if (isBallInHands)` statement.
+1. The next step is to add what happens once the **basketball** is shot. Once the **basketball** is shot, the program uses two vector points (`TargetPoint` and `OverHeadPos`) to determine the direction of the **basketball**. A new vector is created from these vectors and the **basketball** position is changed accordingly. Add the following conditional statement after the `if (ballInHands)` statement.
 
     ```csharp
     if (isBallFlying)
