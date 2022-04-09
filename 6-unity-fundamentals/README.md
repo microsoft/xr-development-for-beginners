@@ -14,6 +14,6 @@ This unit introduces the fundamentals of Unity development. Unity is a cross-pla
 - [Project Setup](/6-unity-fundamentals/3-project-setup/README.md)
 - [Scene Objects](/6-unity-fundamentals/4-scene-objects/README.md)
 
-## Assigment
+## Assignment
 
 [Create a Basketball Game App in Unity: Part 1](/6-unity-fundamentals/assignment.md)

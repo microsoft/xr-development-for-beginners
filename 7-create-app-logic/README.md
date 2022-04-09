@@ -16,6 +16,6 @@ This unit introduces how to use scripting to create logic for an app. This unit 
 - [User Interface](/7-create-app-logic/4-user-interface/README.md)
 - [Build and Deploy](/7-create-app-logic/5-build-and-deploy/README.md)
 
-## Assigment
+## Assignment
 
 [Create a Basketball Game App in Unity: Part 2](/7-create-app-logic/assignment.md)
