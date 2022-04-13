@@ -14,6 +14,6 @@ This unit explains the differences between each of the realities that XR encompa
 - [Devices](/1-introduction-to-realities/2-devices/README.md)
 - [Choosing a Device and Reality](/1-introduction-to-realities/3-choosing-a-device-and-reality/README.md)
 
-## Assigment
+## Assignment
 
 [Try and Review an XR App](/1-introduction-to-realities/assignment.md)

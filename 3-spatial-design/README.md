@@ -13,7 +13,7 @@ This unit explores the design process for creating XR apps and introduces the be
 - [Design and Prototype](/3-spatial-design/1-design-and-prototype/README.md)
 - [Environmental Awareness](/3-spatial-design/2-environmental-awareness/README.md)
 
-## Assigment
+## Assignment
 
 [Design a Basketball Game App](/3-spatial-design/assignment.md)
 

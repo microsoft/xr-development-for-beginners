@@ -18,6 +18,6 @@ This unit serves as an introduction to programming using the C# (C Sharp) langua
 - [Conditional Statements](/5-c-sharp-foundations/4-conditional-statements/README.md)
 - [Loops](/5-c-sharp-foundations/5-loops/README.md)
 
-## Assigment
+## Assignment
 
 [Create C# Logic for a Basketball Game App](/5-c-sharp-foundations/assignment.md)

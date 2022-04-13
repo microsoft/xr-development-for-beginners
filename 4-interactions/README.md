@@ -15,6 +15,6 @@ This unit introduces the basics of user-application interaction in XR. From hand
 - [Hands Free](/4-interactions/2-hands-free/README.md)
 - [Gaze and Commit](/4-interactions/3-gaze-and-commit/README.md)
 
-## Assigment
+## Assignment
 
 [Interactions for a Basketball Game App](/4-interactions/assignment.md)
