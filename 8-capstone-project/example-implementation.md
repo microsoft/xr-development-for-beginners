@@ -352,8 +352,8 @@ The placement indicator helps the user place a digital object in the real world 
 
 1. You can now run the application on your device and test it out!
 
-    ![Screenshot of Placement Indicator](../images/ar-indicator.png)
+    ![Screenshot of Placement Indicator](../images/ar-indicator.PNG)
 
-    ![Screenshot of Ball flying to Hoop](../images/ar-basketball.png)
+    ![Screenshot of Ball flying to Hoop](../images/ar-basketball.PNG)
 
     ![GIF of application running](../images/app-run.gif)
