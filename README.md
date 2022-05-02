@@ -173,6 +173,7 @@ This capstone project serves as an opportunity to demonstrate what you’ve lear
 **Assignment**
 
 [Capstone Project](/8-capstone-project/README.md)
+[Capstone Project Implementation Example](/8-capstone-project/example-implementation.md)
 
 ## Offline access
 
