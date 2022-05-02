@@ -39,7 +39,7 @@ This unit explains the differences between each of the realities that XR encompa
 - [Devices](/1-introduction-to-realities/2-devices/README.md)
 - [Choosing a Device and Reality](/1-introduction-to-realities/3-choosing-a-device-and-reality/README.md)
 
-**Assigment**
+**Assignment**
 
 [Try and Review an XR App](/1-introduction-to-realities/assignment.md)
 
@@ -75,7 +75,7 @@ This unit explores the design process for creating XR apps and introduces the be
 - [Design and Prototype](/3-spatial-design/1-design-and-prototype/README.md)
 - [Environmental Awareness](/3-spatial-design/2-environmental-awareness/README.md)
 
-**Assigment**
+**Assignment**
 
 [Design a Basketball Game App](/3-spatial-design/assignment.md)
 
@@ -96,7 +96,7 @@ This unit introduces the basics of user-application interaction in XR. From hand
 - [Hands Free](/4-interactions/2-hands-free/README.md)
 - [Gaze and Commit](/4-interactions/3-gaze-and-commit/README.md)
 
-**Assigment**
+**Assignment**
 
 [Interactions for a Basketball Game App](/4-interactions/assignment.md)
 
@@ -120,7 +120,7 @@ This unit serves as an introduction to programming using the C# (C Sharp) langua
 - [Conditional Statements](/5-c-sharp-foundations/4-conditional-statements/README.md)
 - [Loops](/5-c-sharp-foundations/5-loops/README.md)
 
-**Assigment**
+**Assignment**
 
 [Create C# Logic for a Basketball Game App](/5-c-sharp-foundations/assignment.md)
 
@@ -140,7 +140,7 @@ This unit introduces the fundamentals of Unity development. Unity is a cross-pla
 - [Project Setup](/6-unity-fundamentals/3-project-setup/README.md)
 - [Scene Objects](/6-unity-fundamentals/4-scene-objects/README.md)
 
-**Assigment**
+**Assignment**
 
 [Create a Basketball Game App in Unity: Part 1](/6-unity-fundamentals/assignment.md)
 
@@ -162,7 +162,7 @@ This unit introduces how to use scripting to create logic for an app. This unit 
 - [User Interface](/7-create-app-logic/4-user-interface/README.md)
 - [Build and Deploy](/7-create-app-logic/5-build-and-deploy/README.md)
 
-**Assigment**
+**Assignment**
 
 [Create a Basketball Game App in Unity: Part 2](/7-create-app-logic/assignment.md)
 
@@ -170,7 +170,7 @@ This unit introduces how to use scripting to create logic for an app. This unit 
 
 This capstone project serves as an opportunity to demonstrate what you’ve learned over the course of the curriculum. For your capstone project, develop an XR application to be deployed to your XR device of choice.
 
-**Assigment**
+**Assignment**
 
 [Capstone Project](/8-capstone-project/README.md)
 
