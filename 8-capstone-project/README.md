@@ -30,3 +30,10 @@ You are encouraged to explore concepts not covered in this curriculum to aid in 
 |Create a storyboard for the app.          |Storyboard identifies a clear end-to-end experience which considers different decision making paths.           |Storyboard identifies an end-to-end experience with one decision making path.          |Storyboard does not identify a clear end-to-end experience.                   |
 |Identify design and environmental impact on decision making.          |Rationale for design and environmental impact takes into account various factors.           |Minimal consideration for design and environmental impact (3 or less factors considered).          |No consideration for design and environmental impact.                   |
 |Create documented scripts for app logic.          |Script is well documented with comments to explain end-to-end what the code does.           |Script contains some comments to explain logic but does not provide full picture.          |Scripts lack comments to explain what the code does.                   |
+
+
+## Implementation Examples
+
+
+### Augmented Reality - iOS
+[**iOS AR Implementation Example**](/8-capstone-project/ios-ar-example.md)
