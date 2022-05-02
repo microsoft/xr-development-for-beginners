@@ -59,7 +59,11 @@ The placement indicator helps the user place a digital object in the real world 
 
 1. In the **Inspector Window** change the **Shader** property to **Unlit > Transparent**. Under **Texture** click on Select and choose the Target Image.
 
+    ![Screenshot of Unity's Inspector Window Shader and Texture](../images/placement-texture.png)
+
 1. Select the **Target** object on the **Hierarchy** window, and look at the **Inspector Window**. Under the **Mesh Renderer** tab, click on **Materials** and drag the **Indicator** material we just created into it.
+
+    ![Screenshot of a Material being Dragged into Mesh Renderer in Unity](../images/material-drag.png)
 
 1. Lastly, change the **Target** object's **Rotation** to **90, 0 , 0** under **Transform** in the **Inspector Window**.
 
@@ -310,10 +314,6 @@ The placement indicator helps the user place a digital object in the real world 
 
 1. We will add two components to the ball model before we convert it to prefab. The first one will be the Ball Manipulation Script. In the **Inspector Window**, click on **Add Component** and search for the **Ball Manipulation Script**. Once added, you will notice that a **Rigidbody** component is added as well.
 
-1. Drag the **AR Session Origin** and **AR Camera** Objects to the Script's **AR Cam** and **Session Origin** fields.
-
-    ![Screenshot of Unity's Inspector Window Script Component](../images/ball-script.png)
-
 1. The next component we will add is a Sphere Collider. Click on **Add Component** in the **Inspector Window** and select **Sphere Collider**. Change the **Radius** to **13**.
 
 1. For the Sphere Collider to behave properly, we will need to add a **Physics Material** to the component. Right click the **Materials** folder, and select **Create > Physic Material**. Rename it **Bouncing Ball**.
@@ -324,11 +324,13 @@ The placement indicator helps the user place a digital object in the real world 
 
     ![Screenshot of Unity's Sphere Collider Component](../images/sphere-collider.png)
 
-1. Now we can create *basketball* **prefab**. Drag the **basketball** object int othe **Prefabs** Folder and select **Create Prefab Variant**. Rename the prefab to **basketball** and delete the **basketball** game object from the **Hierarchy Window**.
+1. Now we can create *basketball* **prefab**. Drag the **basketball** object into the **Prefabs** Folder and select **Create Prefab Variant**. Rename the prefab to **basketball** and delete the **basketball** game object from the **Hierarchy Window**.
 
 ### Complete the Object Placement Script
 
 1. Now that the prefabs are created, we can drag them into the **Object Placement Script** fields in our **AR Session Origin** object. Select the **AR Session Origin** object in the hierarchy window, and drag the *basketball hoop prefab* into the **Hoop** field, the *basketball prefab* into the **Ball** field, and the **Placement Indicator** game object from the **Hierarchy Window** into the **Placement Indicator** field.
+
+    ![Screenshot of Unity's Script Object Fields being filled](../images/script-drag.png)
 
 ### Build and Deploy
 
