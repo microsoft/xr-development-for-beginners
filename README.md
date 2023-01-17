@@ -174,7 +174,16 @@ This capstone project serves as an opportunity to demonstrate what you’ve lear
 
 [Capstone Project](/8-capstone-project/README.md)
 
-
 ## Offline access
 
 You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine, and then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
+
+## Other Curricula
+
+Our team produces other curricula! Check out:
+
+- [Web Dev for Beginners](https://aka.ms/webdev-beginners)
+- [ML for Beginners](https://aka.ms/ml-beginners)
+- [Data Science for Beginners](https://aka.ms/datascience-beginners)
+- [AI for Beginners](https://aka.ms/ai-beginners)
+- [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
